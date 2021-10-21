@@ -13,7 +13,7 @@ From: [[Javascript 學習資源]]
 - 6. Conceptual Aside: Syntax Parsers, Execution Contexts, andLexical Environments
 - 7. Conceptual Aside: Name/Value Pairs and Objects
 - 8. Downloading Source Code for This Course
-- 9. The Global Environment and The Global Object
+- [[9. The Global Environment and The Global Object]]
 - [[10. The Execution Context - Creation and Hoisting]]
 - [[11. Conceptual Aside-Javascript and 'undefined']]
 - [[12. The Execution Context - Code Execution]]

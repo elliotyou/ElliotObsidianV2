@@ -2,6 +2,8 @@ From: 最上層
 
 ---
 
+[[DailyReport]]
+
 [[Javascript 資源區]]
 
 [[BoardGames]]
@@ -13,8 +15,6 @@ From: 最上層
 [[EnglishLearning]]
 
 [[Productivity]]
-
-[[DailyReport]]
 
 [[PeopleRegister]]
 

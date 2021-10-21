@@ -2,7 +2,6 @@ From:  [[Javascript 資源區]]
 
 ---
 
-[[Execution Stack]]
 [[Execution Context]]
 [[Creation Phase (Hoisting)]]
 [[型別強制轉換 (Coercion)]]
