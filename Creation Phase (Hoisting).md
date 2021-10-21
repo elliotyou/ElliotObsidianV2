@@ -2,9 +2,50 @@ From: [[Javascript 重要觀念]]
 
 ---
 
-<a href="https://imgur.com/PzGmEW4"><img src="https://i.imgur.com/PzGmEW4.jpg" title="source: imgur.com" width="600px" /></a>
+當你這樣寫的時候，b 會正常跑，a 會是 undefined
 
-逐行跑code之前，會先經過此階段 **Creation Phase (Hoisting)**
+```js
+b()  //Called b!
+console.log(a) //undefined
+
+var a = 'Hello World!'
+
+function b(){
+  console.log('Called b!')
+}
+```
+
+
+但如果你連下方的 var a 都沒寫，他跑起來的結果是 'a is not defined'
+
+```js
+b()   //Called b!
+console.log(a) //Error: a is not defined
+function b(){ 
+  console.log('Called b!') 
+}
+```
+
+
+有的人會說，因為 javascript 其實幫你把 code 改成下方這樣
+
+```js
+function b(){ 
+  console.log('Called b!') 
+}
+var a
+
+b() 
+console.log(a) 
+a = 'Hello World!' 
+```
+
+
+### Creation Phase (Hoisting)
+
+但實際上 javascript 並沒有去改動你的 code，他只是在逐行執行你的 code 之前，還有一個動作 **Creation Phase (Hoisting)**
+
+<a href="https://imgur.com/PzGmEW4"><img src="https://i.imgur.com/PzGmEW4.jpg" title="source: imgur.com" width="600px" /></a>
 
 在 Hoist 階段，Javascript 會先掃過所有你的宣告 ( variable / function )，然後先為它們保留一個 memory 位置
 

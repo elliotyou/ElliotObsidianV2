@@ -2,8 +2,10 @@ From:  [[Javascript 資源區]]
 
 ---
 
-[[型別強制轉換 (Coercion)]]
+[[Execution Stack]]
+[[Execution Context]]
 [[Creation Phase (Hoisting)]]
+[[型別強制轉換 (Coercion)]]
 [[資料型別(Data Type)]]
 [[const vs. let vs. var]]
 [[區塊 (Code Block)]]

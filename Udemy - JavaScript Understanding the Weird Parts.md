@@ -14,9 +14,9 @@ From: [[Javascript 學習資源]]
 - 7. Conceptual Aside: Name/Value Pairs and Objects
 - 8. Downloading Source Code for This Course
 - 9. The Global Environment and The Global Object
-- 10. The Execution Context - Creation and Hoisting
+- [[10. The Execution Context - Creation and Hoisting]]
 - [[11. Conceptual Aside-Javascript and 'undefined']]
-- 12. The Execution Context - Code Execution
+- [[12. The Execution Context - Code Execution]]
 - 13. Conceptual Aside: Single Threaded, Synchronous Execution
 - 14. Function Invocation and the Execution Stack
 - 15. Functions, Context, and Variable Environments
