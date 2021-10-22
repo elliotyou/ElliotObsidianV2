@@ -17,11 +17,11 @@ From: [[Javascript 學習資源]]
 - [[10. The Execution Context - Creation and Hoisting]]
 - [[11. Conceptual Aside-Javascript and 'undefined']]
 - [[12. The Execution Context - Code Execution]]
-- 13. Conceptual Aside: Single Threaded, Synchronous Execution
-- 14. Function Invocation and the Execution Stack
-- 15. Functions, Context, and Variable Environments
-- 16. The Scope Chain
-- 17. Scope, ES6, and let
+- [[13. Conceptual Aside - Single Threaded, Synchronous Execution]]
+- [[14. Function Invocation and the Execution Stack]]
+- [[15. Functions, Context, and Variable Environments]]
+- [[16. The Scope Chain]]
+- [[17. Scope, ES6, and let]]
 - 18. What About Asynchronous Callbacks?
 
 第 3 節： Types and Operators

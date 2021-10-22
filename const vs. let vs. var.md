@@ -52,7 +52,7 @@ console.log(a) //TypeError: Assignment to constant variable.
 
 ---
 
-### Case3. 在 [[區塊 (Code Block)]] 內宣告
+### Case3. 在 [[區塊 (Code Block) and Scope]] 內宣告
 var
 ```js
 if (true){

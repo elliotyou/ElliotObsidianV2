@@ -2,4 +2,11 @@ From: [[Javascript 重要觀念]]
 
 ---
 
-<a href="https://imgur.com/AvFHNsc"><img src="https://i.imgur.com/AvFHNsc.jpg" title="source: imgur.com" width="600px" /></a>
+結束 [[Creation Phase (Hoisting)]] 以後，程式會進到 **Execution Phase**
+
+### [[Execution Context]]
+
+### [[Global Execution Context]]
+
+### [[Execution Stack]]
+

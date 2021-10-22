@@ -17,11 +17,11 @@ From: [[2021-10-21 (四)]]
 1. Jiwei
 1. Marcus
 1. Crystal
+1. Arno
+1. Lisa
+1. John
 
 ---
 
-Arno
-Mars
-Lisa
-John
+1. Mars
 

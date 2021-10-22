@@ -41,8 +41,6 @@ a = 'Hello World!'
 ```
 
 
-### Creation Phase (Hoisting)
-
 但實際上 javascript 並沒有去改動你的 code，他只是在逐行執行你的 code 之前，還有一個動作 **Creation Phase (Hoisting)**
 
 <a href="https://imgur.com/PzGmEW4"><img src="https://i.imgur.com/PzGmEW4.jpg" title="source: imgur.com" width="600px" /></a>

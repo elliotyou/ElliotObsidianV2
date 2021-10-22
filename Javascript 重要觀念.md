@@ -2,12 +2,14 @@ From:  [[Javascript 資源區]]
 
 ---
 
-[[Execution Context]]
+[[Scope Chain and Outer Environment]]
+[[Syngle Thread and Synchronous]]
+[[Execution Phase]]
 [[Creation Phase (Hoisting)]]
 [[型別強制轉換 (Coercion)]]
 [[資料型別(Data Type)]]
 [[const vs. let vs. var]]
-[[區塊 (Code Block)]]
+[[區塊 (Code Block) and Scope]]
 Array 操作
 字串(String) 操作
 Javascript 常用縮寫語法 (hotkeys)
