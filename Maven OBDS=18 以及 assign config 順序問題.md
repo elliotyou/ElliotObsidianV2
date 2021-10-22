@@ -9,17 +9,18 @@ Subject: RE: Maven issues
 
 Hi Brian, 
 
-$OBDS=18 Timeout 問題:
+### $OBDS=18 Timeout 問題:
 
-AT$OBDS=18 ”有機會” 造成ADM在執行 task時timeout，但並非”總是” 如此
+AT$OBDS=18 ”有機會” 造成 ADM 在執行 task時 timeout，但並非”總是” 如此
 
 今天與Otis確認過如果單純將ADM上的等待時間改成20秒的話，影響還蠻大的，很多程序都會跟著拉長
+
 例如: `AT$INFO? AT$ADMS=? AT$OEMD=?` 的這個問題就會先等個20秒 (死等在那不做事的那種)，所以真的要改的話只能是針對性的改(在特定程序才等20秒)。
 這部分要再與 Otis 確認
 
 而如果我們保持原狀不改任何東西，其實對客人的影響並沒有很大，因為Failed task 在下一次機器連上 ADM 後再執行時就會成功 (因為第2次上來時 $OBDS 已經18)，而 ADM 本來也就會自動 retry 。因此對Maven來說他仍然是「assign task一次，然後等待完成」而已，並不會多做什麼動作。頂多在「ADM執行第2次以前」會看到任務是Failed狀態而已
 
-ADM FW task 和 Configuration task 順序問題:
+### ADM FW task 和 Configuration task 順序問題:
 
 如果 pending task 中同時存在 configuration task 和 firmware task，車機和ADM之間的行為如下：
 執行 firmware task → send $FOTA → 車機斷線 → 車機再次連回ADM → 
