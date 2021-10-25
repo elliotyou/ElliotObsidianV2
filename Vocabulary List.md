@@ -678,7 +678,7 @@ V0169 ravage  (v) --  often passive to cause great damage to something  嚴重�
 
 ---
 
-V0170 creep (v) [I usually + adv/prep]  creep/crept/crept --  to move slowly, quietly, and carefully, usually in order to avoid being noticed （通常指爲避免注意而）緩慢行進，悄悄移動，潛行 She turned off the light and crept through the door. 她關上燈，悄悄溜出門。  Someone was creeping around outside my window. 有人在我的窗戶外躡手躡腳地走動。 2021-08-12  11  --
+V0170 creep (v) \[I usually + adv/prep\]  creep/crept/crept --  to move slowly, quietly, and carefully, usually in order to avoid being noticed （通常指爲避免注意而）緩慢行進，悄悄移動，潛行 She turned off the light and crept through the door. 她關上燈，悄悄溜出門。  Someone was creeping around outside my window. 有人在我的窗戶外躡手躡腳地走動。 2021-08-12  11  --
 
 ---
 
@@ -758,7 +758,7 @@ V0189 acquisition (n) --  --  the process of getting something  獲得  The acqu
 
 ---
 
-V0190 perception  (n) --  --  a belief or opinion,  often held by many people and based on how things seem<br>  見解, 觀念, 看法  My _____ of the problem is quite different. 我對這個問題的理解則完全不同。 These photographs will affect people's perceptions of war.  這些照片會影響人們對戰爭的看法。  2021-09-26  6 9
+V0190 [[perception]]  (n)
 
 ---
 
@@ -10236,7 +10236,7 @@ V2558 misfortune  (n) [C or U]  /ˌmɪsˈfɔːr.tʃən/  --  bad luck, or an unl
 
 ---
 
-V2559 he is very jittery  (a) /ˈdʒɪt̬.ɚ.i/  informal  nervous 緊張不安的；心煩意亂的 He felt all jittery before the interview. 面試前他感到非常緊張。 --  2021-09-26  7 10
+V2559 he is very [[jittery]]  (a)
 
 ---
 
