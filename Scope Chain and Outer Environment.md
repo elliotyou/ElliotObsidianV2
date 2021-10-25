@@ -18,9 +18,11 @@ var myVar = 1
 a()  //1
 ```
    
-上面的結果，照之前的邏輯，應該要是 undefined 才對，因為 b() 的 Execution Context 中並沒有宣告過 myVar，但它卻會是 1
+上面的結果，直覺會是 undefined 才對，因為 b() 的 Execution Context 中並沒有宣告過 myVar
 
-因為 Javascript 有個機制，是他在當前 Execution Context 中找不到該 variable 的宣告時，會去找 Outer Environement 有沒有這個 vairable ，若的的話，就還是會抓來用
+但實際執行後的結果是 1
+
+因為 Javascript 有個 Scope Chain 的機制，是他在當前 Execution Context 中找不到該 variable 的宣告時，會去 **Outer Environement** 找有沒有這個 vairable ，若的的話，就還是會抓來用
 
 而以上述的範例來說，a 和 b 的outer environment 就是 global context
 

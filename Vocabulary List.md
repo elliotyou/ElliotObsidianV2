@@ -9942,7 +9942,9 @@ V2485 a John Doe  (n) /ˌdʒɑːn ˈdoʊ/ LAW US specialized  a name used in a l
 
 ---
 
-V2486 a hardened detective  (a)[before n] /ˈhɑːr.dənd/  --  used to describe someone who has had a lot of bad experiences and as a result no longer gets upset or shocked 久經鍛煉的 hardened detectives/reporters 老練的偵探／記者  --  2021-08-23  10  1
+
+V2486 a [[hardened]] detective  
+(a)[before n] /ˈhɑːr.dənd/  
 
 ---
 

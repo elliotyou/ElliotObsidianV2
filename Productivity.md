@@ -2,6 +2,8 @@ From: [[AllNotes]]
 
 ---
 
+[[演講技巧]]
+
 [[Obsidian]]
 
 [[如何批量得到 imgur 的 url]]

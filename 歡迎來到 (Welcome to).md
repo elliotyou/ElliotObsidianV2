@@ -5,7 +5,7 @@ From: [[BoardGames]]
 先講遊戲進行的方式：
 
 每一輪開始時都翻3張下來像下圖，各自寫完，再翻一輪，依此類推
-<a href="https://imgur.com/Z3Ci32U"><img src="https://i.imgur.com/Z3Ci32U.jpg" title="source: imgur.com" /></a>
+<a href="https://imgur.com/Z3Ci32U"><img src="https://i.imgur.com/Z3Ci32U.jpg" title="source: imgur.com" width="150px"/></a>
 
 一直做到觸發遊戲結束條件為止
 * 有人 n1,n2,n3 都做完
@@ -28,6 +28,8 @@ From: [[BoardGames]]
 如果有人完全不能蓋東西，則右下角要做記號
 
 ---
+
+[[2021-10-23 (六)]] Ben, Crystal, Lenny 離職前來我家聚一聚
 
 2021/09/27, Mon 自己在BGA玩，連玩10場以上，玩出心得來。
 * 每局剛開始的時候要先看目標卡的狀況，然後挑選其中2條街先開發就好，剩下的那條盡量不要動除非誘因夠強 (例如1號牌或15號牌，或是剛好可以放游泳池)。這樣街區才會比較集中的先被開發出來。
