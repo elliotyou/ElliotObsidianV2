@@ -1,6 +1,7 @@
 From: [[AllNotes]]
 
 ---
+[[Barista Coffee]]
 [[豆吧]]
 [[陽明山七星峰]]
 [[牛總涮牛肉]]
