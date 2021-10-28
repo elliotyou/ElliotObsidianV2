@@ -2,26 +2,27 @@ From: [[2021-10-21 (四)]]
 
 ---
 
-1. Elliot
-1. Katsu
-1. David
-1. Daniel
-1. Otis
-1. Amy
-1. Wendy
-1. Ying
-1. Eliza
-1. Eric
-1. Zoe
-1. Ricky
-1. Jiwei
-1. Marcus
-1. Crystal
-1. Arno
-1. Lisa
-1. John
+1. [x] Elliot
+1. [x] Katsu
+1. [x] David
+1. [x] Daniel
+1. [x] Arno
+1. [x] Otis
+1. [x] Amy
+1. [x] Wendy
+1. [x] Ying
+1. [x] Eric Ho
+1. [x] Ricky
+1. [x] Jiwei
+1. [x] Marcus
+1. [x] Crystal
+1. [x] Lisa
+1. [x] John
+2. [x] Evan
 
 ---
 
 1. Mars
+2. [ ] Eliza
+3. [x] Zoe
 
