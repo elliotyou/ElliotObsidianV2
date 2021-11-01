@@ -2,4 +2,6 @@ From: [[Frequently Used Words]]
 
 ---
 
-[[perception]]
+[[stringent]]
+
+severe

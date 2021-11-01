@@ -3082,7 +3082,7 @@ V0770 workforce (n) [C, + sing/pl verb] /ˈwɝːk.fɔːrs/ --  the group of peop
 
 ---
 
-V0771 adept (a) --  --  having a natural ability to do something that needs skill 擅長的；熟練的；內行的 She's very adept at dealing with the media.  她應付媒體遊刃有餘。 Tamsin Palmer gave a technically adept performance on the piano.  塔姆辛‧帕爾默演奏的鋼琴曲技法純熟。  2021-08-13  11  --
+V0771 [[adept]] (a)
 
 ---
 
@@ -7314,7 +7314,7 @@ V1828 in the course of  (n)[S]  /kɔːrs/ (DEVELOPMENT) the often gradual develo
 
 ---
 
-V1829 stringent (a) /ˈstrɪn.dʒənt/  (SEVERE)  having a very severe effect, or being extremely limiting  嚴重的；嚴格的，苛刻的 The most stringent laws in the world are useless unless there is the will to enforce them. 除非能夠堅持嚴格執法，否則即使是世界上最嚴苛的法律也毫無用處。  We need to introduce more stringent security measures such as identity cards. 我們需要採取更為嚴格的安全措施，例如發放身份識別卡。  2021-09-08  9 7
+V1829 [[stringent]] (a) 
 
 ---
 
@@ -8722,7 +8722,7 @@ V2180 impostor  (n)[C]  /ɪmˈpɑː.stɚ/  --  a person who pretends to be someo
 
 ---
 
-V2181 synopsis  (n)[C]  /sɪˈnɑːp.sɪs/ (SUMMARY) a short description of the contents of something such as a film or book （電影、書籍等的）概要，梗概，提要 --  --  2021-10-01  7 13
+V2181 [[synopsis]]  (n)[C]
 
 ---
 

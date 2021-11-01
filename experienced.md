@@ -2,5 +2,7 @@ From: [[Frequently Used Words]]
 
 ---
 
-同義字:
-- [[hardened]]
+
+[[hardened]] (a)
+
+[[adept]] (a)

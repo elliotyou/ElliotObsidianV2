@@ -20,6 +20,8 @@ From: [[BoardGames]]
 
 ---
 
+[[2021-10-30 (六)]] [[David 林口家]]
+
 [[2021-10-23 (六)]] Ben, Crystal, Lenny 離職前來我家聚一聚
 
 <a href="https://imgur.com/xbruGHF"><img src="https://i.imgur.com/xbruGHF.jpg" title="source: imgur.com" width="600px"/></a>

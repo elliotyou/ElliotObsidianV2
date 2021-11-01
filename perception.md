@@ -3,6 +3,10 @@ From: [[Vocabulary List]]
 
 ---
 
+V0190
+
+### perception (n)
+
  a belief or opinion,  often held by many people and based on how things seem
  見解, 觀念, 看法  
  

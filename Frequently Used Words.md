@@ -7,3 +7,7 @@ From: [[EnglishLearning]]
 [[opinion]] (n)
 
 [[nervous]] (a)
+
+[[serious]] (a)
+
+[[description]] (n)

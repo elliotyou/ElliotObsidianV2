@@ -2,4 +2,4 @@ From: [[Frequently Used Words]]
 
 ---
 
-[[perception]]
+[[summary]]
