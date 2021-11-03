@@ -5,7 +5,7 @@ From: [[LightMetrics]]
 [[2021-11-03 (三)]] 
 [[Paul's 10 samples upgrade]]
 
-```
+```g
 From: elliot.you (游鎮名 - MDT) 
 Sent: Wednesday, November 3, 2021 5:14 PM
 To: 'Adrit Chatterjee' <adrit.chatterjee@lightmetrics.co>
