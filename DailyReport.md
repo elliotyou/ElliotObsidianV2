@@ -4,8 +4,7 @@ From: [[AllNotes]]
 
 [[ArchivedDailyReport]]
 
-[[2021-11-04 (四)]] 
-2021-11-05 (五) Crystal Marcus 約吃飯
+[[2021-11-05 (五)]] Crystal Marcus 約吃飯
 2021-11-06 (六)  黃景昱看腳趾
 2021-11-07 (日) 健興約桌遊
 2021-11-08 (一)
