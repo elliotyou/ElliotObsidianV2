@@ -4,7 +4,7 @@ From: [[MDT新手筆記]]
 
 Vysor: 與 Android 溝通
 
-[[Load Base / Region 檔]]
+[[Load Base and Region File]]
 
 SD Card 插到機器
 
