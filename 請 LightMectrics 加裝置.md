@@ -1,9 +1,8 @@
-From: [[LightMetrics]]
+From: [[Paul's 10 samples upgrade]]
 
 ---
 
 [[2021-11-03 (三)]] 
-[[Paul's 10 samples upgrade]]
 
 ```g
 From: elliot.you (游鎮名 - MDT) 

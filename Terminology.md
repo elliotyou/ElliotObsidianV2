@@ -2,14 +2,26 @@ From: [[MDT新手筆記]]
 
 ---
 
-[[2021-11-04 (四)]]
-
-JUNGO
-emerging market
-drowsy driving 
-front
-in-cabin
-inward
+- JUNGO
+- emerging market
+- drowsy driving 
+- front
+- in-cabin
+- inward
+- MVNO
+- Super cap? 幾PHI？
+- shading
+- heatsink
+- FOV
+- molding
+- 拋光
+- 宜遠？
+- 麥拉(Mylar)?
+- Thermal Pad
+- surf-sight?競品？
+- 埋銅柱
+- SR ?
+- EVO
 
 ---
 

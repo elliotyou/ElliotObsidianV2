@@ -1,4 +1,4 @@
-From: [[MDT新手筆記]]
+From: [[Firmware Upgrade]]
 
 ---
 
