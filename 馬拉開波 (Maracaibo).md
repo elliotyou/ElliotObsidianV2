@@ -17,7 +17,7 @@ From: [[BoardGames]]
 
 [[2021-10-31 (日)]] 健興、小孟、裴裴
 
-
+<a href="https://imgur.com/38B1PA7"><img src="https://i.imgur.com/38B1PA7.jpg" title="source: imgur.com" width="600px"/></a>
 
 [[2021-10-28 (四)]] 健興、裴裴 在我內湖家
 

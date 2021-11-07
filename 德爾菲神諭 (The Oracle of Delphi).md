@@ -21,6 +21,11 @@ From: [[BoardGames]]
 ---
 
 [[2021-10-30 (六)]] [[David 林口家]]
+<a href="https://imgur.com/ZfbSwIk"><img src="https://i.imgur.com/ZfbSwIk.jpg" title="source: imgur.com" width="600px"/></a>
+
+<a href="https://imgur.com/Ri90L66"><img src="https://i.imgur.com/Ri90L66.jpg" title="source: imgur.com" width="600px"/></a>
+
+<a href="https://imgur.com/FAm5xKf"><img src="https://i.imgur.com/FAm5xKf.jpg" title="source: imgur.com" width="600px"/></a>
 
 [[2021-10-23 (六)]] Ben, Crystal, Lenny 離職前來我家聚一聚
 

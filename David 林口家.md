@@ -10,7 +10,7 @@ From: [[Restaurants]]
 10:10 和 [[Katsu]][[Daniel 陳龍]] 會合，開車前往 [[David.Lee]] 林口家: 新北市林口區興林二街15號
 
 - [[德爾菲神諭 (The Oracle of Delphi)]]
-- [[三國殺]]]
+- [[三國殺]]
 
 17:00 離開，解散
 

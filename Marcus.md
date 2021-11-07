@@ -2,16 +2,13 @@ From: [[PeopleRegister]]
 
 ---
 
-
-威潤同事
-
-RMA 工程師
-
 住後山碑
 
-開一台暗紅色Ford
+開一台暗紅色 Ford
 
 ---
+
+[[2021-11-05 (五)]] 吃飯 with Marcus, Crystal
 
 [[2021-10-30 (六)]] [[David 林口家]]
 

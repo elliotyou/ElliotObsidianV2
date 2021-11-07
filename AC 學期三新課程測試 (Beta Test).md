@@ -17,3 +17,14 @@ From: [[AlphaCamp 正規班]]
 [[2021-10-28 (四)]]
 
 [[2021-11-01 (一)]]
+
+[[2021-11-06 (六)]] 
+- U23
+- U24
+- U25
+- imgur client id: c63047ea04ff122
+- imgur client secret: a2ea87f248c5f8fbe0baa8bdfab3fe4f2a6a896d
+
+[[2021-11-07 (日)]]
+- U26
+- 作業 A1

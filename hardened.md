@@ -3,7 +3,6 @@ From: [[Vocabulary List]]
 
 ---
 
-V2486 
 ### a [[hardened]] detective  
 (a)[before n] 
 /ˈhɑːr.dənd/  

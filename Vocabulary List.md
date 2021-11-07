@@ -2706,7 +2706,7 @@ V0676 furnished (a) --  --  containing furniture or containing furniture of a pa
 
 ---
 
-V0677 drape (v) --  --  drape sth across, on, over, etc. sth - to put something such as cloth or a piece of clothing loosely over something 把…披／搭／蒙在…上  He draped his jacket over the back of the chair and sat down to eat. 他把夾克搭在椅子靠背上，然後坐下來吃飯。 She draped the scarf loosely around her shoulders. 她把圍巾鬆鬆地披在肩膀上。  2021-08-22  11  --
+V0677 [[drape]] (v)
 
 ---
 
@@ -2806,11 +2806,11 @@ V0701 depict  (v) [T] --  --  to represent or show something in a picture or sto
 
 ---
 
-V0702 demolish  (v) --  (DESTROY)-- to completely destroy a building, especially in order to use the land for something else  (建築物) 拆除, 拆毀  A number of houses were _____ed so that the supermarket could be built. 為了修建超級市場, 很多房屋被拆除了。 --  2021-08-09  11  --
+V0702 demolish  (v) --  (DESTROY)-- to completely destroy a building, especially in order to use the land for something else  (建築物) 拆除, 拆毀  A number of houses were demolished so that the supermarket could be built. 為了修建超級市場, 很多房屋被拆除了。 --  2021-08-09  11  --
 
 ---
 
-V0703 linger  (v) --  --  to take a long time to leave or disappear 停留、逗留、排迴  The smell from the fire still _____ed days later. 大火過後好幾天還能聞到燒焦的味道。 It's impossible to forget such horrific events. they _____ in the memory forever.  這樣恐怖的事件讓人難以忘記——會永遠留在人們的記憶中。  2021-09-07  11  --
+V0703 linger  (v) --  --  to take a long time to leave or disappear 停留、逗留、排迴  The smell from the fire still lingered days later. 大火過後好幾天還能聞到燒焦的味道。 It's impossible to forget such horrific events. they linger in the memory forever.  這樣恐怖的事件讓人難以忘記——會永遠留在人們的記憶中。  2021-09-07  11  --
 
 ---
 
@@ -2818,7 +2818,7 @@ V0704 sketchy information (a) --  (NOT DETAILED)  containing few details  簡略
 
 ---
 
-V0705 untidy  (a) --  --  not tidy  不整潔的, 邋遢的, 淩亂的  an _____ room淩亂的房間  She's really _____ at home.她在家真的很邋遢。  2021-08-22  11  --
+V0705 [[untidy]]  (a)
 
 ---
 
@@ -2846,7 +2846,7 @@ V0711 contaminate (v) [T] /kənˈtæm.ə.neɪt/  --  to make something less pure
 
 ---
 
-V0712 sideline  (v) --  --  to stop someone taking an active and important part in something  排擠, 讓他無法參加他平常在參與的活動 He was _____ed after criticizing the policy. 他對政策進行了批評以後便遭到了排擠。 --  2021-09-11  11  4
+V0712 sideline  (v) --  --  to stop someone taking an active and important part in something  排擠, 讓他無法參加他平常在參與的活動 He was sidelined after criticizing the policy. 他對政策進行了批評以後便遭到了排擠。 --  2021-09-11  11  4
 
 ---
 
@@ -5438,7 +5438,7 @@ V1359 to spark another debate (v) --  (CAUSE) to cause the start of something, e
 
 ---
 
-V1360 allowance (n) --  (AMOUNT GIVEN)  money that you are given regularly, especially to pay for a particular thing  （尤指為特定事項支付的）定期補貼，津貼 The perks of the job include a company pension and a generous travel allowance. 這份工作的特殊待遇包括公司退休金計劃和豐厚的差旅補助。 I couldn't have managed at college if I hadn't had an allowance from my parents. 要不是父母定期給我生活費，我沒法讀完大學。  2021-09-16  10  2
+V1360 [[allowance]] (n)
 
 ---
 
@@ -5518,7 +5518,7 @@ V1379 weigh (v) --  (CONSIDER)  to carefully consider, especially by comparing f
 
 ---
 
-V1380 subsidy (n) /ˈsʌb.sə.di/  --  money given as part of the cost of something, to help or encourage it to happen 補助金；津貼，補貼 The company received a substantial government subsidy. 公司得到大筆政府津貼。  The government is planning to abolish subsidies to farmers. 政府正計劃取消對農場主人的補貼。  2021-09-27  6 10
+V1380 [[subsidy]] (n) /ˈsʌb.sə.di/
 
 ---
 
@@ -5606,11 +5606,11 @@ V1401 cartel  (n) /kɑːrˈtel/  (UNION) a group of similar independent companie
 
 ---
 
-V1402 perk  (n) --  informal  an advantage or something extra, such as money or goods, that you are given because of your job （因工作而享有的）補貼，津貼，額外待遇 A company car and a mobile phone are some of the perks that come with the job. 這份工作的一些額外待遇包括配備公司車和行動電話。 --  2021-10-05  7 7
+V1402 [[perk]]  (n)
 
 ---
 
-V1403 pension (n) --  --  an amount of money paid regularly by the government or a private company to a person who does not work any more because they are too old or have become ill 養老金；退休金；撫恤金 US a government pension 政府養老金 He won't be able to draw (= receive) his pension until he's 65. 他要等到65歲以後才能領取養老金。 2021-10-03  8 8
+V1403 [[pension]] (n)
 
 ---
 
@@ -6946,7 +6946,7 @@ V1736 propaganda  (n)[U]  /ˌprɑː.pəˈɡæn.də/ mainly disapproving informat
 
 ---
 
-V1737 irate customers (a) /aɪˈreɪt/ (ANGRY) very angry  極其憤怒的，大怒的 We have received some irate phone calls from customers. 我們接到了一些顧客打來怒氣沖沖的電話。 --  2021-09-07  10  10
+V1737 [[irate customers]] (a)
 
 ---
 
@@ -9546,11 +9546,11 @@ V2386 sth is baffling (v)[T]  /ˈbæf.əl/ --  to cause someone to be completely
 
 ---
 
-V2387 child molestation (n)[U]  /ˌmɑː.lesˈteɪ.ʃən/  --  the act of molesting someone (= touching or attacking them in a sexual way) 騷擾  sexual molestation  We hope this case will lead to reforms in the way officials deal with molestation accusations.  2021-08-22  11  --
+V2387 child [[molestation]] (n)[U]
 
 ---
 
-V2388 gruesome stories  (a) /ˈɡruː.səm/ --  extremely unpleasant and shocking, and usually dealing with death or injury （通常用來描述死亡或者傷害）令人厭惡的，恐怖的，可怕的 The newspaper article included a gruesome description of the murder. 這篇報導中有一段對謀殺案血淋淋的描述。  --  2021-08-23  11  --
+V2388 [[gruesome stories]]  (a)
 
 ---
 
@@ -9570,7 +9570,7 @@ V2392 a model employee  --  --  --  --  模範員工  --  --  2021-08-23  11  --
 
 ---
 
-V2393 give them a lot of flak (n)[U]  /flæk/  informal (CRITICISM)  strong criticism or opposition  嚴厲批評；激烈反對 She took/caught some flak from her parents about her new dress. 她的新衣服遭到了父母的一通批評。  --  2021-08-23  11  --
+V2393 [[give them a lot of flak]] (n)[U]  /flæk/  
 
 ---
 
@@ -10204,7 +10204,7 @@ V2550 a vulgar joke (a) /ˈvʌl.ɡɚ/ disapproving (RUDE) rude and likely to ups
 
 ---
 
-V2551 he groped her (v)[T]  /ɡroʊp/ informal  to touch someone's body in order to get sexual pleasure, usually when the person does not like it 摸（某人）；（通常指）猥褻 He groped me as I was going to the bar. 我走向吧檯時，他暗中摸了我一下。  --  2021-09-06  8 6
+V2551 he [[groped]] her (v)[T]  /ɡroʊp/ 
 
 ---
 
@@ -10480,7 +10480,7 @@ V2619 an outburst (n)[C]  /ˈaʊt.bɝːst/  --  a sudden forceful expression of 
 
 ---
 
-V2620 he is grilled (v)[T]  /ɡrɪl/  (QUESTION)  to ask someone a lot of questions for a long time 盤問，審問 After being grilled by the police for two days, Johnson signed a confession. 被警方審問了兩天後，約翰遜在供狀上簽字認罪。 Her parents would grill her about where she'd been. 她父母會盤問她到哪裡去了。 2021-08-23  11  --
+V2620 [[he is grilled]] (v)[T]  /ɡrɪl/ 
 
 ---
 
@@ -11136,7 +11136,7 @@ V2783 a despicable person (a) /dɪˈspɪk.ə.bəl/ --  very unpleasant or bad, c
 
 ---
 
-V2784 molest  (v)[T]  /məˈlest/ (ATTACK SEXUALLY) to touch or attack someone in a sexual way against their wishes 調戲；猥褻；對…進行性騷擾 The girl had been molested frequently by her stepfather from the age of eight.從八歲起這個女孩就經常受到她繼父的性騷擾。 The man had previously been arrested several times for molesting young boys. 那名男子以前曾因猥褻男童多次被捕。  2021-10-03  7 4
+V2784 [[molest]]  (v)\[T\]  /məˈlest/ 
 
 ---
 
@@ -11580,7 +11580,7 @@ V2894 a disastrous conflict (a) /dɪˈzæs.trəs/ --  extremely bad or unsuccess
 
 ---
 
-V2895 a grisly assault  (a) /ˈɡrɪz.li/  --  extremely unpleasant, especially because death or blood is involved （尤指因涉及死亡或流血而）恐怖的，可怕的  The 55-year-old Canadian had suffered a grisly death. 這位55歲的加拿大人死得很慘。 a grisly murder 可怕的謀殺案  2021-09-27  6 9
+V2895 a [[grisly]] assault  (a) /ˈɡrɪz.li/ 
 
 ---
 
@@ -12396,7 +12396,7 @@ V3098 reenact the crime (n)[T]  /ˌriː.ɪˈnækt/ --  If you re-enact an event,
 
 ---
 
-V3099 dismay  (n)[U]  /dɪˈsmeɪ/ --  a feeling of unhappiness and disappointment 沮喪，灰心，失望  Aid workers were said to have been filled with dismay by the appalling conditions that the refugees were living in. 據說援助人員看到難民所處的惡劣生活環境時都感到非常難過。  The fans watched in/with dismay as their team lost 42–11. 球迷們鬱悶地看著自己的球隊以42比11的比分輸掉了比賽。  2021-09-27  6 2
+V3099 [[dismay]]  (n)[U]  /dɪˈsmeɪ/ 
 
 ---
 
@@ -12436,7 +12436,7 @@ V3108 a jumpsuit  (n)[C]  /ˈdʒʌmp.suːt/ --  a piece of clothing that covers 
 
 ---
 
-V3109 it shackles me  (v)[T]  /ˈʃæk.əl/ --  If you are shackled by something, it prevents you from doing what you want to do. 阻撓，束縛 The country is shackled by its own debts. 這個國家正爲其債務所困。  --  2021-10-06  4 2
+V3109 [[it shackles me]]  (v)\[T\]
 
 ---
 
