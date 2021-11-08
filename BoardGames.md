@@ -6,6 +6,7 @@ From: [[AllNotes]]
 
 ---
 
+[[奧爾良 (Orleans)]]
 [[文明帝國]]
 [[煤礦大亨卡牌版 (Coal Baron)]]
 [[大戰回憶錄 (Memoir 44)]]

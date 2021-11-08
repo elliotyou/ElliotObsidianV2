@@ -2,6 +2,16 @@ From: [[MiTAC Cases]]
 
 ---
 
+[[2021-11-04 (四)]] 16:00 
+- PMD review 一遍剛剛會議後最新的狀況
+- 感覺會議的主導者都是PMD？
+- PM 只抓 規格？
+- 感覺有些東西PM要定，有些又不用？
+- unit plan
+- CC 一掛人結果也不是全部都需要到？
+- 這裡的會議都不是 Fully Pay Attention 的那種？
+
+
 [[2021-11-04 (四)]] 14:30 with Steve
 
 File:
@@ -27,12 +37,3 @@ My Questions:
 - 一個產品的出現，有一部分靠客人意見，有一部分靠RD專業，不會100%靠RD或100%靠客人講。所以問到 LED 定義的時候會 CUE PAUL
 - meeting minute 都是 PMD 在發的？
 - 如果是出貨上的障礙，是PM去喬嗎？
-
-[[2021-11-04 (四)]] 16:00 
-- PMD review 一遍剛剛會議後最新的狀況
-- 感覺會議的主導者都是PMD？
-- PM 只抓 規格？
-- 感覺有些東西PM要定，有些又不用？
-- unit plan
-- CC 一掛人結果也不是全部都需要到？
-- 這裡的會議都不是 Fully Pay Attention 的那種？

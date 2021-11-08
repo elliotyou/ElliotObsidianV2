@@ -102,3 +102,51 @@ so...part of a mistery here is..well...first of all, this is a loaded gun, and w
 >an awful lot
 
 ### 05:39
+
+[[2021-11-08 (一)]]
+
+that's part of it, you know 
+we see this level of violence 
+then the next thing is, because the criticism that snow used real weapons sometimes in snow's videos, so was this really an accident?
+`in that` sense?
+> in that sense 
+
+do you get a pass because you're drunk? and playing games?
+it's a horrific tragedy 
+and i think that this is the unfortunate part of the story as there're so many unfortunate part `of` this story 
+but it may have been an accident the night ~~it just~~ `that this` happened but at the same time `if` this ~~is~~ `was like` a routine way 
+that they thought it would be a way to get their yayas have fun 
+>yayas
+
+essentially almost kind of you know move that `dopamine receptor` where there were kind of this excitment phase getting into`fight or flight` ~~off~~ `all for` the heck of it 
+>dopamine receptor
+>fight or flight
+>all for the heck of it
+
+at some point an accident like this was gonna happen
+i mean you're loading and unloading guns and you're mixing alcohol and drugs with that your judgement is impaired
+and there's impulse control issues that come with alcohol and drug  use 
+>at some point
+
+this was gonna happen. this was an accident waiting to happen anna
+`no good could come of it`
+> no good could come of it
+
+so according to the `harris` county `sheriff's` office 
+at some points, they were all watching the batman TV show called `Gotham`, and snow said "hey, I've got a gun like the one that the penguin character is using" so then snow brought out a ~~glog hand gun~~ `glock handgun` and clamed that the gun was not loaded 
+> a glock handgun
+
+they are messing aroung for hours they told police with the gun so to miracle no body was not injured 
+priorer to that `if` this ~~the~~ `is` true version of the events 
+because part of the problem is , some of the witnesses are claiming including snow, that they really don't remember
+because they were impaired
+which is both convenient and maybe also true. i do not know , ok , so then, um...
+when snow points the gun , snow tells police, it was Helen who asked that she put the gun to ~~the~~ `her` head ~~that will~~ `and` be shot like the show
+so they were watching. 
+> get shot in the head
+
+i don't know if that's true, but the sad thing is that Helen was shot in `the` head is sent to the hospital immediately via ~~an~~ ambulence is put ~~online~~ `on life` support and then dies about 2 days later 
+it's a horrific, horrfic tragedy. 
+> is put on life support
+
+### 08:19 
