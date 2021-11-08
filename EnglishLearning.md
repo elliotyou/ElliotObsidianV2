@@ -11,4 +11,8 @@ From: [[AllNotes]]
 [[Frequently Used Words]]
 
 in terms of
-
+off the shelf 有現貨
+Latitude
+Longitude
+Altitude
+Apple to Apple

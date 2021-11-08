@@ -4,11 +4,9 @@ From: [[MDT新手筆記]]
 
 [[CDR General Knowledge]]
 
-[[Firmware Upgrade]]
-
 [[LightMetrics]]
 
-[[CDR LED status]]
+
 
 ---
 
