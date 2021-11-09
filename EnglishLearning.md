@@ -16,3 +16,5 @@ Latitude
 Longitude
 Altitude
 Apple to Apple
+green light: 拍板定案
+Sentry

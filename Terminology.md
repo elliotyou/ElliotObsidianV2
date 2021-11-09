@@ -3,87 +3,52 @@ From: [[MDT新手筆記]]
 ---
 
 [[2021-11-08 (一)]]
-- JJKeller (weekly ppt)
-- MiDM (weekly ppt)
-- TSP Dashboard (weekly ppt)
-- off the shelf (weekly ppt)
-- EROAD Limited (weekly ppt)
-- Green Light on Nov./E (weekly ppt)
+- TSP: `Third-party Service Providers` ?
+- Clean Installation: `是指出貨時只灌 image ，剩下的 region 讓客人自己載的意思`？ 只有 OBD Cable 的就是 clean installation
 - GL Delay (weekly ppt)
 - QSG Sample Shipped (weekly ppt)
 - FG Ready Time (weekly ppt)
-- Power Rationing (weekly ppt)
-- Lead Management Meeting (weekly ppt)
 - Final GPA (weekly ppt)
-- Dublin (weekly ppt)
-- MiVue Cloud (weekly ppt)
-- FCST  (weekly ppt)
-- FleetComplete  (weekly ppt)
-- SURECAM  (weekly ppt)
-- Pedigree, OneView  (weekly ppt)
-- VisionTrack  (weekly ppt)
-- Kynection  (weekly ppt)
-- AnyConnect  (weekly ppt)
-- COBLI  (weekly ppt)
-- LocaNav  (weekly ppt)
-- ZONAR  (weekly ppt)
-- iCam Video Telematics  (weekly ppt)
-- LOCKTON  (weekly ppt)
-- Project Code: N701  (weekly ppt)
-- 銓鼎科技  (weekly ppt)
-- MTK  (weekly ppt)
-- 神基樣品  (weekly ppt)
-- T-BOX  (weekly ppt)
-- Gemini LITE  (weekly ppt)
-- Gemini Pro  (weekly ppt)
-- GSQ  (weekly ppt)
-- Scrap Fee  (weekly ppt)
-- Cortex  (weekly ppt)
-- SOLO 產品？[[MDT Weekly]]
-- NO Certification  (weekly ppt)
-- FirstNet  (weekly ppt)
-- MiVueCloud  (weekly ppt)
-- Clean Installation  (weekly ppt)
-- EROAD R20  (weekly ppt)
+- SOLO 產品？
 - Spireon  (weekly ppt)
-- Master / God / Fleet Mode of VisionMax  (weekly ppt)
-- AR0237 RGBIR Camera  (weekly ppt)
-- 
-
+- SSRF
+- 蕭邦？
+- EVO
+- Premium Cable
 
 [[2021-11-01 (一)]]
-- [[LightMetrics]]
-- ADAS
-- [[DMS]]
-- GeoTab
-- VisionMax
-- Thumbnail: 點擊之前的縮小圖
-- Gemini
-- Gemini SE
-- [[JUNGO]]
-- emerging market
-- drowsy driving 
-- front
-- in-cabin
-- inward
-- MVNO
-- Super cap? 幾PHI？
-- shading
-- heatsink
-- FOV
-- molding
-- 拋光
 - 宜遠？
-- 麥拉(Mylar)?
-- Thermal Pad
-- SurfSight
-- 埋銅柱
 - SR ?
-- EVO
-- [[Orbcomm]]
-- StreamMax
-- IntelliVision
-
 
 ---
 
+- Scrap Cost: 報廢成本
+- FCST: forcast
+- FirstNet: 美國緊急救難網路管理局
+- Project Code: N701
+- SuperCap: Supercapacitor 
+- 埋銅柱
+- FOV
+- Molding
+- 拋光
+- Heatsink
+- [[ADAS]]
+- [[DMS]]
+- MVNO: Mobile Virtual Network Operator
+- Thumbnail: 點擊之前的縮小圖
+- Drowsy driving 
+- APBC 車電事業中心
+- Power Rationing, Energy Rationing: 能源配給, 強制節能的措施
+- Lead Management Meeting:潜在客户管理
+- Dublin: 愛爾蘭首都
+- Overhead cost: 間接成本
+- [[哨兵模式]]
+- Thermal Pad
+- Shading
+- front, outward
+- in-cabin, inward
+- [[麥拉(Mylar)]]
+- AR0237 RGBIR Camera
+- Emerging market: 新興市場
+- [[NO Certification]]
+- [[Project - 神基樣品]]
