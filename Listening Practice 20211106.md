@@ -80,7 +80,7 @@ ok now let's talk about the crime and people involved here.
 
 this `tick-tocker` went by serveral names and several handles 
 `Marianne`, Oliver Snow, is 23 years old, and goes by, and uses the ~~day~~  `they them` pronounced 
-Snow went by `Yandere Freak` that's one of the names and also by the name of snow the salt queen 
+Snow went by `Yandere Freak` that's one of the names and also by the name of snowthesaltqueen 
 > handles
 > go by
 
@@ -137,7 +137,9 @@ at some points, they were all watching the batman TV show called `Gotham`, and s
 > a glock handgun
 
 they are messing aroung for hours they told police with the gun so to miracle no body was not injured 
-priorer to that `if` this ~~the~~ `is` true version of the events 
+prior to that `if` this ~~the~~ `is` true version of the events 
+> prior to that 
+
 because part of the problem is , some of the witnesses are claiming including snow, that they really don't remember
 because they were impaired
 which is both convenient and maybe also true. i do not know , ok , so then, um...
@@ -150,3 +152,44 @@ it's a horrific, horrfic tragedy.
 > is put on life support
 
 ### 08:19 
+
+[連結](https://youtu.be/64s7txBMUQ0?t=481)
+
+You know how I say i don't understand how this happened in January . We only find out about it in september now everyone is talking about it in October.
+Here is the part that gets me. Ok so Helen, this young women with the rest of her life ahead of her, the college, `oberlin` college sends an email and `notifies` all the students that she passed 
+
+but the university doesn't say how `she's` died
+so many of her friends , and fellow classmates believe that `she's` killed herself
+so that's kind of the narrative that `are` operating under 
+> be operating under
+
+then what we don't know is that apparently snow is indicted on second degree felony manslaughter charges in April
+
+so this happens in January, someone dies ~~with~~  `during` this playing around 
+and it's nowhere on social media. `like` how is that possible
+how is ~~that~~ `it` kept such a secret
+
+it's amasing. ~~it's~~ `especially` because as you mentioned, anna, she has 1.6 million follwers 
+and snow ~~is~~ `was` very active on social media, this is not ~~someone~~ `somebody` who only posted once ~~a~~ `every` week or ~~in~~ two weeks.
+
+Snow is always on social media, and continuing to ~~post~~ `pose` in their costplay costume and essentially 
+still ~~reinteracting~~ `reenacting` some of these seemingly dangerous ~~ex~~ `acts` on social media ~~across all~~ `all across` this time
+>pose
+>reenacting
+>all across this time
+
+yeah, there was a lot of criticism that escpecially once this news came out that snow had done some videos where ~~there~~ `what` appears to be like , fake blood stains behind her, and there was some violence. `and you're like` how in the world can you do that if you are the one who allegedly pull the trigger and led to someone's death 
+and you've now been charged with this
+that's something that is perplexing here.
+
+here's what also is intresting. she is indicted, right? and in April she isn't indicted she is free on bond but there're conditions 
+> free on bond
+> conditions
+
+she has curfews . snow has curfews, and snows has conditions about not only the time that snow has to be home, but also drug testing and `a` few other restrictions 
+~~it~~ turns out that snow has reportedly violated those conditions by going to an ~~animate~~ `anime` convention in Houston in July 
+
+so apparently that's probally when things start to become maybe more public , because there're more and more of court appearences and judgements to against to.
+
+### 11:18
+[連結](https://youtu.be/64s7txBMUQ0?t=677)
