@@ -7,4 +7,3 @@ From: [[MiTAC Customers]]
 做保險的 Agent
 
 business model 不明朗
-

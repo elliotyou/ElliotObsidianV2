@@ -3,7 +3,8 @@ From: [[神達數位]]
 ---
 
 [[PM Weekly]]
-[[MDT Weekly]]
+[[VT Team Weekly]]
+[[CDR Stakeholder Weekly]]
 [[Australia Monthly Sync]]
 
 [[Project - MiVue Cloud]]

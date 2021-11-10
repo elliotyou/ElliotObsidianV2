@@ -8,7 +8,7 @@ From: [[神達數位]]
 
 [[Terminology]]
 
-[[BergInsights_VideoTelematics.pdf]]
+[[Berginsights 市場調查資料]]
 
 [[How to Ship Samples]]
 

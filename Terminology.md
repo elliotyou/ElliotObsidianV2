@@ -2,6 +2,11 @@ From: [[MDT新手筆記]]
 
 ---
 
+[[2021-11-10 (三)]]
+- CDGR
+- Dual Conversion Gain (DCG)
+- 高通
+
 [[2021-11-08 (一)]]
 - TSP: `Third-party Service Providers` ?
 - Clean Installation: `是指出貨時只灌 image ，剩下的 region 讓客人自己載的意思`？ 只有 OBD Cable 的就是 clean installation

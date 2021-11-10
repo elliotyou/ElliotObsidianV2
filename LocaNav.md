@@ -10,6 +10,9 @@ From: [[MiTAC Customers]]
 
 StreamMax, Streaming IOT
 
-願意跟我們簽 5000 的 commitment
+願意跟我們簽 5000台 的 commitment
 
 10K量 大概是 7000萬 營業額
+
+---
+
