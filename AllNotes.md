@@ -26,6 +26,7 @@ From: 最上層
 ### Recreation: 
  - [[BoardGames]]
  - [[Movies]]
+ - [[Mathematics]]
 
 ### Others:
 - [[UnOragnized]]
