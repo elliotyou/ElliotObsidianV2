@@ -20,3 +20,7 @@ green light: 拍板定案
 Sentry
 leadership 高層
 albeit
+Apart from
+to name a few
+bear in mind
+

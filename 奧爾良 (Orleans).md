@@ -2,7 +2,7 @@ From: [[BoardGames]]
 
 ---
 
-[[2021-11-07 (日)]] 健興、裴裴
+[[2021-11-07 (日)]] [[健興]]、裴裴
 
 <a href="https://imgur.com/tj7uINW"><img src="https://i.imgur.com/tj7uINW.jpg" title="source: imgur.com" width="600px"/></a>
 

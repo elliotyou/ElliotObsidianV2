@@ -2,8 +2,18 @@ From: [[MDT新手筆記]]
 
 ---
 
+
+
+
+[[2021-11-11 (四)]]
+- M&A: Merger and Acquisition
+- 做 OQA?
+- 寶馬頭？
+
+
 [[2021-11-10 (三)]]
 - CDGR
+- CAGR (Compound Anual Growth Rate)
 - Dual Conversion Gain (DCG)
 - 高通
 
@@ -57,3 +67,4 @@ From: [[MDT新手筆記]]
 - Emerging market: 新興市場
 - [[NO Certification]]
 - [[Project - 神基樣品]]
+- [[Mini DP]]
