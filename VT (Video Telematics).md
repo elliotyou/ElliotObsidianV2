@@ -19,3 +19,6 @@ Level3: multiple cam + SIM + backend + AI
 
 為了節省資源，會是 BY EVENT 上傳 VIDEO，而不是全時錄影然後全部都上傳
 有了 VIDEO 也可以再做到 ADAS 的效果，即時提醒司機自己沒注意到的狀況，caoching
+
+VT Provider 的硬體部分，領導品牌會自己做，而其它品牌也很多是找代工。也有場商提供ODM，根據客人需求提供硬體。就算有自己的工廠，主要還是收集了別人的硬體以後來組裝
+

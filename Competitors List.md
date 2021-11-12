@@ -6,6 +6,7 @@ VT Competitors
 - [[Lytx]]
 - [[SmartDrive Systems]]
 - [[Streamax]]
+- [[D-TEG]]
 - SurfSight
 - IntelliVision
 
