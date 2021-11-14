@@ -7,8 +7,6 @@ https://master.lightmetrics.co/home
 
 [[請 LightMectrics 加裝置]]
 
-[[確認 LM Portal 看得到 Live View]]
-
 所有的鏡頭，都是 720P 10FPS
 
 Manual:

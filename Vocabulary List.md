@@ -4042,7 +4042,7 @@ V1010 wind or wind up (v) --  --  If you wind (up) a clock or watch, you cause i
 
 ---
 
-V1011 converse  (a) --  formal  opposite  相反的，逆的  a converse effect/opinion/argument 相反的效果／觀點／論點  --  2021-08-29  11  2
+V1011 [[converse]]  (a)
 
 ---
 
@@ -4550,7 +4550,7 @@ V1137 aggression  (n) --  --  spoken or physical behaviour that is threatening o
 
 ---
 
-V1138 censure (v) --  formal(CRITICIZE) strong criticism or disapproval 指責, 斥責, 譴責  His dishonest behaviour came under severe censure.  他的不誠實行為受到了嚴厲指責。 --  2021-08-30  11  3
+V1138 [[censure]] (v)
 
 ---
 
@@ -8326,7 +8326,7 @@ V2081 genetically modified  (a) /dʒəˌnet̬.ɪ.kəl.i ˈmɑː.də.faɪd/ --  A
 
 ---
 
-V2082 rail against  (v)[I]  /reɪl/  formal  to complain angrily 譴責；抱怨 He railed against/at the injustices of the system. 他強烈譴責該制度的不公正。  He(Trump) took the opportunity to rail against both protesters and statues being torn down across America. 他藉機批評抗議人士以及美國各地的雕像被推倒。 2021-08-30  11  4
+V2082 [[rail against]]  (v)\[I\] 
 
 ---
 
@@ -8386,7 +8386,7 @@ V2096 loot  (v) [I or T]  /luːt/  (ROBBERY) (usually of large numbers of people
 
 ---
 
-V2097 dishonor  (v)[T]  /dɪˈsɑː.nɚ/ (SHAME) to cause someone or something to lose respect 使丟臉，使蒙受恥辱；羞辱  He felt that he had dishonoured his country. 他覺得自己給國家丟了臉。 The bad behavior of the student dishonored his school. 那名學生的不良行為讓學校蒙羞。  2021-08-29  11  2
+V2097 [[dishonor]]  (v)\[T\]
 
 ---
 
@@ -9070,7 +9070,7 @@ V2267 non-sectarian (a) --  --  not connected with any specific religion  不與
 
 ---
 
-V2268 lay waste the country (phr) --  (DESTROY) to completely destroy something 完全摧毀，徹底搗毀 The bomb laid the city centre to waste. 炸彈將市中心夷爲平地。 --  2021-09-13  10  4
+V2268 [[lay waste the country]]
 
 ---
 
@@ -9150,7 +9150,7 @@ V2287 cranial (a) /ˈkreɪ.ni.əl/ ANATOMY specialized of the skull  顱的，�
 
 ---
 
-V2288 grapple with sth  (v)[I]  /ˈɡræp.əl/  (DEAL WITH) to try to deal with or understand a difficult problem or subject  盡力解決；設法對付；盡量克服  Today, many Americans are still grappling with the issue of race. 今天，仍有許多美國人還沒有克服種族歧視的觀念。 The police force is grappling with a sudden rise in crime. 警方努力因應突然增加的犯罪。 2021-09-24  9 5
+V2288 [[grapple with sth]]  (v)\[I\] 
 
 ---
 
@@ -10308,7 +10308,7 @@ V2576 a cog in a/the machine  --  --  disapproving  a member of a large organiza
 
 ---
 
-V2577 a resourceful person  (a) /rɪˈsɔːr.sfəl/  approving skilled at solving problems and making decisions on your own  機敏的；足智多謀的 She's a very resourceful manager. 她是一位非常有智謀的經理。 --  2021-08-30  11  2
+V2577 [[a resourceful person]]  (a)
 
 ---
 
@@ -10452,7 +10452,7 @@ V2612 tug at the heartstrings --  /ˈhɑːrt.strɪŋz/ --  to cause strong feeli
 
 ---
 
-V2613 revel in sth  --  /ˈrev.əl/ literary  to get great pleasure from a situation or an activity 陶醉於；沉湎於；縱情於 She's revelling in her newly found freedom. 她縱情享受著剛剛得來的自由生活。  He revelled in his role as team manager. 他從擔任球隊教練這個工作中獲得了很大樂趣。  2021-09-24  9 2
+V2613 [[revel in sth]]
 
 ---
 
@@ -12096,7 +12096,7 @@ V3023 a searing pain  (a) /ˈsɪr.ɪŋ/ --  If something, such as a feeling or t
 
 ---
 
-V3024 a life full of angst  (n)[U]  /ɑːŋst/ --  strong worry and unhappiness, especially about personal problems  （尤指對私人問題的）焦慮，煩憂 All my children went through a period of late-adolescent angst. 我所有的孩子在青春期後期都經歷過一段焦慮不安的時光。  --  2021-09-13  8 3
+V3024 [[a life full of angst]]  (n)\[U\]
 
 ---
 

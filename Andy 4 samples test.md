@@ -1,4 +1,4 @@
-From: [[MiTAC Projects]]
+[[On-going Tasks]]
 
 ---
 
@@ -12,7 +12,7 @@ From: [[MiTAC Projects]]
  - 原來這個源頭是 LM 介紹，我們只是提供硬體給他們的客人而已
  - 確認寄給 Vecima 的機器
 	  - 861451040670088
- - [[Format SD Card]]
+ - [[How to Format SD Card]]
  - SD Card 插到機器中
  - 填表
  - 發信告知業務 Andy
@@ -26,7 +26,7 @@ From: [[MiTAC Projects]]
 - 確認OK給 Advantage 的機器: 
 	- 861451040672704
 	- 861451040647805
-- [[Format SD Card]]
+- [[How to Format SD Card]]
 - SD Card 插到機器中
 - 填表
 - 告知業務 Paul

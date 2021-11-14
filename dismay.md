@@ -1,5 +1,5 @@
 From: [[Vocabulary List]]
-關聯字: [[unhappyness]]
+關聯字: [[unhappiness, worry]]
 
 ---
 

@@ -6,6 +6,8 @@ From: [[AllNotes]]
 
 ---
 
+[[聖瓦西里大教堂 (The Red Cathedral)]]
+[[玻璃之路  (Glass Road)]]
 [[奧爾良 (Orleans)]]
 [[文明帝國]]
 [[煤礦大亨卡牌版 (Coal Baron)]]
