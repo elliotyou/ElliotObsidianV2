@@ -26,13 +26,17 @@
 ### Mio
 - [[請 MiVueCloud RD 加裝置]]
 - 登記 IMEI + SN + Wifi Mac (先將 WIFI 打開，再去 about this phone 裡找就有)
+- 若確定要IV，要先 [[跟IV窗口申請AI Key]]
 - Upgrade Base
 - Upgrade Region
 - Upgrade ScreenShare App
 - Upgrade Gemini_IV App
 - 確認 RD (Spencer) 已上傳
+- [[請 RD Spencer 上傳 IV 所回傳的 Key]]
 - Generate and Scan QRcode 註冊
 - 放到窗戶旁，等待取得 Token + GPS 註冊成功
+- 確認 MiDM 執行到對的 URL
+- 確認 MiDM 已 import 該機器，並且看得到該機器上線
 - 與 David 路測，確定在 PORTAL 上收到，確定各種 Events 有觸發成功
 - Update 資訊到 [Sample IMEI](https://docs.google.com/spreadsheets/d/1b-vdVmNpRJRRcMJKQ6YLuKp7PbTOslTs/edit?usp=sharing&ouid=112782493369308983971&rtpof=true&sd=true)
 - 盤點工具，確認沒有卡片插在機器上

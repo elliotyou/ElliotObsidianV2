@@ -3,8 +3,10 @@
 ---
 
 Active Tasks:
-- [[小Paul 2 samples for a  new customer]]
-- [[新人評核表]]
+- [[IndieMicro, GeoTab]] (Re: end customer info) → book meeting room
+- [[Sample, 奇美車電, Gemini]] (MioEYE sample) → 要路測
+- [[Sample, SureCame, Gemini]]
+- [[新人評核表]] (Re: 請完成試用期工作目標之設定)
 - [[Berginsights 市場調查資料整理]]
 
 ---
@@ -26,4 +28,5 @@ Inactive Tasks
 - [[Project - Gemini SE, Gemini]]
 - [[Project - 神基樣品]]
 - [[Surecam 15 samples]]
+- [[小Paul 2 samples for a  new customer]]
 

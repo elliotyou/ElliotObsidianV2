@@ -2,6 +2,7 @@ From: [[神達數位]]
 
 ---
 
+- [[NO Certificate 相關解釋]]
 - [[哨兵模式]]
 - Thermal Pad
 - Shading
@@ -9,7 +10,7 @@ From: [[神達數位]]
 - in-cabin, inward
 - Scrap Cost: 報廢成本
 - FCST: forcast
-- FirstNet: 美國緊急救難網路管理局
+- [[FirstNet]]
 - Project Code: N701
 - SuperCap: Supercapacitor 
 - Power Rationing, Energy Rationing: 能源配給, 強制節能的措施
