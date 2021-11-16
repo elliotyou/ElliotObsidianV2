@@ -2,6 +2,8 @@ From: [[AllNotes]]
 
 ---
 
+[[Learning How to Learn, 學習技巧]]
+
 [[演講技巧]]
 
 [[Obsidian]]

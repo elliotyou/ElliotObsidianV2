@@ -3,6 +3,8 @@
 ---
 
 Active Tasks:
+- Camera IP69
+- Camera IPCAM
 - [[IndieMicro, GeoTab]] (Re: end customer info) → book meeting room
 - [[Sample, 奇美車電, Gemini]] (MioEYE sample) → 要路測
 - [[Sample, SureCame, Gemini]]
