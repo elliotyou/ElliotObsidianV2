@@ -36,3 +36,5 @@ From: [[會計與投資]]
 
 <a href="https://imgur.com/WkXRf98"><img src="https://i.imgur.com/WkXRf98.jpg" title="source: imgur.com" /></a>
 
+
+製作歷史損益表

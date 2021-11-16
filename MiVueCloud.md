@@ -1,9 +1,7 @@
-[[On-going Tasks]]
+[[MitTAC Solutions]]
 
- --- 
+--- 
  
-  [[2021-11-12 (五)]] 
-
 https://disti-mivue-cloud.mio.com/
 
 正在上線的時候，是用 Dashboard 來觀看現在的位置即 Live View
@@ -18,14 +16,9 @@ https://disti-mivue-cloud.mio.com/
 
 <a href="https://imgur.com/qw4JfDx"><img src="https://i.imgur.com/qw4JfDx.png" title="source: imgur.com" width="600px"/></a>
 
- 
-[[2021-11-09 (二)]]
-- Discuss with BBC team
-	 - Sam
-	 - Selena.huang
-	 - Shawn?
-- David用的那個 Confluence (wiki.navman.co.nz)  是個工具？
-  
-  (這就是DAVID之前說，BUG一堆的那個東西？)
-  
-  
+trip 標記邏輯 ((Re: MVC 路徑事件問題))
+trip 只會標記
+1: collision
+5: startup
+13: engine off
+

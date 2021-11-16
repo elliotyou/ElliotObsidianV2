@@ -10,8 +10,8 @@ From: [[神達數位]]
 
 ### Software
 - [[LightMetrics]]
-- [[Project - MiVueCloud]]
+- [[MiVueCloud]]
 - [[VisionMax]]
 - [[MiDM]]
-- [[MiVue GO App B2C]]
-
+- [[MiVue GO App]]
+- [[Intelligent Vision]]

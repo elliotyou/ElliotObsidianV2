@@ -2,8 +2,8 @@
 
 ---
 
+ADAS的
 - 特製的雪茄頭沒庫存
-- Gemini已沒樣品，只剩Gemini SE
 - 少了控制樣品存量的角色
 - 客人的 APN 被移除？(RE: APN新增問題)
 - Event 沒有被標在MiVueCloud的Route上 (Re: MVC 路徑事件問題)
