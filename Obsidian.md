@@ -1,3 +1,11 @@
+---
+type: evergreen
+date: 2021-11-16
+status: published
+tags: books, creativity
+---
+
+
 From: [[Productivity]]
 
 ---
