@@ -2,6 +2,8 @@
 
 ---
 
+[[2021-11-17 (三)]]
+IP69K 的樣品是有人在拿了？IP69K 已經有樣品？ 找 nell ？ Paul 知道？ 買很多的樣品去驗證他的 reliability ？ 先接 Gemini ，畫質不是最重要的，先FOR SureCam, JJKeller
 
 [[2021-11-16 (二)]]
 Streamax 的方案參考:

@@ -2,13 +2,12 @@
 
 ---
 
-<a href="https://imgur.com/8YKiM4Y"><img src="https://i.imgur.com/8YKiM4Y.png" title="source: imgur.com" /></a>
-
 Active Tasks:
+- [[Sample, 奇美車電, Gemini]]
 - [[IndieMicro, GeoTab]]
 - [[Rear Camera IP69K]]
-- [[the 4th Camera IPCAM]]
-- [[Sample, 奇美車電, Gemini]] → 要路測
+- [[Ethernet Camera IPCAM]]
+- [[Sample, Amazon TW]]
 - [[Sample, SureCame, Gemini]]
 
 ---
@@ -34,3 +33,6 @@ Inactive Tasks
 - [[Surecam 15 samples]]
 - [[小Paul 2 samples for a  new customer]]
 
+---
+
+<a href="https://imgur.com/8YKiM4Y"><img src="https://i.imgur.com/8YKiM4Y.png" title="source: imgur.com" /></a>

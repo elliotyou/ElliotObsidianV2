@@ -34,7 +34,7 @@
 - 確認 MiDM 執行到對的 URL
 - 確認 RD (Spencer) 已上傳
 - [[請 RD Spencer 上傳 IV 所回傳的 Key]]
-- Generate and Scan QRcode 註冊
+- [[MiVue GO App]] Generate and Scan QRcode 註冊
 - 放到窗戶旁，等待取得 Token + GPS 註冊成功
 - 確認 MiDM 已 import 該機器，並且看得到該機器上線
 - 與 David 路測，確定在 PORTAL 上收到，確定各種 Events 有觸發成功

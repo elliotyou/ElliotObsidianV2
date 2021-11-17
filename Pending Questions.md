@@ -2,7 +2,9 @@
 
 ---
 
-ADAS的
+- PMD: 怎麼跟 BBC，APBC 那邊區分？
+- GRACE 是PMD主管？
+- ADAS的
 - 特製的雪茄頭沒庫存
 - 少了控制樣品存量的角色
 - 客人的 APN 被移除？(RE: APN新增問題)

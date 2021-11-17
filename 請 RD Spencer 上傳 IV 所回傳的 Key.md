@@ -16,12 +16,12 @@ Hi Spencer,
 
 第1 台 (上次傳過 SN，還沒傳過KEY)
 CL21430088
-74:76:5b:2f:1e:89
+74765b2f1e89
 umufj4rNSO@@qfqYSYXWhujriefe
 
 第2台 (沒有傳過 SN 也沒傳過KEY)
 CL21430068
-74:76:5b:2f:1e:16
+74765b2f1e16
 5z5L444ISg@@0L0JSJUTo5t4r4UK
 
 

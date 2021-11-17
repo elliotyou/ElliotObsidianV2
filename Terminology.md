@@ -2,6 +2,9 @@ From: [[神達數位]]
 
 ---
 
+- RFQ: Request for Quotation
+- RFI: Request for Information
+- RFP: Request for Proposal
 - MVC: MiVueCloud
 - IP69K：能夠承受 N60529 和 DIN40050-9 中定義的熱蒸氣沖刷測試。這能夠提供水壓在 100bar (1450psi)，溫度 80°C 的防護。壓力直接應用在感測器上，以 30 度的角度遞進（0，30，60 和 90 度），在每個角度持續 30 秒，共 120 秒（2分鐘），能夠防止水的進入。[來源](https://twgreatdaily.com/HsCr-nMBURTf-Dn5Um6t.html)
 - LDWS: Lane Departure Warning System (車道偏移警示系統)
