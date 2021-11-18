@@ -6,9 +6,9 @@
 - 請 Adrid 上傳
 - 登記 IMEI + SN
 - Upgrade Base R17, R03
+- Adrit 回覆後，要將該 IMEI 從 pool 掛到 demo-mitac
 - 將機器接到我的手機 Hotspot
 - 確認 LM Portal 看得到 Live View
-- Adrit 回覆後，要將該 IMEI 從 pool 掛到 demo-mitac
 - 到 LightMetrics 確認機器有上 server (Live View 那邊將 inactive 勾掉)
 - 按幾下 BUTTON，讓他產生事件
 - 過 15MIN 後確認一下有那段視頻 (或強制 ACC OFF)
