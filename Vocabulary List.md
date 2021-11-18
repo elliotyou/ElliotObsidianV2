@@ -2590,7 +2590,7 @@ V0647 praise  (v) --  (SHOW APPROVAL) to express admiration or approval of the a
 
 ---
 
-V0648 deliberation  (n) --  (DISCUSSION) formal considering or discussing something 考慮；討論, 比較正式比較長的討論 After much _____,  she decided to accept their offer.  經過反覆考慮, 她決定接受他們的報價。  --  2021-09-02  11  3
+V0648 [[deliberation]]  (n)
 
 ---
 
