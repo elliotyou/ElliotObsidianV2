@@ -2,6 +2,8 @@ From: [[神達數位]]
 
 ---
 
+- PCB的英文全稱為「Printed Circuit Board
+- PCBA = PCB + Assembly
 - RFQ: Request for Quotation
 - RFI: Request for Information
 - RFP: Request for Proposal
