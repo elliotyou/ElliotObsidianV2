@@ -193,3 +193,29 @@ so apparently that's probally when things start to become maybe more public , be
 
 ### 11:18
 [連結](https://youtu.be/64s7txBMUQ0?t=677)
+
+so the whole social media part of this. The story explodes in September, and again I don't know how someone who lives a  life so prominently can somehow ~~scape~~ `skype` under this. 
+> skate under this
+
+Could it be all the multiple names? maybe the reporters cover in this. I have no idea that this person is such a tick-tocker and is such a celebrity, is that a possibility ?
+
+I mean you know possibly although I would say that if I'm just putting my mind. My mindset in the mindset of Snow's attorny and i've seen in both criminal and civil cases where social media post become evidence during trials. 
+
+it's just so easy, and ~~even you're not going to live the mad worlds~~ `even you go and delete them afterwards`, somebody said those posts, right? so at some point I don't know when Snow `started` to get legal counsel but probably the first thing the legal counsel should've told them is stop posting all these things that make you seem like you're not taking this seriously right 
+
+Even if Snow has never indicted. the fact that something that they did caused an accident that killed a person a friend a colleague, a peer, you probably shouldn't ~~been~~ `be` posting things as if everything is completely normal right. People usually will take a break from social media actually. 
+
+so I'm not really sure why news coverage never reached that level of posting, I mean, again Snow's posting was very prolific and the type of thing that Snow was posting were incredibly sensational when you think about `it` along the backdrop of what's going on  
+
+And Snow received a lot of criticism from the costplay community and fans, that are very upset about this because there has been a human life that has been lost in all of this. and that's not really part of what this is. so it's not surprising, maybe Snow realized that it would've been a lot of backlash. 
+
+it's really unclear i want to talk to you more about what's going on, maybe in her, in her mind, I do wanna share quote from Rolling Stone magzine. Snow's attorny said that this client in quote was incredibly remorseful about what took place the attorny claims that the Snow's family members didn't even know about Helen's death, or Snow's involvement until last month, until the story broke. How is that possible that no one knew this. Some had beil Snow out. This is the strangest thing I've ever heard. 
+
+right. That doesn't make any sense. Police report, interrigation, investigation,...something, right. And Snow's family never heard about it? it doesn't make any sense to me. 
+
+In fact, because it doesn't make any sense I'll say this porbably I'm gonna eventually to say may not be true. because it's so illogical. ok, now, the attorny also says this to Rolling Stone, the trama lets Snow basically just shut down internally and not discuss this with anyone except the people they lived with. They didn't know how to deal with it. what we know for sure is if they did not receive any psycological help or counciling for this incident, so the attorny doesn't believe that Snow has receiving any counciling. Would you again I'll say, are you crazy ? 
+
+this is a tremendous experience. so do you believe that this is what's happened that Snow who is the...who is accused here, of man slaughter , doesn't remeber anything , has shut down , and what the heck is going on here.
+
+### 15:18
+[連結](https://youtu.be/64s7txBMUQ0?t=918)
