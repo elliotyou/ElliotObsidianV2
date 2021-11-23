@@ -199,23 +199,57 @@ so the whole social media part of this. The story explodes in September, and aga
 
 Could it be all the multiple names? maybe the reporters cover in this. I have no idea that this person is such a tick-tocker and is such a celebrity, is that a possibility ?
 
-I mean you know possibly although I would say that if I'm just putting my mind. My mindset in the mindset of Snow's attorny and i've seen in both criminal and civil cases where social media post become evidence during trials. 
+I mean you know possibly although I would say that if I'm just putting my mind. My mindset in the mindset of Snow's attorney and i've seen in both criminal and civil cases where social media post become evidence during trials. 
 
 it's just so easy, and ~~even you're not going to live the mad worlds~~ `even you go and delete them afterwards`, somebody said those posts, right? so at some point I don't know when Snow `started` to get legal counsel but probably the first thing the legal counsel should've told them is stop posting all these things that make you seem like you're not taking this seriously right 
 
 Even if Snow has never indicted. the fact that something that they did caused an accident that killed a person a friend a colleague, a peer, you probably shouldn't ~~been~~ `be` posting things as if everything is completely normal right. People usually will take a break from social media actually. 
 
 so I'm not really sure why news coverage never reached that level of posting, I mean, again Snow's posting was very prolific and the type of thing that Snow was posting were incredibly sensational when you think about `it` along the backdrop of what's going on  
+>along the backdrop of 
 
 And Snow received a lot of criticism from the costplay community and fans, that are very upset about this because there has been a human life that has been lost in all of this. and that's not really part of what this is. so it's not surprising, maybe Snow realized that it would've been a lot of backlash. 
 
-it's really unclear i want to talk to you more about what's going on, maybe in her, in her mind, I do wanna share quote from Rolling Stone magzine. Snow's attorny said that this client in quote was incredibly remorseful about what took place the attorny claims that the Snow's family members didn't even know about Helen's death, or Snow's involvement until last month, until the story broke. How is that possible that no one knew this. Some had beil Snow out. This is the strangest thing I've ever heard. 
+it's really unclear i want to talk to you more about what's going on, maybe in her, in her mind, I do wanna share quote from Rolling Stone magzine. Snow's attorney said that this client in quote was incredibly remorseful about what took place the attorney claims that the Snow's family members didn't even know about Helen's death, or Snow's involvement until last month, until the story broke. How is that possible that no one knew this. Some had bail Snow out. This is the strangest thing I've ever heard. 
 
 right. That doesn't make any sense. Police report, interrigation, investigation,...something, right. And Snow's family never heard about it? it doesn't make any sense to me. 
 
-In fact, because it doesn't make any sense I'll say this porbably I'm gonna eventually to say may not be true. because it's so illogical. ok, now, the attorny also says this to Rolling Stone, the trama lets Snow basically just shut down internally and not discuss this with anyone except the people they lived with. They didn't know how to deal with it. what we know for sure is if they did not receive any psycological help or counciling for this incident, so the attorny doesn't believe that Snow has receiving any counciling. Would you again I'll say, are you crazy ? 
+In fact, because it doesn't make any sense I'll say this porbably I'm gonna `venture` to say may not be true. because it's so illogical. ok, now, the attorney also says this to Rolling Stone, the trama `led` Snow `to` basically just shut down internally and not discuss this with anyone except the people they lived with. They didn't know how to deal with it. 
 
-this is a tremendous experience. so do you believe that this is what's happened that Snow who is the...who is accused here, of man slaughter , doesn't remeber anything , has shut down , and what the heck is going on here.
+what we know for sure is if they did not receive any psychological help or counciling for this incident, so the attorney doesn't believe that Snow has receiving any counciling. `which again` I'll say, are you crazy ? 
+
+this is a `traumatic` experience. so do you believe that this is what's happened that Snow who is the...who is accused here, of manslaughter , doesn't remeber anything , has shut down , and what the heck is going on here.
 
 ### 15:18
 [連結](https://youtu.be/64s7txBMUQ0?t=918)
+
+Trama can lead  to people reacting in a lot of different ways, and I know ~~there are~~ maybe some people who are listening and watching right now are thinking "oh. snow is the one who's tramatized ? what about the person who died ~~and~~ `in` their family?" I get it. but at the same time there was a big witness to a violence that none of ~~us~~ `them` ~~may~~ expected that night and there is sometimes trama related to being the person who witnesses any kind of violence, any kind of death, even if you're responsible for that accident or not . 
+
+What doesn't make sense and what I'm fearful of is that i've not seen any providers come forward and say i'm the one who is treating snow or snow has given me permission to talk about or even snow saying themselves that they are actually diagnosed with this dissociative identity disorder where there is a lot of identities ~~and~~ `in` play.
+
+I'm worried that if it is not ~~embonified~~ `a bona fide` condition that snow had, this is gonna be part of defense, which is well, one of my alter-you-gos was the one I was there with that night who shot Helen. I the main personality of snow has no idea about how or when that happened. and I didn't know about it for weeks. 
+> a bona fide
+
+I do want to ask about this this DID dissociative identity disorder. there's a lot of talk, espeicially in the cost community, cosplay community, that some people get so involved in this characters to some degree, that the role playing goes beyond and they actually assume that entire personality . Can you elaborate on what any of these means 
+
+absolutely and this whole piece of story that dissociative identity disorder piece is really really fascinating, because the dissociative identity disorder has been named something else in the past, that may be even more sensational. 
+
+Years ago, in the DSM, which is our diagnostic manual for psychologist and psychiatrist. It was called multiple personality disorder. Now think a little bit more about that and how sensational that sounds. and so they changed the name to dissociative identity disorder. but there's a long history of people fanning having multiple personality disorder or disociative identity disorder in order to escape all kinds of reponsibilities. 
+
+And that really takes the way from the true sufferer of this condition. which by the way is extremely rare. it's probably under 1% of people who truely suffer that in any 12-month period. and it's something that needs to be taken very sreiously for the person who truely suffer from it but to your point Anna, there's been more and more of cumminity where it's cosplay or you see this on tik-tok where there's a little boring who really has this disorder or who is basically putting on the show. this is basically just them acting out different experiences and people 
+
+but they're saying they have DID because it is sensational once again right now. i was sensational in 80s and apparently it's coming back. and there's a huge tik-tock communitiy of people right now who say they have dissociative identity disorder
+
+even if you just look at the percentages that take this, it doesn't make sense that all of them truely do. right. So what dissociative identity disorder is is the existence of true or more distinc identities of personalities . and these identies are acompanied by changes of behavior memory and thinking. and the sicne and symptoms are observable by others or reported by individual themselves. 
+
+the individual experiences the gap in its memory about everyday events, personal information, past tramatic events and basically they don't have continueing their existence they black out and then a day later they'll come to and hear one of their alters and personalties took over and the symptom tend cause the individual a ton of distress and impact their daily functioning in very negative way. 
+
+so that's one thing I would really like to see as a 
+snow doesn't seem like they're that upset about all of this, they seem like they ravel this experience 
+
+so if that's the case they don't have dissociative identity disorder people who truely have it they hate the fact that they have this they want to be treated they are not necessary put it on the show for everybody in the world to witness. 
+
+### 20:11
+[連結](https://youtu.be/64s7txBMUQ0?t=1211)
+
+---
