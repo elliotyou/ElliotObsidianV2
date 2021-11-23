@@ -3,9 +3,11 @@
 
 ---
 
-[[2021-11-18 (四)]]
+[[2021-11-23 (二)]]
+- Denny 告知 Ryan 週四來教RD怎麼架環境
 
-
+[[2021-11-22 (一)]]
+- RFQ Feasibility Meeting
 
 [[2021-11-17 (三)]]
 - 明年 3 月可以路測，明年 Q3 可以 RELEASE，未來也可以幫 INDIE 代工？
@@ -29,3 +31,26 @@
 Stark: 
 - Smart Cable 要可以支援所有的 PIN
 - 要能整合各個 LEVEL 的產品 Gemini, Sprint, EVO
+
+---
+
+Stakeholders:
+
+AIOT VT:
+- Stark.yang
+- Elliot.you
+
+RDC3:
+- Kevin.hsueh
+- Ericeh.huang
+- Jeff.fang
+- Denny.cm
+- Ray.tsai
+
+RDC4:
+- Ken.hsu
+- Bozhi.lin
+- Paris.kuong
+
+PMD:
+- Grace.hung

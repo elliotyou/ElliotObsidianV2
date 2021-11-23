@@ -4,7 +4,7 @@
 
 Active Tasks:
 - [[Sample, 奇美車電, Gemini]]
-- [[IndieMicro, GeoTab]]
+- [[GeoTab Smart Cable]]
 - [[Rear Camera IP69K]]
 - [[Ethernet Camera IPCAM]]
 - [[Sample, Amazon TW]]
