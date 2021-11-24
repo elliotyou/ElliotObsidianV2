@@ -17,7 +17,7 @@
 - Update 資訊到 [Sample IMEI](https://docs.google.com/spreadsheets/d/1b-vdVmNpRJRRcMJKQ6YLuKp7PbTOslTs/edit?usp=sharing&ouid=112782493369308983971&rtpof=true&sd=true)
 - 盤點工具，確認沒有卡片插在機器上，機器包回去
 - 告知業務，口頭或 email
-- 如果是我們的新客人，可能要再請 Adrit 幫我開通 ？
+- 如果是我們的新客人，要幫客人創建新的 GROUP，這部分跟ADM很像，需要客人的 email ，然後系統會寄認證信請他激活。我再將屬於它的機器掛到他底下，他登入後就會看到了
 - 如果是我們的舊客人，自行 unassign ？
 - [[告知客人如何啟用]]
 
@@ -42,3 +42,4 @@
 - 盤點工具，確認沒有卡片插在機器上
 - 幫他註冊好帳號，用手機登入他們的帳號，密碼統一 mitac123，然後註冊好他們的機器，讓他們到時候一登入就可以看到
 - 告知業務或 [[告知客人如何啟用]]
+- 要提醒一下盒中的手冊是 LM 不是 IV

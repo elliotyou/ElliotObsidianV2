@@ -3,11 +3,16 @@
 
 ---
 
+[[2021-11-24 (三)]]
+- 取到樣品2個，含1個模擬器。提供給 Roy，告知其它人
+
 [[2021-11-23 (二)]]
 - Denny 告知 Ryan 週四來教RD怎麼架環境
 
 [[2021-11-22 (一)]]
 - RFQ Feasibility Meeting
+- 錄音檔
+- PPT檔，[連結](https://docs.google.com/presentation/d/1kTxEE9ZZdIr1WkKOGnNbc5hw0OElkF_w/edit?usp=sharing&ouid=112782493369308983971&rtpof=true&sd=true)
 
 [[2021-11-17 (三)]]
 - 明年 3 月可以路測，明年 Q3 可以 RELEASE，未來也可以幫 INDIE 代工？
@@ -46,6 +51,7 @@ RDC3:
 - Jeff.fang
 - Denny.cm
 - Ray.tsai
+- Roy.yang
 
 RDC4:
 - Ken.hsu
