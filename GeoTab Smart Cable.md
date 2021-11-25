@@ -47,8 +47,9 @@ AIOT VT:
 
 RDC3:
 - Kevin.hsueh
-- Ericeh.huang
 - Jeff.fang
+- Ericeh.huang
+- jui.chung.huang
 - Denny.cm
 - Ray.tsai
 - Roy.yang
