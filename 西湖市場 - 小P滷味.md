@@ -2,6 +2,9 @@
 
 ---
 
+[[2021-11-26 (五)]] $140
+
+<a href="https://imgur.com/MkBtKZZ"><img src="https://i.imgur.com/MkBtKZZ.jpg" title="source: imgur.com" width="600px" /></a>
 
 [[2021-11-10 (三)]] $95
 

@@ -3,6 +3,14 @@
 
 ---
 
+
+預計需要問 Geotab 的問題
+- Can we use RS232 instead of USB ? Is USB necessary？
+
+[[2021-11-25 (四)]]
+- Ryan 來現場為 RD 解說
+- 預計下週二 大家 sync 一下看下一步是什麼，時程怎麼抓
+
 [[2021-11-24 (三)]]
 - 取到樣品2個，含1個模擬器。提供給 Roy，告知其它人
 
