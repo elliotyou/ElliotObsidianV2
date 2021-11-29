@@ -7,6 +7,16 @@
 預計需要問 Geotab 的問題
 - Can we use RS232 instead of USB ? Is USB necessary？
 
+[[2021-11-29 (一)]]
+- 和GRACE 同步一下，準備HOST 一個WEEKLY MEETING
+- Eric.huang 突然跟我要 SPEC
+- Weekly Meeting 被盯到，要聽錄音
+
+
+[[2021-11-26 (五)]] 
+- [[Ryan回覆樣品問題]]
+
+
 [[2021-11-25 (四)]]
 - Ryan 來現場為 RD 解說
 - 預計下週二 大家 sync 一下看下一步是什麼，時程怎麼抓
@@ -55,12 +65,14 @@ AIOT VT:
 
 RDC3:
 - Kevin.hsueh
-- Jeff.fang
-- Ericeh.huang
+- Jeff.fang (EE)
+- Ericeh.huang (EE)
 - jui.chung.huang
-- Denny.cm
-- Ray.tsai
-- Roy.yang
+- Ray.tsai (SW)
+- Denny.cm (SW)
+- Roy.yang (SW)
+- ethan.cai (ME)
+- flame.he (ME)
 
 RDC4:
 - Ken.hsu
@@ -69,3 +81,6 @@ RDC4:
 
 PMD:
 - Grace.hung
+
+ID:
+- 

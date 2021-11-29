@@ -3,11 +3,11 @@
 ---
 
 Active Tasks:
-- [[Sample, Amazon TW]]
 - [[GeoTab Smart Cable]]
 - [[Ethernet Camera IPCAM]]
 - [[Sample, 奇美車電, Gemini]]
 - [[Rear Camera IP69K]]
+- [[Sample, Amazon TW]]
 
 ---
 
