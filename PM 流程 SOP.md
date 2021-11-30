@@ -1,13 +1,11 @@
 From: [[神達數位]]
+[[GeoTab Smart Cable]]
 
 ---
 
-[[2021-11-03 (三)]]
+Feasibility Phase → Project Phase
 
-發信給所有相關的人
-BOOK會議室
-發會議通知？
-開會的時候確認所有人都到齊
-要用 webex call ？
-
-過一下所有的需求
+每一個 Phase，都依照以下邏輯確認
+- EE / SW / ME 相關窗口是誰？不知道的話請長官指派 (範例: )
+- 4.1 Business Case: 為什麼要做這個 cable？做了有什麼好處？ (範例: 我的 ppt 檔中的 purpose)
+- 
