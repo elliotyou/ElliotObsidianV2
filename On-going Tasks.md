@@ -3,6 +3,8 @@
 ---
 
 Active Tasks:
+- [[LocoNav Samples x 10]]
+- [[Surecam 45pcs CDR]]
 - [[GeoTab Smart Cable]]
 - [[Ethernet Camera IPCAM]]
 - [[Sample, 奇美車電, Gemini]]
