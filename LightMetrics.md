@@ -42,3 +42,8 @@ LightMetrics 還有一個 FaceID 的機制，跟 APP 是完全不相干，
 
 <a href="https://imgur.com/Lsbduoj"><img src="https://i.imgur.com/Lsbduoj.png" title="source: imgur.com" width="600px"/></a>
 
+---
+
+[[2021-12-01 (三)]]
+
+#elliotyou  LM 都怎麼確保使用者的SD卡會 format 到 FAT32 的？follow #davidLee 

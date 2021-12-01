@@ -2,6 +2,10 @@
 
 ---
 
+[[2021-12-01 (三)]]
+
+這個案子和 [[Ethernet Camera IPCAM]] 一起與 #paulchen 確認
+
 [[2021-11-22 (一)]]
 - 客說說他收到，有問題會再詢問...(Re: MioEYE K Series Dash cam)
 

@@ -3,7 +3,7 @@
 
 ---
 
-
+#elliotyou  找時間和 #paulchen 同步一下，Rear Cam, Ethernet Cam...這部分的下一步要怎麼分工？
 
 [[2021-11-24 (三)]]
 - 今日與 Gilbert, Vincent 開會討論

@@ -14,6 +14,7 @@
 - 過 15MIN 後確認一下有那段視頻 (或強制 ACC OFF)
 - 順便確認一下 AUDIO 有更換 (被掛到 mitac 底下的機器都會從 SERVER 端更換音檔，按 button 後的聲音會不太一樣)
 - 與 David 路測，確定在PORTAL上收到，確定各種 Events 有觸發成功
+- 若是請 David 帶回路測，要在隔天上電接上網後查看路徑
 - Update 資訊到 [Sample IMEI](https://docs.google.com/spreadsheets/d/1b-vdVmNpRJRRcMJKQ6YLuKp7PbTOslTs/edit?usp=sharing&ouid=112782493369308983971&rtpof=true&sd=true)
 - 盤點工具，確認沒有卡片插在機器上，機器包回去
 - 告知業務，口頭或 email

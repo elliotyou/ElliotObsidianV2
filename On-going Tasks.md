@@ -2,8 +2,10 @@
 
 ---
 
+[[VT Team Genral Tasks]]
+
 Active Tasks:
-- [[LocoNav Samples x 10]]
+- [[MAU Samples x 12]]
 - [[Surecam 45pcs CDR]]
 - [[GeoTab Smart Cable]]
 - [[Ethernet Camera IPCAM]]
@@ -33,6 +35,7 @@ Inactive Tasks
 - [[Project - 神基樣品]]
 - [[Surecam 15 samples]]
 - [[小Paul 2 samples for a  new customer]]
+- [[LocoNav Samples x 10]]
 
 ---
 
