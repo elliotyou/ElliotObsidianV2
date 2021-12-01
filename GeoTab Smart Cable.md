@@ -8,9 +8,9 @@
 
 2021-11-18(四) 
 
-Kevin.hsueh 指派 RD 窗口 (Re: Geotab smart cable)
+Kevin.hsueh 指派 RD 窗口 (`Re: Geotab smart cable`)
 
-Stark 解釋 Geotab Concall 窗口介紹 (Re: Geotab smart cable)
+Stark 解釋 Geotab Concall 窗口介紹 (`Re: Geotab smart cable`)
 
 Indie 來訪
 - `ryan.su@indiemicro.com` (Director, Application Engineering & Technical Marketing) 
@@ -74,13 +74,41 @@ Indie Ryan 來訪教 RD 怎麼架環境
 
 看來是我們 SW 自己就有辦法直接定義開發內容讓 Geotab 知道，有要調整再調整，而 SW 開發過程中有什麼問題就直接詢問 Indie 的 Ryan ，他們已經私下有聯繫。對 Geotab 來說，就是看我們的開發內容和時程，有意見就提出，沒有就看著我們做到某個階段，接手開發即可
 
+---
+
+[[2021-12-01 (三)]]
+
+SURVEY 板子大小優化 → EE
+
+SURVEY 是否留一段線，留多長 → PM, Geotab 
+- #elliotyou google 一下，以及詢問 #grace, Terry
+
+Pin Definition → PM, Geotab 
+- #elliotyou 與 Geotab 開會 double check 後再回覆給 #ericeh 和 #jeffFang
+
+EE/ME Design for ID → EE, 12/10 #jeffFang #flame
+
+Rough EE cost → EE, 12/10 #jeffFang 
+
+Geotab Verification Method → PM 
+- #elliotyou 告知 Geotab 我們會開發 SDK 若他們要用自己的方式，還得再討論要怎麼做產測程式。那會是另一套
+
+MiTAC SDK Schedule → SW, 12/10
+
+#elliotyou 要再發一封 meeting minute 出來 
+
+#elliotyou 與 Stark double check 晚上 Geotab 會議要問的問題 
 
 
-Pending Items:
-- 問Geotab: Can we use RS232 instead of USB ? Is USB necessary？
-- 確認SW、EE參與 Geotab 會議的窗口
-- EE 的 COST 產生後 → 請其它單位算 COST → 與小P確認如何算NRE/ROI → kick off
+---
 
+問 Geotab:
+- Possible to transmit data via RS232?
+- Double check OBDⅡ pin definition
+- Comments about "connector + PCB" ? 
+- Develop after our SDK ?
 
+Future Items:
+- OBDⅡ 轉 J1939 的轉接頭
 
 

@@ -3,12 +3,24 @@
 
 ---
 
-[[2021-11-24 (三)]]
-- Kevin Lee's bunch of questions  
-- 可讓客人知道 MANUAL 裡是 LM、我們的是IV？(自己決定)
-- 可以讓他知道我們其實也沒READY，暫時也沒有那些文件？(自己決定)
-- 請 NELL 去問 IV 的判斷細節？(自己決定)
+[[2021-12-01 (三)]]
+Kevin Lee 還遇到靜音問題
+- #elliotyou  請他 Hardware Reset 後有暫時解決。要再 follow up
+- #elliotyou 問 #mori 看看這個問題是不是可以用抓 LOG 的方式查出原因？
 
+Audio 對照表
+- #elliotyou 需要與 #leoTsai , #mori 確認有沒有這方面的資料
+
+
+[[2021-11-24 (三)]]
+Kevin Lee's bunch of questions  
+
+可讓客人知道 MANUAL 裡是 LM、我們的是IV？(自己決定)
+
+可以讓他知道我們其實也沒READY，暫時也沒有那些文件？(自己決定)
+
+請 NELL 去問 IV 的判斷細節？(自己決定)
+- #elliotyou 請 Nell, Leo, Mori 協助與 IV 了解一下他的判斷機制
 
 [[2021-11-23 (二)]]
 - 開始詢問產品細節。發現盒中 MANUAL 不適用的問題
