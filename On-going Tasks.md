@@ -2,6 +2,7 @@
 
 ---
 
+<<<<<<< HEAD
 Active Tasks:
 - [[VT Team Genral Tasks]]
 - [[GeoTab Smart Cable]] ☆
@@ -10,6 +11,19 @@ Active Tasks:
 - [[Rear Camera IP69K]]
 - [[Sample, Amazon TW]]
 - [[Sample, 奇美車電, Gemini]] ☆
+=======
+
+Active Tasks:
+- [[VT Team Genral Tasks]]
+- [[GeoTab Smart Cable]]
+- [[Ethernet Camera IPCAM]]
+- [[Rear Camera IP69K]]
+- [[New Approach, 奇美車電, Gemini]]
+- [[New Approach, Amazon TW]]
+- [[MAU Samples x 12]]
+- [[Jungo 50 pcs Upgrade Region]]
+- [[Surecam 45pcs CDR]]
+>>>>>>> a6bec7af680899332396179ee376c7b40803428f
 
 ---
 
