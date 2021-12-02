@@ -2,9 +2,11 @@
 
 ---
 
-特製線材不足問題
+**特製線材不足問題**
 - #elliotyou 和 #leoLan 確認線材是不是來得及做好
 
-Product Roadmap
-- #elliotyou 加入我的 Smart Cable 圖片以後就可以貼給 #paulchen 。不過也要考慮到 #stark 已經有一個他自己的版本
 
+**SD Card 其它廠牌 stability 驗證**
+- #elliotyou 安排燒機以後交還 #paulchen 
+
+**關於 Project BI 我需要做什麼嗎？** #paulchen 

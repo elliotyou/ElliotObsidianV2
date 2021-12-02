@@ -22,3 +22,8 @@ trip 只會標記
 5: startup
 13: engine off
 
+---
+
+David 帳號密碼:
+- david.w.lee@mic.com.tw
+- david12345

@@ -2,24 +2,14 @@
 
 ---
 
-[[VT Team Genral Tasks]]
-
 Active Tasks:
-- [[MAU Samples x 12]]
-- [[Surecam 45pcs CDR]]
-- [[GeoTab Smart Cable]]
+- [[VT Team Genral Tasks]]
+- [[GeoTab Smart Cable]] ☆
+- [[Cooperation with ATrack]] ☆
 - [[Ethernet Camera IPCAM]]
-- [[Sample, 奇美車電, Gemini]]
 - [[Rear Camera IP69K]]
 - [[Sample, Amazon TW]]
-
----
-
-Regular Meetings:
-- [[PM Weekly]]
-- [[VT Team Weekly]]
-- [[CDR Stakeholder Weekly]]
-- [[Australia Monthly Sync]]
+- [[Sample, 奇美車電, Gemini]] ☆
 
 ---
 
@@ -36,6 +26,9 @@ Inactive Tasks
 - [[Surecam 15 samples]]
 - [[小Paul 2 samples for a  new customer]]
 - [[LocoNav Samples x 10]]
+- [[MAU Samples x 12]]
+- [[Linxio READY TRACK Samples x 5]]
+- [[Jungo 50pcs Region Update]]
 
 ---
 
