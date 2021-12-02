@@ -8,6 +8,8 @@
 
 [[Mail Log - Geotab Smart Cable]]
 
+[[PMP - Geotab Smart Cable]]
+
 2021-11-22 (一) 申請 RFQ0642、召開 Feasibility 會議
 `"d:\Downloads\MiTAC\Documents\Geotab Smart Cable\SmartCable_Feasibility_20211122.PPTX" `
 
@@ -23,7 +25,6 @@ Geotab Verification Method
 
 ---
 
-<<<<<<< HEAD
 **SURVEY 是否留一段線，留多長** → PM, Geotab 
 - #elliotyou google 一下，以及詢問 #grace, Terry
 
@@ -32,7 +33,8 @@ Geotab Verification Method
 
 **Geotab 會議，與會者之間的關係**
 - #elliotyou 會議記錄要記一下，主要是那幾個人之間的關係
-=======
+
+
 2021-11-22 (一)
 
 申請 RFQ0642、召開 Feasibility 會議
@@ -115,15 +117,9 @@ MiTAC SDK Schedule → SW, 12/10
 晚上 22:00 和 Geotab, Indie Concall
 
 #elliotyou 跟 #roy 和 #dennyCm 確認一下他們要買的是哪個模擬器，把連結 share 出來給他們
->>>>>>> a6bec7af680899332396179ee376c7b40803428f
-
 
 ---
 
-<<<<<<< HEAD
-=======
-
->>>>>>> a6bec7af680899332396179ee376c7b40803428f
 Future Items:
 - OBDⅡ 轉 J1939 的轉接頭
 
