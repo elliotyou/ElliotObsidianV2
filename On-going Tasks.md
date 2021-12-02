@@ -2,24 +2,17 @@
 
 ---
 
-[[VT Team Genral Tasks]]
 
 Active Tasks:
-- [[MAU Samples x 12]]
-- [[Surecam 45pcs CDR]]
+- [[VT Team Genral Tasks]]
 - [[GeoTab Smart Cable]]
 - [[Ethernet Camera IPCAM]]
-- [[Sample, 奇美車電, Gemini]]
 - [[Rear Camera IP69K]]
-- [[Sample, Amazon TW]]
-
----
-
-Regular Meetings:
-- [[PM Weekly]]
-- [[VT Team Weekly]]
-- [[CDR Stakeholder Weekly]]
-- [[Australia Monthly Sync]]
+- [[New Approach, 奇美車電, Gemini]]
+- [[New Approach, Amazon TW]]
+- [[MAU Samples x 12]]
+- [[Jungo 50 pcs Upgrade Region]]
+- [[Surecam 45pcs CDR]]
 
 ---
 

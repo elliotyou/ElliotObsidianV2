@@ -76,14 +76,14 @@ Indie Ryan 來訪教 RD 怎麼架環境
 
 ---
 
-[[2021-12-01 (三)]]
+2021-12-01 (三)
 
 SURVEY 板子大小優化 → EE
 
 SURVEY 是否留一段線，留多長 → PM, Geotab 
 - #elliotyou google 一下，以及詢問 #grace, Terry
 
-Pin Definition → PM, Geotab 
+Pin Definition → PM 
 - #elliotyou 與 Geotab 開會 double check 後再回覆給 #ericeh 和 #jeffFang
 
 EE/ME Design for ID → EE, 12/10 #jeffFang #flame
@@ -91,22 +91,23 @@ EE/ME Design for ID → EE, 12/10 #jeffFang #flame
 Rough EE cost → EE, 12/10 #jeffFang 
 
 Geotab Verification Method → PM 
-- #elliotyou 告知 Geotab 我們會開發 SDK 若他們要用自己的方式，還得再討論要怎麼做產測程式。那會是另一套
+- 與 Stark 討論後，不需要徵求他們的意見，我們自己主導就好。我們就照自己的步調，把會做的項目列出來給他們參考，若他們覺得有不足之處，再來加。至於到時候怎麼 verify 出給他的東西都是灌好無誤，這是我們的功課，不是他們的
 
 MiTAC SDK Schedule → SW, 12/10
 
-#elliotyou 要再發一封 meeting minute 出來 
+發封 meeting minute 出來 
 
-#elliotyou 與 Stark double check 晚上 Geotab 會議要問的問題 
+與 Stark double check 晚上 Geotab 會議要問的問題。
+- Geotab 就只是等著看著我們硬體做好他灌軟體這樣而已。就把它想成我們是做電話和佈電話線的人，他們只是到時候要來講話的用戶。我們不會問他 pin definition ，我們只會問他需要用到哪些 protocol ，然後我們自己知道哪幾 pin 要留著這樣，如果我們還要他定義 pin define 我們才能做的話顯得有點不專業。
+- 接頭和PCB 之類要不要留一段線，也跟他們無關，我們自己決定就好，他們也不一定熟悉這部分，他們就只是需要有人幫他做個載體
+
+晚上 22:00 和 Geotab, Indie Concall
+
+#elliotyou 跟 #roy 和 #dennyCm 確認一下他們要買的是哪個模擬器，把連結 share 出來給他們
 
 
 ---
 
-問 Geotab:
-- Possible to transmit data via RS232?
-- Double check OBDⅡ pin definition
-- Comments about "connector + PCB" ? 
-- Develop after our SDK ?
 
 Future Items:
 - OBDⅡ 轉 J1939 的轉接頭

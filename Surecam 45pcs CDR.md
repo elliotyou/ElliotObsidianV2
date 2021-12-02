@@ -6,8 +6,7 @@
 
 #elliotyou 拿到 DAVID 測完的 5 台 Gemni SE ，確認沒問題以後可以打包給 Andy 
 
-#elliotyou 30台的取樣部分，好像還有幾台還要SETUP好再給 #davidLee 
-
 #elliotyou GOOGLE 表格上還有很多空格要補上
 
+取得 #davidLee  測好的最後一台，可以打包給業務
 
