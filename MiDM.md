@@ -4,6 +4,10 @@ From: [[MitTAC Solutions]]
 
 類似 ADM 的東西
 
+---
+
+### Test 版本
+
 網址: https://midmtest.mic.com.tw/
 
 帳號: david.w.lee@mic.com.tw
@@ -14,3 +18,13 @@ From: [[MitTAC Solutions]]
 
 For 客人測試的話，將 URL 改為: `midmtest.mic.com.tw`
 
+---
+
+### 正式版本
+
+網址: https://midm.mic.com.tw/
+
+帳號: elliot.you@mic.com.tw
+密碼: Mitac123
+
+---

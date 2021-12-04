@@ -9,9 +9,6 @@ Active Tasks:
 - [[Rear Camera IP69K]]
 - [[New Approach, 奇美車電, Gemini]]
 - [[New Approach, Amazon TW]]
-- [[MAU Samples x 12]]
-- [[Jungo 50 pcs Upgrade Region]]
-- [[Surecam 45pcs CDR]]
 
 ---
 
@@ -31,6 +28,9 @@ Inactive Tasks
 - [[MAU Samples x 12]]
 - [[Linxio READY TRACK Samples x 5]]
 - [[Jungo 50pcs Region Update]]
+- [[MAU Samples x 12]]
+- [[Jungo 50 pcs Upgrade Region]]
+- [[Surecam 45pcs CDR]]
 
 ---
 

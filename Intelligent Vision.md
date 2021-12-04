@@ -2,6 +2,8 @@
 
 ---
 
+
+
 要先得到 CDR 的 wifi mac 以後，換到一個 license key
 
 我們的 app 才能由該 License key 取得 IV 的 Service
@@ -11,11 +13,16 @@
 若確定有啟用，路測的時候，
 
 DMS 的部分，下方 4 個功能符合的時候會自動觸發 Event
+- Cellphone
+- Distracted
+- Sleepy
+- Yawning
 
 ADAS 的部分，會有 audio caoching，項目並沒有秀在 screen 上，包含: 
 - Lane Departure
 - Front Collision
 - Tailgating
+- Stop and Go
 
 ADAS 需要 Calibration 才能啟作用，而 Calibration 的條件是: 
 - 有足夠的 GPS 訊號
