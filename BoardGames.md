@@ -6,6 +6,7 @@ From: [[AllNotes]]
 
 ---
 
+[[惡獸大陸 (Monster Lands)]]
 [[科英布拉 (Coimbra)]]
 [[手機帝國 (Smartphone Inc.)]]
 [[聖瓦西里大教堂 (The Red Cathedral)]]

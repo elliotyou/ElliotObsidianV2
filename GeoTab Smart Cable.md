@@ -4,11 +4,11 @@
 
 ---
 
+[[Smart Cable Business Strategy]]
+
 [[Stakeholders - Geotab Smart Cable]]
 
 [[Mail Log - Geotab Smart Cable]]
-
-[[PMP - Geotab Smart Cable]]
 
 2021-11-22 (一) 申請 RFQ0642、召開 Feasibility 會議
 `"d:\Downloads\MiTAC\Documents\Geotab Smart Cable\SmartCable_Feasibility_20211122.PPTX" `
