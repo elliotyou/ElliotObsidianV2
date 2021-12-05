@@ -101,6 +101,7 @@ and so , there're something going on, they are playing, they are doing these thi
 so...part of a mistery here is..well...first of all, this is a loaded gun, and we see this play out ~~of~~ an awful lot, where people play with loaded guns and this is the absolute worst thing ~~it~~ `that` can happen
 >an awful lot
 
+
 ### 05:39
 
 [[2021-11-08 (一)]]
@@ -253,3 +254,81 @@ so if that's the case they don't have dissociative identity disorder people who 
 [連結](https://youtu.be/64s7txBMUQ0?t=1211)
 
 ---
+
+That's fascinating. and also I think that a ==broader== issue which is not specific to this but more to social media is how some people get so ==wrapped up== in this persona that they create for social media that gets ==attention== and the ==necessity to feed==, that ==attention== and get more ==followers== you're looking, who commented who did this who liked . that really can ==get out of hand==, you know
+
+when you're living in your life in a virtual way 
+
+and then ==compounded==, and one of the reasons that Helen was back in Houston is because of COVID, and she managed to get through semaster ==at== school and then they shut down this constant thing we've all been dealing with. and that kind of put her in this position besides of the fact that Helen was friends with Snow
+
+I wanna take ==a little tangent== if I may with you because you were talking about the trama of either of experiencing this, being the person who pulled the trigger, or the person who was there. 
+
+Everyone is talking about Actor Alec Baldwin, and the accident, the horrific fatal accident that occured during a rehearsal for a movie in New Mexico where Alec Baldwin was handed a ==prop gun==, and fired and then accidentally shot and killed a ==cinematographer== and shot the director in the shoulder and as of this morning, the prosecutor in the case is saying this is criminal investigation and there may be criminal charges, not suggesting that It's gonna be Alec Baldwin, but the case, the shooting is being investigated, the only reason I bring this up is, because we have a little bit of a similar scenario here. 
+
+==except== of course in Houston, with Snow there were no ==boundries in the sense of== ==prop master== and all that ==what's your take on that== trama this is caused. 
+
+I believe everybody who witnessed this including of course Allen Bowen himself, but everybody ==on set== that day, I think that they all probably need to at least be educated on the fact that probably all going to have some level of ==post-traumatic stress== reaction of varying ==severities== and that should be offered grief counseling 
+
+again, this is a movie set, people tend to think even when they are playing prosub scene danger of 
+
+this is acting, this is the movie set, in ....it's not the first time, we've seen that in hitorcial movies, 
+
+movie productions as well
+
+I think eveybody there is going to have some kind of reactions trying to block it out  ...recurring nightmare, but they don't wanted to 
+
+drinking more, or doing drugs, block these memories, 
+
+and a lot of people are having difficulties being concentrating doing things there were blaming themselves is there anthere something else I should've been doing
+
+they run these scenarios over and over 
+
+now when individuals do that , you wouldn't at the same time they also be posting on tik-tok, 
+
+that is something that Snow is going to contend with and as this investigation go further
+
+why Snow is going this way
+
+and it seemed very gleanful, and fun, and light heart it about 
+
+and I think that's the difference 
+
+people have seen him cry outside I mean he looks the sponding 
+
+people expect trama like this 
+
+exatcly exatcly it's so hard to have this conversation and include that in the broughter just because of what's going on, you know, one is ameture video, one is professional 
+
+just a few, a few simularities, so , Snow is charged with manslauting manner, Snow is expected to court this week to find enter a plea, no...charge in this case, 
+
+now just a littile bit more about Halen, the victim, so absolution, Halen's parents are absolutely distraught, and they are prominent scientists in Texas, and don't believe their daughter would ever asked to be shot in the head for any kind of role playing, costume, whatever, or whatever is going on.
+
+so they're especially upset, that Snow carry on to nothing happened, 
+
+and you know, that's part of the continued disrepectful life, 
+
+that's how I vew 
+
+where is the sense of the pology,
+
+we're not seeing this at all
+
+Here's interesting though, Halen's sister tells the reporter that she doesn't not want Snow to go to prison for this. 
+
+yeah, it's very interesting, isn't it? 
+
+I don't know what's that about, and again, this is from ....so it could be incorrect, or...
+
+but that's what we are in this case, and we'll see what the plea is and it's very interesting, very complicated , multiple, you know, so much is going on, virtual, real, it's just, it's get so blurred, 
+
+right, it does, and I think that, again, if somebody truly has dissociative identity disorder there's certain invigaing factors, that the courses are more considered, this is the person who treament 
+
+is that part of their sentencing she considered that and if that person  being rehabitated, 
+
+but I also again, the fact that among the history, people get malinger to have certain mental health in order to escape prison sentences in order to escape harsher sentences it's not successful but they tried 
+
+and I really hope for the sake jut the mental health community, people who truly suffer from this dissociative identity disorder that if that's trully what happened that I 
+
+but if they not, contributing more to this already hight simitizing condition, because people who truly have did they are more likely to be the victm of perpatrate it
+
+the fact that Snow 

@@ -53,3 +53,7 @@ From: [[神達數位]]
 - Dual Conversion Gain (DCG)
 - 高通: Qualcomm, 
 - [[麥拉(Mylar)]] ?
+- Clean Installation: `是指出貨時只灌 image ，剩下的 region 讓客人自己載的意思`？ 只有 OBD Cable 的就是 clean installation
+- [[ADAS]]
+- [[DMS]]
+- Mini DP: Mini DisplayPort, 就是 Gemini 的 Power 接口
