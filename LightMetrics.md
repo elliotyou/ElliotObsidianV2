@@ -2,6 +2,8 @@ From: [[MitTAC Solutions]]
 
 ---
 
+[LM官網](https://www.lightmetrics.co/solutions/dash-cams/)
+
 登入連結
 https://master.lightmetrics.co/home
 
@@ -47,3 +49,8 @@ LightMetrics 還有一個 FaceID 的機制，跟 APP 是完全不相干，
 [[2021-12-01 (三)]]
 
 LM 都怎麼確保使用者的SD卡會 format 到 FAT32 的？follow #davidLee 
+
+[[2021-12-03 (五)]]
+源來: Subject: Re: Live View through Wifi
+內容: 使用 LM App Live View 的條件
+LM App 的 Live View 功能，雖然是用 WIFI 去連，但也是要 LM 那邊 import 過 IMEI 才行。
