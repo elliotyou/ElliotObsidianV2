@@ -12,6 +12,7 @@
 
 
 
+
 Geotab Verification Method
 - 不需要徵求 Geotab 意見, 由我們主導。我們要把預計做的 SDK 項目展開，還有 SCHEDULE，讓他們知道即可。如果他們有需要加，再另外討論。若沒有，就只照我們的步調
 
