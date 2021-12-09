@@ -1,20 +1,6 @@
-From: [[MitTAC Solutions]]
+[[神達數位]]
 
 ---
-
-[LM官網](https://www.lightmetrics.co/solutions/dash-cams/)
-
-登入連結
-https://master.lightmetrics.co/home
-
-[[請 LightMectrics 加裝置]]
-
-所有的鏡頭，都是 720P 10FPS
-
-Manual:
-```
-d:\Downloads\MiTAC\Documents\LightMetrics-starter-guide-Gemini_20210118.pdf 
-```
 
 LightMetrics 也有 app ，但他的概念並不是讓管理者用的，而是讓 DRIVER 打卡用的
 

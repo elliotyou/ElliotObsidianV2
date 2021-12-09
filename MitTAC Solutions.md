@@ -9,7 +9,6 @@ From: [[神達數位]]
 - Sprint: Gemini的初階版
 
 ### Software
-- [[LightMetrics]]
 - [[MiVueCloud]]
 - [[VisionMax]]
 - [[MiDM]]
