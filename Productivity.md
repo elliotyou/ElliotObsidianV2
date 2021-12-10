@@ -15,3 +15,5 @@ From: [[AllNotes]]
 [[Zettelkasten筆記法]]
 
 [[Hercules Setup Utility]]
+
+適合PM做圖表的網頁工具: https://creately.com/
