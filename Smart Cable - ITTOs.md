@@ -17,9 +17,9 @@ const PRD_v2 = PM(Geotab comment) //2021/12/4 考量 Geotab 的 Protocol以後
 const PRD_v3 = PM(PRD_v2) //2021/12/7 同步 EE 後續對 pin out 的設計以後
 const MemberList_v2 = PM() //2021/12/8 詢問RF/EMI/ID/Safety/PJE/PMP/DQE以後
 const EE_Design = EE(PRD_v3) //2021/12/9 EE 將初步的設計稿完成
+const _DXF = ME(EE_Design) // 2021/12/10 ME Ethan.cai 提供
+const _3D = ME(EE_Design) // 2021/12/10 ME Ethan.cai 提供
 
-_DXF = ME(EE_Design) //
-_3D = ME(EE_Design) //
 Placement_Result = EE(_DXF) //
 ID_Design_v1 = ID(_3D) //
 EE_Cost_v1 = EE(PRD_v3)
