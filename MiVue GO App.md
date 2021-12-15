@@ -9,6 +9,6 @@ QRcode 產生器
 https://www.the-qrcode-generator.com/
 
 input 範例:
-https://alpha-mivue-cloud.mio.com/Gemini/CL21460377/CL21460377
+https://alpha-mivue-cloud.mio.com/Gemini/CS21490006/CS21490006
 
 
