@@ -6,6 +6,11 @@ From: [[AllNotes]]
 
 ---
 
+[[代價 (The Cost)]]
+[[金銀島 (Treasure Island)]]
+[[奧地利大飯店 (Grand Austria Hotel)]]
+[[深淵密謀 (Conspiracy)]]
+[[小早川 (Kobayakawa)]]
 [[惡獸大陸 (Monster Lands)]]
 [[科英布拉 (Coimbra)]]
 [[手機帝國 (Smartphone Inc.)]]
@@ -53,3 +58,7 @@ From: [[AllNotes]]
 [[傳奇發明家]]
 [[勃根地城堡]]
 [[神秘大地]]
+
+      
+
+780+1250+1100+825
