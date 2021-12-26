@@ -6,6 +6,8 @@ From: [[AllNotes]]
 
 ---
 
+[[氏族 (Gentes)]]
+[[北方帝國 (Imperial Settlers - Empires of the North)]]
 [[代價 (The Cost)]]
 [[金銀島 (Treasure Island)]]
 [[奧地利大飯店 (Grand Austria Hotel)]]
