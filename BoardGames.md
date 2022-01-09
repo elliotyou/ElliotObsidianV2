@@ -6,6 +6,8 @@ From: [[AllNotes]]
 
 ---
 
+[[盛譽學院 (Alma Mater)]]
+[[洞穴農夫 (Caverna)]]
 [[聖家族大教堂 (Sagrada)]]
 [[蒼天之死]]
 [[老師敬服 (Master of Respect)]]
