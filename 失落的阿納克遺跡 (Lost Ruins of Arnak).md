@@ -2,6 +2,8 @@ From: [[BoardGames]]
 
 ---
 
+[[2022-01-14 (五)]] 在BGA和Ben, Crystal, Lenny
+
 <a href="https://imgur.com/MN3aSBb"><img src="https://i.imgur.com/MN3aSBb.jpg" title="source: imgur.com" /></a>
 
 ```
