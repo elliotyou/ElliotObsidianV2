@@ -32,3 +32,5 @@ Jones
 小Johnson
 Keith
 Eddy
+Jack (陞泰實習)
+Ryan (陞泰實習)
