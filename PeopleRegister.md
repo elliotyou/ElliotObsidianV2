@@ -2,14 +2,18 @@ From: [[AllNotes]]
 
 ---
 
-[[Eric (桌遊咖)]]
-[[維真]]
+Ryan (陞泰實習)
+Rosa
+Alan.Wu
+Ashley
+[[Crystal]]
 [[小孟]]
 [[健興]]
+[[Eric (桌遊咖)]]
+[[維真]]
 [[裴裴]]
 [[David.Lee]]
 [[Jojo]]
-[[Crystal]]
 [[Daniel 陳龍]]
 [[Marcus]]
 [[Ben]]
@@ -25,10 +29,8 @@ From: [[AllNotes]]
 [[Chloe]]
 [[Bryant Kung]]
 [[仲威 (健興朋友)]]
-Rosa
-Alan.Wu
-Ashley
 Jones
 小Johnson
 Keith
 Eddy
+Jack (陞泰實習)

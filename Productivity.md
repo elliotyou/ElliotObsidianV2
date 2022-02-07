@@ -2,6 +2,8 @@ From: [[AllNotes]]
 
 ---
 
+[[PM 工作技巧心得]]
+
 [[Learning How to Learn, 學習技巧]]
 
 [[演講技巧]]

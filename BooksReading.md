@@ -213,25 +213,17 @@ CyberDuck → 隊長在用的軟體，可以將公有雲的服務轉成ftp資料
 舊鞋舊衣的處理
 摩爾空間價格問小孟
 整理我的書，衣櫃裡的箱子還有空間放？
-考慮禾豐家具的壁床
 買：Ashley推薦的衣服，很酷！ → 美國 BAUBAX 全球最強 旅行外套 15種功能、
-買：椅子包包 (http://shop.pack-chair.com/products/packchair-blue-1?gclid=CPXUka6Z0tECFUl-vQod5SIHWQ)
-充電 3號充電電池，有需要的話
-不要的平板、手機、拿來當錄影機反饋、定時器
-履歷優化：把QTS、AVTASS、爬蟲軟體、自己各個懶人包收集，面試時以備不時之需 、要考量工作環境(PTT) → NAS上也有發一個後來的履歷
+履歷優化：把 QTS、AVTASS、爬蟲軟體、自己各個懶人包收集，面試時以備不時之需 、要考量工作環境(PTT) → NAS上也有發一個後來的履歷
 Windows的軟體Search everything很好用，是南非IN-DE的Paul推薦的
 買：韓版三用背包，https://www.modernistlook.com/en/product/modernist-max-water-resistant-usb-charging-port-travel-backpack/?utm_campaign=NoInterestManual&utm_source=BigCountryMaxFilm&utm_medium=facebook&utm_term=&utm_content=video3
 買：各式帽子
 別再讓鬧鐘貪睡功能慣壞你！「Kiwake Alarm Clock」讓你第一次起床就上手！（iPhone, iPad）
 Most Popular Featured Bags and Workspaces of 2015
 買：出去玩時，收納衣服專用袋 → http://bit.ly/2RMEFKG
-買：半正式、又可以常穿的休閒鞋
-買：室內拖鞋、Echo系列/智慧音箱、站桌
 備份自己的MAC Time Machine到NAS
-偶爾跟Fersonal預約看衣服、帽子 (上一次是20190508)
 媽的電腦裡有一些我沒存到的照片
 把桌遊東京之王賣掉，可參考：東京之王 中文版 拆封後僅玩兩場，留上下膜，無缺件，卡牌皆上厚套， 遊戲圖板用書套包膜，玩家圖板上厚套(不影響轉盤使用)， 欲售$1000。然後附圖片
-買：蘋果去核器
 要去台新銀行的ATM重設一下金融卡的密碼、辦合庫線上轉帳功能
 
 ### 待看電影清單：
@@ -247,7 +239,7 @@ Most Popular Featured Bags and Workspaces of 2015
 The Mist 迷霧 Netflix (哥推薦)
 
 ### 笑點登記表 register
-，開始review一些正治人物的相片，講到吳敦義的時候，說他本來要查白賊七，結果打白賊冒出來的是白賊義XDD，然後現場從從打白賊enter，第一筆是吳敦義的維基百科XDD。view到朱立倫的時候說這個人慢慢被遺忘了XD，然後又補充也沒有慢慢是快快XD
+開始review一些正治人物的相片，講到吳敦義的時候，說他本來要查白賊七，結果打白賊冒出來的是白賊義XDD，然後現場從從打白賊enter，第一筆是吳敦義的維基百科XDD。view到朱立倫的時候說這個人慢慢被遺忘了XD，然後又補充也沒有慢慢是快快XD
 大象vs小白兔，進來可好
 大象vs小白兔，你怕髒嗎
 小明，伸了幾隻手指頭？
@@ -260,10 +252,7 @@ The Mist 迷霧 Netflix (哥推薦)
 Clean Code相關書籍：https://softnshare.com/10classprogrammerbooks/
 
 想要幸福的人生，就別再追求快樂了! | 好奇心的幸福力量 | 啾讀。第9集 | 啾啾鞋
-為什麼媒體總是偏頗? 為什麼我的暗示對方都不懂? | 為什麼我們總是相信自己是對的? | 啾讀。第7集 | 啾啾鞋
 你其實一點都不客觀! | 房間裡最有智慧的人 | 啾讀。第25集 | 啾啾鞋
-
-伯恩斯新情緒療法，冏星人推薦，憂鬱症初期很好用
 
 人口結構轉變的「寧靜危機」| 未來年表 | 啾讀。第24集 | 啾啾鞋
 
@@ -281,8 +270,6 @@ from 嫌疑犯X的獻身 | 何者 - 直木賞特集Part2 | 囧說書S1EP4
 嫌疑犯x的獻身
 from 冏星人
 我是一個媽媽 我需要一個柏金包
-from I'm Charlie 最近看了哪些書？其中兩本此生必讀！
-鱷魚的黃眼睛
 from 我的2016年推薦書單 非小說類 (上) | 囧說書特別篇
 哲學的40堂公開課
 一天聽一點 #334】「同理心」有時候是種病! | #影片版
