@@ -8,10 +8,10 @@ From: [[AllNotes]]
 
 ---
 
+[[阿格拉 (Agra)]]
 [[代價 (The Cost)]]
 [[卓越的羅倫佐 (Lorenzo il Magnifico)]]
 [[格蘭摩爾2編年史 (Glen MoreII Chronicles)]]
-[[阿格拉 (Agra)]]
 [[法老 (Pharaon)]]
 [[塞西亞掠奪者 (Raiders of Scythia)]]
 [[盛譽學院 (Alma Mater)]]
