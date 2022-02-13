@@ -4,6 +4,8 @@
 
 [[2022-02-04 (五)]] 健興小孟來林口玩，11:00 ~ 23:00
 
+<a href="https://imgur.com/3veHjfS"><img src="https://i.imgur.com/3veHjfS.jpg" title="source: imgur.com" width="600px"/></a>
+
 [[2022-01-29 (六)]] 健興、小孟在林口
 
 [[2022-01-22 (六)]] 健興
