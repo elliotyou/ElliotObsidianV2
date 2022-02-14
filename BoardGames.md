@@ -8,6 +8,7 @@ From: [[AllNotes]]
 
 ---
 
+[[圖拉真 (Trajan)]]
 [[阿格拉 (Agra)]]
 [[代價 (The Cost)]]
 [[卓越的羅倫佐 (Lorenzo il Magnifico)]]
