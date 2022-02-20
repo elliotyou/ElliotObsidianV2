@@ -8,6 +8,10 @@ From: [[AllNotes]]
 
 ---
 
+[[快餐連鎖大亨 (Food Chain Magnate)]]
+[[極東之旅 (Stroganov)]]
+
+
 [[圖拉真 (Trajan)]]
 [[阿格拉 (Agra)]]
 [[代價 (The Cost)]]
@@ -17,7 +21,6 @@ From: [[AllNotes]]
 [[塞西亞掠奪者 (Raiders of Scythia)]]
 [[盛譽學院 (Alma Mater)]]
 [[蒙巴薩 (Mombasa)]]
-[[快餐連鎖大亨 (Food Chain Magnate)]]
 [[看板 (KANBAN EV)]]
 [[法尤姆 (Faiyum)]]
 [[特魯瓦 (Troyce)]]
