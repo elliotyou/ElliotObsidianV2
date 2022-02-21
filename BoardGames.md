@@ -10,8 +10,6 @@ From: [[AllNotes]]
 
 [[快餐連鎖大亨 (Food Chain Magnate)]]
 [[極東之旅 (Stroganov)]]
-
-
 [[圖拉真 (Trajan)]]
 [[阿格拉 (Agra)]]
 [[代價 (The Cost)]]
