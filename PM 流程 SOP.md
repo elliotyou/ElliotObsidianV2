@@ -1,5 +1,5 @@
 From: [[神達數位]]
-[[GeoTab Smart Cable]]
+[[N708 Riemann - Smart Cable]]
 
 ---
 

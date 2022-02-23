@@ -1,4 +1,4 @@
-[[GeoTab Smart Cable]]
+[[N708 Riemann - Smart Cable]]
 
 ---
 

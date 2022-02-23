@@ -420,7 +420,7 @@ Ashley推薦的Python網站 (https://buzzorange.com/techorange/2019/09/09/python
 
 
 ### 理想工作的描述
-能有一定規模的團隊可以交流。類似以似Bryant Team，還有現在Otis Team。也是我離開瑞祺和資拓宏宇的原因 (我內心潛在想法並不認同Jody和Danny的PM能力)
+能有一定規模的團隊可以交流。類似以似 Bryant Team，還有現在Otis Team。也是我離開瑞祺和資拓宏宇的原因 (我內心潛在想法並不認同 Jody 和 Danny 的 PM 能力)
 
 ### 出去玩的Checklist, Checking List
 搭MRT：捷運卡、鑰匙、錢包、耳機

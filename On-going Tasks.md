@@ -4,16 +4,17 @@
 
 Active Tasks:
 - [[VT Team Genral Tasks]]
-- [[GeoTab Smart Cable]]
-- [[Ethernet Camera IPCAM]]
-- [[Rear Camera IP69K]]
-- [[New Approach, 奇美車電, Gemini]]
-- [[New Approach, Amazon TW]] 
-- [[Cooperation with ATrack]]
+- [[N708 Riemann - Smart Cable]]
+- [[RFQ0645 External TVI Camerae]]
+- [[RFQ0644 External USB Camera]]
 
 ---
 
 Inactive Tasks
+- [[New Approach, 奇美車電, Gemini]]
+- [[New Approach, Amazon TW]] 
+- [[Cooperation with ATrack]]
+- [[Ethernet Camera IPCAM]]
 - [[Berginsights 市場調查資料整理]]
 - [[新人評核表]]
 - [[Andy 4 samples test]]

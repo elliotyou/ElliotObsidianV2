@@ -16,4 +16,4 @@ From: [[神達數位]]
 - [[Intelligent Vision]]
 
 ### Accessory
-- [[GeoTab Smart Cable]]
+- [[N708 Riemann - Smart Cable]]

@@ -4,6 +4,8 @@
 
 ---
 
+[[13.1 Stakeholders]]
+
 [[Smart Cable - ITTOs]]
 
 [[Smart Cable Business Strategy]]

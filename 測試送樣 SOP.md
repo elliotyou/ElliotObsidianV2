@@ -20,7 +20,7 @@
 - 告知業務，口頭或 email
 - 如果是我們的新客人，要幫客人創建新的 GROUP，這部分跟ADM很像，需要客人的 email ，然後系統會寄認證信請他激活。我再將屬於它的機器掛到他底下，他登入後就會看到了
 - 如果是LM自己的客人，他們會自行 unassign
-- [[告知客人如何啟用]]
+- [[送樣後 告知客人如何啟用]]
 
 ---
 
@@ -40,9 +40,11 @@
 - 確認 MiDM 已 import 該機器，並且看得到該機器上線
 - 與 David 路測，確定在 PORTAL 上收到，確定各種 Events 有觸發成功
 - Update 資訊到 [Sample IMEI](https://docs.google.com/spreadsheets/d/1b-vdVmNpRJRRcMJKQ6YLuKp7PbTOslTs/edit?usp=sharing&ouid=112782493369308983971&rtpof=true&sd=true)
+- [[確認 SD Card 有抓到]]
+- [[確認 SIM Card 有抓到]]
 - 盤點工具，確認沒有卡片插在機器上
 - 幫他註冊好帳號，用手機登入他們的帳號，密碼統一 mitac123，然後註冊好他們的機器，讓他們到時候一登入就可以看到
-- 告知業務或 [[告知客人如何啟用]]
+- [[送樣後 告知客人如何啟用]]
 - 要提醒一下盒中的手冊是 LM 不是 IV
 - 教客人 MiDM (懶人包 - 教客人 MiDM)
 - 教客人 [[SD Format 觀念]]
