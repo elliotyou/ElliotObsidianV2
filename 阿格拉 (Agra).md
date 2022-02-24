@@ -7,6 +7,7 @@
 ---
 
 [[2022-02-20 (日)]] 健興、裴裴，3 人一起
+<a href="https://imgur.com/0MjVzJR"><img src="https://i.imgur.com/0MjVzJR.jpg" title="source: imgur.com" width="600px"/></a>
 
 
 [[2022-02-12 (六)]] 健興、小孟 在林口 A8

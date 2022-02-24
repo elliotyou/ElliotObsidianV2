@@ -43,6 +43,6 @@ External DMS 目的:
 - (ME) High-Level Hard Tooling
 - (ME) High-Level ME BOM
 - (PMP) High-Level MVA 
-- (PMD) High-Level Human Resource
+- (PMD) High-Level Human Resource 
 
 [[4.1 Project Charter]] - ROI
