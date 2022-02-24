@@ -3,14 +3,14 @@
 ---
 
 Active Tasks:
-- [[VT Team Genral Tasks]]
 - [[N708 Riemann - Smart Cable]]
-- [[RFQ0645 External TVI Camerae]]
 - [[RFQ0644 External USB Camera]]
+- [[RFQ0645 External TVI Camera]]
 
 ---
 
 Inactive Tasks
+- [[VT Team Genral Tasks]]
 - [[New Approach, 奇美車電, Gemini]]
 - [[New Approach, Amazon TW]] 
 - [[Cooperation with ATrack]]
