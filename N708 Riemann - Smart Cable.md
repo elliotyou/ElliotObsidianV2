@@ -59,6 +59,8 @@ Others: [[Smart Cable Outer Stakeholders]]
 [[4.1 Project Charter]] - Final ROI for BI System
 - D073_NRE_Table_for_ROI_Evaluation_R15.xlsx
 
+[[5.3 Define Scopes]] - [[GP_Checklist]]
+
 
 ---
 
