@@ -19,7 +19,7 @@ External DMS 目的:
 
 |Function|PIC|CC|
 |:--:|--|--|
-|PMD|Gennie |Grace|
+|PMD|Peggy.li |Grace|
 |EE|Jui.chung |Jeff|
 |ME|Flame|--|
 |ID|Mac |Ray.kuo|
@@ -42,7 +42,10 @@ External DMS 目的:
 - (EE) High-Level EE BOM
 - (ME) High-Level Hard Tooling
 - (ME) High-Level ME BOM
-- (PMP) High-Level MVA 
-- (PMD) High-Level Human Resource 
+- (PMP) High-Level Factory MVA 
+- (PMP) High-Level Factory NRE
+- (PMD) High-Level Human Resource
+- (RF/EMI) Regulation Fee
+- (Safety) Regulation Fee
 
 [[4.1 Project Charter]] - ROI
