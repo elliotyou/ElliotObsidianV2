@@ -6,6 +6,8 @@ From: 最上層
 
 [[神達數位]]
 
+[[離職後的我可以幹嘛]]
+
 ### Goals
 1. [[An English Expert]] → 逐字稿 500min
 2. [[An Obvious Body Builder]] → 日常安排中，有運動成份
