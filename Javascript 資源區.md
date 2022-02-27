@@ -1,19 +1,15 @@
-From: [[AllNotes]]
+From: [[Programming]]
 
 ---
 
 實做學習：
-* 網站開發程序
-* JavaScript實際範例及註解
+* [[J網站開發程序]]
 
 理論學習：
 * [[Javascript 重要觀念]]
 
-方法論: 
-* [[學code寫筆記的觀念]]
-
-語法查表：
-* Terminal 常用語法
+Cheet Sheets 語法查表：
+* [[Terminal 常用語法]]
 * Mongoose 語法
 * MySQL 語法
 * ORM 語法

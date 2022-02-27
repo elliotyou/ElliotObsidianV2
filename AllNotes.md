@@ -23,11 +23,11 @@ From: 最上層
 - [[LunchBoxes]]
 
 ### Knowledge Base:
-- [[Javascript 資源區]]
+- [[Programming]]
 - [[EnglishLearning]]
-- [[Productivity]]
 - [[BooksReading]]
 - [[得到]]
+- [[Productivity]]
 - [[GrowUpRegister]]
 
 ### Personal: 
