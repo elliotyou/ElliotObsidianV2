@@ -17,7 +17,7 @@
 
 |Function|PIC|CC|
 |:--:|:--:|:--:|
-|PMD|`???` |Grace|
+|PMD|Gennie|Grace|
 |EE|Jui.chung |Jeff|
 |ME|--|--|
 |ID|--|--|
