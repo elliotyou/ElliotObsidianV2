@@ -7,26 +7,22 @@
 
 ---
 
-## J1.1 Create Project Folder
+### J1.1 Create Project Folder
 
-## J1.2 Create Basic Express
+### J1.2 Create Basic Express
+
+### J1.3 READ of CRUD
 
 ```js
-const express = require('express')
-const app = express()
-const port = 3000 // 指定 port
-
-app.get('/', (req,res) => { // 設一個最基本 route
-  res.send('this is my first web')
-})
-
-app.listen(port, () => { // 啟動監聽 server
-  console.log(`Express is running on http://localhost:${port}`)
-})
+Todo.find()
+  .lean()  // data 額外的東西拿掉
+  .then(todos => res.render('index', { todos }))
+  .catch(error => console.error(error))
 ```
 
-$ node app.js 測試執行
+### J1.4 CREATE of CRUD
+- 讀取大概
+- 讀取各別 item
 
-$ nodemon app.js 測試執行
+### J1.5 UPDATE of CRUD
 
-確認 `http://localhost:3000` 有通

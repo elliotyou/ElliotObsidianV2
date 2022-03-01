@@ -7,10 +7,6 @@
 ---
 
 [[J0 建構環境]]:
-- Repl.it
-- CodePen
-- Terminal
-- Visual Studio
 
 [[J1 建構 Express]]
 
@@ -21,3 +17,5 @@
 [[J4 建構 FontAwesome]]
 
 [[J5 建構 HTML]]
+
+[[J6 建構 MongoDB]]

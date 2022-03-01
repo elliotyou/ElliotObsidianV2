@@ -12,10 +12,8 @@ From: 最上層
 1. [[An English Expert]] → 逐字稿 500min
 2. [[An Obvious Body Builder]] → 日常安排中，有運動成份
 3. [[A FreeStyle Pop Pianist]] → 日常安排中，有練琴成份
-5. [[A Full Experienced PM]] → 記錄工作所學，不輕言放棄
-6. [[An Entry Website Developer]] → 背單字系統
-7. 養過1隻寵物的人
-8. A Software PM
+4. [[An Entry Website Developer]] → 背單字系統
+5. 養過1隻寵物的人
 
 
 ### Eat and Play:
@@ -29,6 +27,11 @@ From: 最上層
 - [[得到]]
 - [[Productivity]]
 - [[GrowUpRegister]]
+
+### Health
+- 心肺
+- 增肌
+- 柔軟
 
 ### Personal: 
 - [[PeopleRegister]]
