@@ -520,3 +520,46 @@ app.post('/todos/:id', (req, res) => {
 
 `$ npm run dev` → 實測結果
 
+**J1.6 DELETE of CRUD**
+
+`$ code views/index.hbs`
+
+```html
+...
+  {{#each todos}}
+  <li>
+    ...
+    ...
+    <form action="./todos/{{ this._id }}/delete" method="POST" style="display: inline;"> <!-- 加這行 -->
+      <button type="submit">delete</button> <!-- 加這行 -->
+    </form> <!-- 加這行 -->
+  </li>
+  {{/each}}
+...
+```
+
+`$ code app.js`
+
+```js
+app.post('/todos/:id/delete', (req, res) => {
+  const id = req.params.id
+  return Todo.findById(id)
+    .then(todo => todo.remove())
+    .then(() => res.redirect('/'))
+    .catch(error => console.log(error))
+})
+```
+
+`$ npm run dev`
+
+試刪一個檔案
+
+detail.hbs的最後面也放相同，只是那個this 要換掉
+
+```js
+<form action="/todos/{{ todo._id }}/delete" method="POST" style="display: inline;">
+	<button type="submit">delete</button>
+</form>
+```
+
+實測再回去 detail 頁也可以刪了

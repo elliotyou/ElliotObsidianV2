@@ -26,3 +26,5 @@ Todo.find()
 
 ### J1.5 UPDATE of CRUD
 
+### J1.6 DELETE of CRUD
+
