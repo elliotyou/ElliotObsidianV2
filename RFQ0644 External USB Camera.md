@@ -20,37 +20,16 @@ External DMS 目的:
 |Function|PIC|CC|
 |:--:|--|--|
 |PMD|Peggy.li |Grace|
-|EE|Jui.chung |Jeff|
-|ME|Flame|--|
+|EE|Jui.chung |Jeff.fang|
+|ME|Zack.qin|Flame.he|
 |ID|Mac |Ray.kuo|
 |SW - 610||Paris|
 |SW - APP||Woody|
-|RF/EMI|sy.liu |eric.c|
-|Safety||
-|PJE|Karen|
+|RF/EMI|Sy.liu (Albert) |Eric.c|
+|Safety|Samantha|Ruey-yuan|
+|PJE|Karen|Rebecca|
 |PMP|Biyu.dai<br>Zero.zhang |Lemon<br>Giuyan.yao|
-|DQE|--|Asia<br>Wayne|
-
-[[5.3 Define Scopes]]
-
-- [PRD - External In-cabin](https://docs.google.com/document/d/1QEjpqXqiM45tzqmXKoRuN3_Un0SBHNgA/edit?usp=sharing&ouid=112782493369308983971&rtpof=true&sd=true)
-- [PRD - External DMS](https://docs.google.com/document/d/1nDDn4TA2fsJQ3-mshdyYRyflkBMYGxwh/edit?usp=sharing&ouid=112782493369308983971&rtpof=true&sd=true) 
-
-
-[[4.1 Project Charter]] - High-Level Estimation
-- (PMD) High-Level Schedule
-- (EE) High-Level EE BOM
-- (ME) High-Level Hard Tooling
-- (ME) High-Level ME BOM
-- (PMP) High-Level Factory MVA 
-- (PMP) High-Level Factory NRE
-- (PMD) High-Level Human Resource
-- (RF/EMI) Regulation Fee
-- (Safety) Regulation Fee
-
-[[4.1 Project Charter]] - ROI
-
-[[13.1 Identify Stakeholders]]
+|DQE|Dennis.lch|Asia<br>Wayne|
 
 |Team|Name|Tel|
 |:--:|--|--|
@@ -66,3 +45,28 @@ External DMS 目的:
 |QE|SMT PQE: li.bowen (李博文 - MKL)  <br> SYS PQE: joyhappy.wang (王珺杰 - MKL)|838-3906 <br> 838-3941|
 |PE DM|wangtao.tao (王燾 - MKL)|--|
 |PE|wangxi.9508 (汪熹 - MKL)|--|
+
+[[5.3 Define Scopes]]
+
+- [PRD - External In-cabin](https://docs.google.com/document/d/1QEjpqXqiM45tzqmXKoRuN3_Un0SBHNgA/edit?usp=sharing&ouid=112782493369308983971&rtpof=true&sd=true)
+- [PRD - External DMS](https://docs.google.com/document/d/1nDDn4TA2fsJQ3-mshdyYRyflkBMYGxwh/edit?usp=sharing&ouid=112782493369308983971&rtpof=true&sd=true) 
+
+
+[[4.1 Project Charter]] - High-Level Estimation
+- [ ] (PMD) High-Level Schedule (procecuting...)
+- [ ] (EE) High-Level EE BOM
+- [ ] (ME) High-Level Hard Tooling
+- [ ] (ME) High-Level ME BOM
+- [ ] (PMP) High-Level Factory MVA (procecuting...)
+- [ ] (PMP) High-Level Factory NRE (procecuting...)
+- [ ] (PMD) High-Level Human Resource (procecuting...)
+- [ ] (RF/EMI) Regulation Fee (procecuting...)
+- [x] (Safety) Regulation Fee ($82200 * 2)
+
+[[4.1 Project Charter]] - ROI
+
+[[5.3 Define Scopes]]
+
+5.3.2 PRD
+確認 AIT8328P 不會 EOL 再動
+
