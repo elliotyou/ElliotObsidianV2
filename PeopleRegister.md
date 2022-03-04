@@ -14,7 +14,7 @@ From: [[AllNotes]]
 [[Jojo]]
 Ryan (陞泰實習)
 Rosa
-Alan.Wu
+Alan.Wu 謝謝 Ashley Alan 讓我省錢買椅子，解封後請他們吃頓飯
 Ashley
 [[Eric (桌遊咖)]]
 [[維真]]
@@ -31,7 +31,7 @@ Ashley
 [[Chloe]]
 [[仲威 (健興朋友)]]
 Jones
-小Johnson
+小 Johnson
 Keith
 Eddy
 Jack (陞泰實習)

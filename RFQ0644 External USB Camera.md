@@ -53,14 +53,14 @@ External DMS 目的:
 
 
 [[4.1 Project Charter]] - High-Level Estimation
-- [ ] (PMD) High-Level Schedule (procecuting...)
-- [ ] (EE) High-Level EE BOM
-- [ ] (ME) High-Level Hard Tooling
-- [ ] (ME) High-Level ME BOM
-- [ ] (PMP) High-Level Factory MVA (procecuting...)
-- [ ] (PMP) High-Level Factory NRE (procecuting...)
+- [x] (PMD) High-Level Schedule (procecuting...)
+- [x] (EE) High-Level EE BOM 
+- [x] (ME) High-Level Hard Tooling
+- [x] (ME) High-Level ME BOM
+- [x] (PMP) High-Level Factory MVA ($4.18)
+- [x] (PMP) High-Level Factory NRE ($35,726)
 - [ ] (PMD) High-Level Human Resource (procecuting...)
-- [ ] (RF/EMI) Regulation Fee (procecuting...)
+- [x] (RF/EMI) Regulation Fee ($130,000 * 2)
 - [x] (Safety) Regulation Fee ($82200 * 2)
 
 [[4.1 Project Charter]] - ROI

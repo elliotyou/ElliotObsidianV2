@@ -8,6 +8,7 @@ From: [[AllNotes]]
 
 ---
 
+[[太陽之外 (Beyond the Sun)]]
 [[歷史巨輪 (Through the Ages)]]
 [[快餐連鎖大亨 (Food Chain Magnate)]]
 [[極東之旅 (Stroganov)]]
