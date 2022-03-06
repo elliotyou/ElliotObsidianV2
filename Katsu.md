@@ -1,7 +1,12 @@
-From: [[PeopleRegister]]
-
+---
+aliases: Katsu
+caegory:
+tags: [People]
 ---
 
+[[PeopleRegister]]
+
+---
 愛養寵物，養過狗、貓、鳥、鴿、蛇、蛙、守宮、昆蟲……
 
 喜歡收藏球鞋

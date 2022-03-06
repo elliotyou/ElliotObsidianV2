@@ -4,6 +4,7 @@
 
 自己的筆記: Evernote
 擴充教學: [影片](https://youtu.be/cbaX_XkRD5Y)
+Walkthrough: [影片](https://youtu.be/z0MU6wK98vI)
 
 ---
 

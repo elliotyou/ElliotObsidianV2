@@ -1,7 +1,13 @@
+---
+aliases: QBurger
+status: archived
+place: A8
+tags: [Lunchbox/美式/漢堡, Breakfast]
+---
+
 [[LunchBoxes]]
 
 ---
-
 [[2022-03-04 (五)]] 松露蕈菇厚牛堡 $117
 <a href="https://imgur.com/v8BlFPZ"><img src="https://i.imgur.com/v8BlFPZ.jpg" title="source: imgur.com" width="600px"/></a>
 

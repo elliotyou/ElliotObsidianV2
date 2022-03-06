@@ -1,3 +1,10 @@
+---
+date: 2022-03-06
+aliases: ADB Commands
+status: Inbox
+tags:
+---
+
 From: [[Firmware Upgrade]]
 
 ---

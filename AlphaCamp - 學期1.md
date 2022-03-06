@@ -1,3 +1,10 @@
+---
+date: 2022-03-06
+aliases: AlphaCamp - 學期1
+status: Inbox
+tags:
+---
+
 From: [[AlphaCamp 正規班]]
 
 ----

@@ -1,8 +1,11 @@
-From: [[Movies]]
-
+---
+date: 2021-10-25
+aliases: 007 生死交戰 No Time to Die
+status: archived
+tags: event 
 ---
 
-[[2021-10-25 (一)]] Marcus, Crystal, Katsu @ A13 威秀
+Marcus, Crystal, Katsu @ A13 威秀
 
 <a href="https://imgur.com/a25PqjM"><img src="https://i.imgur.com/a25PqjM.jpg" title="source: imgur.com" width="600px"/></a>
 

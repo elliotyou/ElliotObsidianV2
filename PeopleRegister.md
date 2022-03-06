@@ -1,6 +1,14 @@
-From: [[AllNotes]]
+[[Archived]]
 
 ---
+
+
+```dataview
+table aliases as Description
+from #People 
+where status="archived"
+sort file.mtime desc
+```
 
 [[ChiYing]]
 [[David.Lee]]
@@ -21,7 +29,6 @@ Ashley
 [[Daniel 陳龍]]
 [[Marcus]]
 [[Ben]]
-[[Katsu]]
 [[天龍]]
 [[Chris.Chen (AC)]]
 [[仲崴 (AC)]]
