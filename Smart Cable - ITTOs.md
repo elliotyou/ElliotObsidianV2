@@ -1,7 +1,3 @@
-[[N708 Riemann - Smart Cable]]
-
----
-
 const thought = Stark() //我來之前就被討論過想法
 const feasibility = Stark(thought) //我來之前就已經有被討論過可行
 const Approvement = Stark() //2021/11/18 Stark 請廠商來，請我也拉一堆人來，這就確定是玩真的了

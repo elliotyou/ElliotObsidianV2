@@ -1,6 +1,3 @@
-[[On-going Tasks]]
-
----
 
 **SD Card 其它廠牌 stability 驗證**
 - #elliotyou 安排燒機以後交還 #paulchen 

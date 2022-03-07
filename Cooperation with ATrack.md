@@ -1,6 +1,3 @@
-[[On-going Tasks]]
-
----
 
 [[2021-12-02 (四)]]
 MiTAC 拜訪 ATrack

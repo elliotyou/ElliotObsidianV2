@@ -1,7 +1,3 @@
-[[On-going Tasks]]
-
----
-
 [[2021-11-12 (五)]]
 - One for LM, the other for Mio
 - For LM

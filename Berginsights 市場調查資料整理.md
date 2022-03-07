@@ -1,11 +1,3 @@
-[[On-going Tasks]]
-
----
-
-參考資料
-[[BergInsights_VideoTelematics.pdf]]
-
----
 
 [[2021-11-12 (五)]]
 
@@ -55,3 +47,8 @@ UK 用 Intelligenet Telematics
 南非市場概述
 
 2.2.3
+
+
+---
+參考資料
+[[BergInsights_VideoTelematics.pdf]]

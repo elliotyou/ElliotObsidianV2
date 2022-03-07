@@ -1,7 +1,3 @@
-[[5.3 Define Scopes]]
-
----
-
 以 Smart cable 為例: 
 - D076_MDT_GP_Checklist_22H1_R00_0209_Riemann.xls
 

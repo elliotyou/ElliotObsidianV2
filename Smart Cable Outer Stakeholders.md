@@ -1,6 +1,3 @@
-[[N708 Riemann - Smart Cable]]
-
----
 
 Geotab:
 - [[John Ballantyne]] (VP)

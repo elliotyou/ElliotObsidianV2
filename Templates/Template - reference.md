@@ -1,6 +1,5 @@
 ---
 date: {{date}}
 aliases: 
-status: Inbox
-tags: []
+tags: reference
 ---

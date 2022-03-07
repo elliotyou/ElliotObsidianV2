@@ -1,6 +1,3 @@
-[[On-going Tasks]]
-
----
 
 [[2021-11-11 (四)]]
 - 討論很多GPS Drifting 的細節

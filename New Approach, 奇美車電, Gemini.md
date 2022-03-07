@@ -1,7 +1,3 @@
-[[On-going Tasks]]
-(Re: MioEYE sample)
-
----
 
 Background:
 - 我們和奇美是 solution partner 的關係。他們有 AI 分析的能力，但是沒有VT硬體，也沒有像VisionMax那樣的後台。寄樣品給他們主要是合作關係，看他們到時候放軟體到我們CDR 上之後效果如何，也許也可以接我們的 VisionMax 去服務他們的客人。看他們測試以後想要怎麼做
