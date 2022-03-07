@@ -1,7 +1,9 @@
-[[AllNotes]]
-
 ---
-
+date: 2022-03-06
+aliases: Archived
+status: archived
+tags:
+---
 
 ```dataview
 table aliases as Description, tags
@@ -11,11 +13,12 @@ sort tags
 ```
 
 ---
-## [[Events]]
-## [[LunchBoxes]]
-## [[Knowledge]]
-## [[Books]]
-## [[PeopleRegister]]
-## [[DailyReport]]
+
+[[Events]]
+[[LunchBoxes]]
+[[Knowledge]]
+[[Books]]
+[[PeopleRegister]]
+[[DailyReport]]
 
 ---

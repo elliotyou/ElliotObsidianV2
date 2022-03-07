@@ -1,15 +1,13 @@
-[[AllNotes]]
-
+---
+date: 2022-03-06
+aliases: Inbox
+status: archived
+tags:
 ---
 
 ```dataview
-table aliases as Description
-where status!="Inbox" and !file.day
-limit 5
+table aliases as Description, status
+where date>=date(som) and date<=date(eom) and status="Inbox"
+sort file.mtime desc
 ```
 
-```dataview
-table aliases as Description
-where status="Inbox"
-limit 5
-```

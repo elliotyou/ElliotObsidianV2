@@ -1,8 +1,8 @@
 ---
 date: 2022-03-06
 aliases: Tesla 充電椿安裝商
-caegory:
-tags: Knowledge/Tesla/充電椿/Installers
+status: Inbox
+tags: 
 ---
 
 以現在台灣的 特斯拉 買主來說，通常都會在自家安裝一個充電椿
@@ -20,3 +20,4 @@ tags: Knowledge/Tesla/充電椿/Installers
 
 我們(銳能) 準備要成為第 8 家，只要一通過，肯定是直接會有一堆電話打來詢問
 
+參考: [Tesla 官網]([尋找充電廠商 | Tesla](https://www.tesla.com/zh_TW/support/find-electrician))

@@ -1,7 +1,7 @@
 ---
 date: {{date}}
 aliases: 
-caegory:
+status: Inbox
 tags: []
 ---
 

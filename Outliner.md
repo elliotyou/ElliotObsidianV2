@@ -1,3 +1,10 @@
+---
+date: 2022-03-06
+aliases: Outliner
+status: Inbox
+tags:
+---
+
 [[Obsidian]]
 
 ---

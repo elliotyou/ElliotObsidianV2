@@ -1,5 +1,8 @@
-[[BoardGames]]
-
+---
+date: 2022-03-06
+aliases: BGA Notes
+status: archived
+tags:
 ---
 
 [[奧丁 02218]]

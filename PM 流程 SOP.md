@@ -1,7 +1,4 @@
-From: [[神達數位]]
-[[N708 Riemann - Smart Cable]]
 
----
 
 Feasibility Phase → Project Phase
 

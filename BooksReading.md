@@ -1,5 +1,8 @@
-[[AllNotes]]
-
+---
+date: 2022-03-06
+aliases: BooksReading
+status: Inbox
+tags:
 ---
 
 職涯發展、管理學

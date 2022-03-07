@@ -1,6 +1,4 @@
-From: [[神達數位]]
 
----
 
 ### Hardware
 - EVO: Gemini的高階版

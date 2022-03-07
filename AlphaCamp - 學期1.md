@@ -5,9 +5,6 @@ status: Inbox
 tags:
 ---
 
-From: [[AlphaCamp 正規班]]
-
-----
 電腦與程式語言
 - U6-認識程式與電腦
 - U7-認識程式設計與程式語言

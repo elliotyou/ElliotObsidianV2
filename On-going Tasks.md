@@ -1,7 +1,3 @@
-[[神達數位]]
-
----
-
 Active Tasks:
 - [[N708 Riemann - Smart Cable]]
 - [[RFQ0644 External USB Camera]]

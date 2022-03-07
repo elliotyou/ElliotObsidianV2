@@ -1,23 +1,10 @@
----
-date: 2022-03-06
-aliases: AllNotes
-status: Inbox
-tags:
----
-
-From: 最上層
-
----
-
 1. [[Inbox]]
 2. [[Projects]]
 3. [[Area]]
-4. [[References]]
+4. [[文獻資料]]
 5. [[Archived]]
 
-
 ---
-
 
 [[神達數位]]
 

@@ -1,6 +1,4 @@
-[[神達數位]]
 
----
 
 NO Certificate 是 AT&T 的進階認證
 

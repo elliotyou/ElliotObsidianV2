@@ -1,6 +1,4 @@
-From: [[神達數位]]
 
----
 
 - PCB 的英文全稱為 Printed Circuit Board
 - PCBA = PCB + Assembly

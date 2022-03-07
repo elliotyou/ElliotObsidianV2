@@ -1,6 +1,3 @@
-From: [[PeopleRegister]]
-
----
 
 [[David.Lee]] 老婆
 

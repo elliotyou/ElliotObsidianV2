@@ -1,5 +1,8 @@
-[[Archived]]
-
+---
+date: 2022-03-06
+aliases: Events
+status: archived
+tags:
 ---
 
 ```dataview
@@ -8,3 +11,4 @@ from #event
 where status="archived"
 sort file.mtime desc
 ```
+

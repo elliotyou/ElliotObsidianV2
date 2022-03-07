@@ -1,6 +1,3 @@
-From: [[Javascript 資源區]]
-
----
 
 網路課程：
 * [[AlphaCamp 正規班]]

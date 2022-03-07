@@ -1,10 +1,15 @@
-[[Javascript 資源區]]
-
 ---
+date: 2022-03-06
+aliases: J網站開發程序
+status: Inbox
+tags:
+---
+
 
 [[28-Project-Practice]]
 
----
+
+
 
 [[J0 建構環境]]:
 

@@ -1,6 +1,3 @@
-From: [[AllNotes]]
-
----
 
 MicroSoft Office
 - Word

@@ -1,6 +1,3 @@
-From: [[AllNotes]]
-
----
 
 [[English Listening Practice]]
 

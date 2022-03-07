@@ -1,6 +1,3 @@
-[[神達數位]]
-
----
 
 ### LightMetrics
 - 請 Adrid 上傳

@@ -1,6 +1,3 @@
-From: [[Javascript 學習資源]]
-
----
 
 第 1 節： Getting Started
 - 1. Introduction and The Goal of This Course

@@ -1,7 +1,9 @@
-From: [[AllNotes]]
-
 ---
-
+date: 2022-03-06
+aliases: DailyReport
+status: Inbox
+tags:
+---
 
 ```dataview
 table aliases as Description
@@ -11,10 +13,9 @@ sort file.mtime desc
 ```
 
 
-
 [[ArchivedDailyReport]]
 
-2022-03-06 (日) 
+[[2022-03-06 (日)]] 
 2022-03-07 (一)
 2022-03-08 (二)
 2022-03-09 (三)

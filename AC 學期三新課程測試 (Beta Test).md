@@ -1,12 +1,8 @@
 ---
 date: 2022-03-06
 aliases: AC 學期三新課程測試 (Beta Test)
-status: Inbox
+status: archived
 tags:
----
-
-From: [[AlphaCamp 正規班]]
-
 ---
 
 [[2021-10-20 (三)]] kick off meeting

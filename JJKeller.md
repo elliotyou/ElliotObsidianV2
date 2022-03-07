@@ -2,7 +2,7 @@ From: [[MiTAC Customers]]
 
 ---
 
-2021 年 一月
+2021 年一月
 
 超過 100K subscriber 的 TSP
 

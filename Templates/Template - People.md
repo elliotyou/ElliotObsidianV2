@@ -1,6 +1,6 @@
 ---
 aliases: 
-caegory:
+status: Inbox
 tags: []
 ---
 

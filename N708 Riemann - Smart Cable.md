@@ -1,8 +1,4 @@
-[[On-going Tasks]]
-(Re: end customer info)
-(Re: Geotab smart cable)
 
----
 
 [[4.1 Project Charter]] - Pre-discussion
 - 半年前就有接洽 Geotab Smart Cable，但當時他們不想做。是近期連繫的時候才說又要做 Smart Cable。

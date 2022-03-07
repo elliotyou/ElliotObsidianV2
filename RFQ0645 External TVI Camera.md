@@ -1,3 +1,10 @@
+---
+date: 2022-03-06
+aliases: RFQ0645 External TVI Camera
+status: Inbox
+tags:
+---
+
 [[On-going Tasks]]
 
 ---

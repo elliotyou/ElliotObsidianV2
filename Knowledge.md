@@ -1,10 +1,12 @@
-[[Archived]]
-
+---
+date: 2022-03-06
+aliases: Knowledge
+status: archived
+tags:
 ---
 
+1. [[Career]]
+
 ```dataview
-table aliases as Description
-from #Knowledge 
-where status="archived"
-sort file.mtime desc
+table (aliases + status) as cool
 ```

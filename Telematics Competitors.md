@@ -1,6 +1,4 @@
-[[神達數位]]
 
----
 
 [[Competitors List]]
 

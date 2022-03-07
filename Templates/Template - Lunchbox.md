@@ -1,6 +1,6 @@
 ---
 aliases: {{title}}
-caegory: 
+status: Inbox
 place: A8
 tags:
 ---

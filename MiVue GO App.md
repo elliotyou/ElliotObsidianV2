@@ -1,3 +1,10 @@
+---
+date: 2022-03-06
+aliases: MiVue GO App
+status: Inbox
+tags:
+---
+
 From: [[測試送樣 SOP]]
 
 ---

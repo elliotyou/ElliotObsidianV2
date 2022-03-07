@@ -1,3 +1,10 @@
+---
+date: 2022-03-06
+aliases: 太陽之外 (Beyond the Sun)
+status: Inbox
+tags:
+---
+
 [[BoardGames]]
 
 ---

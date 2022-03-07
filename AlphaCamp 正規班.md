@@ -1,5 +1,8 @@
-From: [[Javascript 學習資源]]
-
+---
+date: 2022-03-06
+aliases: AlphaCamp 正規班
+status: Inbox
+tags:
 ---
 
 * [[AlphaCamp - 學期1]]

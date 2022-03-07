@@ -1,6 +1,4 @@
-[[神達數位]]
 
----
 
 當你去 google 「obd2 pin definition」，會看到類似下方的圖和定義
 

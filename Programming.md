@@ -1,6 +1,3 @@
-[[AllNotes]]
-
----
 
 - [[Javascript 資源區]]
 - [[LeetCode]]
