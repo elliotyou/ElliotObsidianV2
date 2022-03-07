@@ -1,8 +1,7 @@
 ---
 date: 2022-03-06
 aliases: RFQ0644 External USB Camera
-status: Inbox
-tags:
+tags: inbox
 ---
 
 [[External USB Camera - Purposes]]

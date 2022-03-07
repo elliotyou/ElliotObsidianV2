@@ -1,15 +1,13 @@
 ---
 date: 2022-03-06
 aliases: PeopleRegister
-status: Inbox
-tags:
+tags: inbox
 ---
 
 
 ```dataview
 table aliases as Description
 from #People 
-where status="archived"
 sort file.mtime desc
 ```
 

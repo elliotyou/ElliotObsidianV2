@@ -1,6 +1,3 @@
-From: [[PeopleRegister]]
-
----
 
 [[2021-11-05 (五)]] 吃飯 with Marcus, Crystal
 

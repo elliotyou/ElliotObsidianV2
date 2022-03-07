@@ -1,6 +1,3 @@
-From: [[BoardGames]]
-
----
 
 [Easily Missed Rules | BoardGameGeek](https://boardgamegeek.com/thread/2343027/easily-missed-rules)
 

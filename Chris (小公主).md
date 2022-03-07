@@ -1,6 +1,3 @@
-From: [[PeopleRegister]]
-
----
 
 Jenny 的前同事，很中性一看很像T，但聊天起來感覺性向跟一般女生一樣
 

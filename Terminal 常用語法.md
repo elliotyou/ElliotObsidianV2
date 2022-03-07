@@ -1,6 +1,3 @@
-[[Javascript 資源區]]
-
----
 
 ```js
 pwd // current path

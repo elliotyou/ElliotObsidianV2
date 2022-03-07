@@ -1,6 +1,3 @@
-[[BoardGames]]
-
----
 
 規則提醒寫在 evernote
 

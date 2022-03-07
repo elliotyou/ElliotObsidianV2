@@ -1,58 +1,9 @@
-From: [[English DataBase]]
-
----
-
-V0001 blatant (a) --  --  very obvious and intentional, when this is a bad thing  明目張膽的，公然的 a blatant lie  彌天大謊 The whole episode was a blatant attempt to gain publicity.  整個事件完全是旨在宣傳的露骨炒作。 2021-08-06  11  --
-
----
-
-V0002 intentional (a) --  --  planned or intended 有意的，故意的 Did you leave his name out by accident or was it intentional? 你漏掉了他的名字，是無意的還是有意的？ --  2021-09-23  11  1
-
----
-
-V0003 smash (v) --  (BREAK NOISILY) to cause something to break noisily into a lot of small pieces  打碎，摔碎 Rioters ran through the city, smashing windows and looting shops.  暴動者穿過市中心，砸碎商店櫥窗，掠劫店鋪裡的東西。  She dropped her cup and watched it smash to pieces/to smithereens on the stone floor.  她掉了杯子，看著它在石地板上摔得粉碎。  2021-08-30  11  --
-
----
-
-V0004 machete (n) --  --  a large knife with a wide blade, used for cutting trees and plants or as a weapon 大砍刀（用以砍伐或充當武器）  --  --  2021-08-24  11  --
-
----
-
-V0005 burst (v) burst/burst/burst --  to break open or apart suddenly, or to make something do this （使）迸裂；（使）爆炸 I hate it when balloons burst. 我討厭氣球突然破的時候。 Suddenly the door burst open (= opened suddenly and forcefully) and police officers rushed in. 門突然被撞開了，員警衝了進來。  2021-08-30  9 4
-
----
-
-V0006 rabbi (n) --  --  a religious leader and teacher in the Jewish religion 拉比（猶太教領袖和經師）  Rabbi Jonathan Sacks  喬納森．薩克斯拉比 [as form of address] Good morning, Rabbi. 早安，拉比。  2021-08-24  11  --
-
----
-
-V0007 Hanukkah  (n) --  --  a Jewish religious holiday lasting for eight days in December （猶太教的）獻殿節，光明節（在十二月，爲期八天）  --  --  2021-08-24  11  --
-
----
-
-V0008 went on a rampage (n) --  --  violent and usually wild behaviour  橫衝直撞；撒野；狂暴行爲  Rioters went on a/the rampage through the city. 暴亂分子在城中橫衝直撞，胡作非為。 --  2021-08-31  11  6
-
----
-
-V0009 an assailant  (n) --  formal  a person who attacks another person 攻擊者 Can you describe your assailant? 你能描述一下襲擊你的人嗎？  --  2021-09-24  11  1
-
----
-
-V0010 coalition (n) --  (UNION) the joining together of different political parties or groups for a particular purpose, usually for a limited time, or a government that is formed in this way  （不同政黨或不同群體的人為特定目標而暫時形成的）聯盟，同盟，聯合體 Government by coalition has its own peculiar set of problems.  聯合政府有其自身特有的一系列問題。  By forming a coalition, the rebels and the opposition parties defeated the government. 叛亂者與反對黨結成聯盟，擊敗了政府。 2021-08-04  11  3
-
----
-
-V0011 dilemma (n) /dɪˈlem.ə/  --  a situation in which a difficult choice has to be made between two different things you could do  左右為難，兩難境地 The president is clearly in a dilemma about/over how to tackle the crisis.  對於如何化解危機總統明顯處於兩難境地。 She faces the dilemma of disobeying her father or losing the man she loves. 她面臨著要麼違抗父親要麼失去心上人的兩難境地。 2021-09-20  11  2
-
----
-
-V0012 counteract  (v) /ˈkaʊn.t̬ɚˈækt/ --  to reduce or remove the effect of something unwanted by producing an opposite effect  抵消；對抗；減少  Drinking a lot of water counteracts the dehydrating effects of hot weather.  大量飲水可緩解炎熱天氣引起的脫水。  --  2021-09-11  10  2
-
----
-
-V0013 offset  (v) offset/offset/offset  --  to balance one influence against an opposing influence, so that there is no great difference as a result  補償；抵消；彌補  The extra cost of travelling to work is offset by the lower price of houses here.  這裡低廉的房價抵消了因上班路途遠而產生的額外費用。  UK He keeps his petrol receipts because petrol is one of the expenses that he can offset against tax (= can show to the government as being a business cost, and so not pay tax). 他保留著他的汽油費收據，因為汽油費是可以抵扣稅款的一項開支。  2021-08-30  9 3
-
----
+```dataview
+table VID, POS, PRON, NOTE, date
+from #vocab and !"Templates"
+sort VID desc
+limit 10
+```
 
 V0014 insulation  (n) --  --  the act of covering something to stop heat, sound, or electricity from escaping or entering, or the fact that something is covered in this way  隔熱；隔音；絕緣  The animal's thick fur provides very good insulation against the arctic cold. 動物的厚皮毛是防禦極地嚴寒的絕好材料。 --  2021-08-30  11  --
 

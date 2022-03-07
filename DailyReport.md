@@ -1,17 +1,8 @@
 ---
 date: 2022-03-06
 aliases: DailyReport
-status: Inbox
-tags:
+tags: inbox
 ---
-
-```dataview
-table aliases as Description
-from #DailyReport   
-where status="archived"
-sort file.mtime desc
-```
-
 
 [[ArchivedDailyReport]]
 

@@ -5,10 +5,6 @@ status: Inbox
 tags:
 ---
 
-[[Obsidian]]
-
----
-
 搜尋 Youtube 教學
 
 How Templates In Obsidian Can 💯️x Your Productivity

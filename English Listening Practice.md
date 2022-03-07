@@ -1,6 +1,3 @@
-From: [[EnglishLearning]]
-
----
 
 [[RealLifeEnglish Courses]]
 

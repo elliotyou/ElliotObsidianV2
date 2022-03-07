@@ -1,5 +1,2 @@
-From: [[PeopleRegister]]
-
----
 
 2021年10月8日  12:00 Bryant 在 LINE 上敲我，問我動態

@@ -1,8 +1,7 @@
 ---
 date: 2022-03-06
 aliases: AC 學期三新課程測試 (Beta Test)
-status: archived
-tags:
+tags: project
 ---
 
 [[2021-10-20 (三)]] kick off meeting

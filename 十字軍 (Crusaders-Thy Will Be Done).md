@@ -1,6 +1,3 @@
-From: [[BoardGames]]
-
----
 
 內容物:
 * player board 共 1 片

@@ -1,9 +1,3 @@
-[[BoardGames]]
-
----
-
-教學筆記: Evernote
-
 PTT BoardGame版 → 精華區 → 1.21.4 有心得教學
 農、礦、笑、科技 → 必須品，其它的都是奢侈品
 

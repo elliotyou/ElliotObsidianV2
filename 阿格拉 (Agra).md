@@ -1,6 +1,4 @@
-[[BoardGames]]
 
----
 
 完整 FAQ 在 Evernote
 

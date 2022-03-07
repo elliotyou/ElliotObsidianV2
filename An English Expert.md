@@ -1,8 +1,7 @@
 ---
 date: 2022-03-06
 aliases: An English Expert
-status: Inbox
-tags:
+tags: area
 ---
 
 

@@ -1,7 +1,3 @@
-[[EnglishLearning]]
-
----
-
 [[Vocabulary List]]
 
 [[Frequently Used Words]]

@@ -1,6 +1,3 @@
-From: [[BoardGames]]
-
----
 
 設置階段看 p3 ~ 4
 

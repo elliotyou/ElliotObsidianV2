@@ -1,6 +1,3 @@
-From: [[BoardGames]]
-
----
 
 [[2022-01-14 (五)]] 在BGA和Ben, Crystal, Lenny
 

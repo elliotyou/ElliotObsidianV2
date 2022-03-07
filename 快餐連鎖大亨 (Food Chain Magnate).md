@@ -1,6 +1,3 @@
-[[BoardGames]]
-
----
 
 自己的筆記: Evernote
 擴充教學: [影片](https://youtu.be/cbaX_XkRD5Y)

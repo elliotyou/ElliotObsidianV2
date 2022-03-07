@@ -2,7 +2,7 @@
 2. [[Projects]]
 3. [[Area]]
 4. [[文獻資料]]
-5. [[Archived]]
+5. [[存檔資料]]
 
 ---
 
@@ -11,7 +11,6 @@
 [[離職後的我可以幹嘛]]
 
 ### Goals
-1. [[An English Expert]] → 逐字稿 500min
 2. [[An Obvious Body Builder]] → 日常安排中，有運動成份
 3. [[A FreeStyle Pop Pianist]] → 日常安排中，有練琴成份
 4. [[An Entry Website Developer]] → 背單字系統
@@ -23,7 +22,6 @@
 
 ### Knowledge Base:
 - [[Programming]]
-- [[EnglishLearning]]
 - [[BooksReading]]
 - [[得到]]
 - [[Productivity]]

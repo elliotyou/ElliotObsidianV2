@@ -1,6 +1,3 @@
-From: [[BoardGames]]
-
----
 
 容易忘記的點：
 

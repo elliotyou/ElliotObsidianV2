@@ -6,7 +6,7 @@ MicroSoft Office
 - Project
 
 Productivity - 時間管理
-- 蕃茄鐘
+- [[蕃茄工作法]]
 
 Productivity - 學習工具
 - [[Learning How to Learn, 學習技巧]]

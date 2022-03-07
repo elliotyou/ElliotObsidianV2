@@ -1,7 +1,3 @@
-[[Obsidian]]
-
----
-
 搜尋 Youtube → "# 用obsidian的kanban和dataview来管理卡片写作"
 
 有在教安裝

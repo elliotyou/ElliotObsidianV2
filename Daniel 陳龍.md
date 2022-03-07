@@ -1,6 +1,3 @@
-From: [[PeopleRegister]]
-
----
 
 [[2021-10-30 (六)]] [[David 林口家]]
 

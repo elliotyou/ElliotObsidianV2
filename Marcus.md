@@ -1,6 +1,3 @@
-From: [[PeopleRegister]]
-
----
 
 住後山碑
 

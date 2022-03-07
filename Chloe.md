@@ -1,6 +1,3 @@
-From: [[PeopleRegister]]
-
----
 
 Jenny 威剛同事，矮矮肉肉的，感覺很聰明，喜歡韓星
 

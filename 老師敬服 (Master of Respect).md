@@ -1,5 +1,4 @@
-[[BoardGames]]
-
----
 
 [[2021-12-31 (五)]] [[2022台中跨年在維真家]]
+
+<a href="https://imgur.com/fpaWHsB"><img src="https://i.imgur.com/fpaWHsB.jpg" title="source: imgur.com" width="600px" /></a>
