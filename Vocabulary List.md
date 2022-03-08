@@ -1,5 +1,5 @@
 ```dataview
-table VID, POS, PRON, NOTE, date
+table VID, POS, PRON, NOTE
 from #vocab and !"Templates"
 sort VID desc
 limit 10
@@ -6209,10 +6209,6 @@ V1564 extremist (n) [C] /ɪkˈstriː.mɪst/ POLITICS  someone who has beliefs th
 
 ---
 
-V1565 at length (phrase)  --  --  for a long time 長久地，長時間地  George went on at great length about his various illnesses. 喬治滔滔不絕地講起他身患的各種疾病。  --  2021-09-17  10  5
-
----
-
 V1566 razor wire  (n) [U] /ˈreɪ.zɚ ˌwaɪr/ --  wire with pieces of sharp metal fixed across it, often positioned on top of walls, such as those surrounding a prison, to stop people climbing over the walls （設於高牆上防止翻越的）尖利鐵絲網，刺鋼絲 --  --  2021-08-15  11  1
 
 ---
@@ -6406,10 +6402,6 @@ V1613 icicle  (n) [C] /ˈaɪ.sɪ.kəl/  --  a long pointed stick of ice that is 
 ---
 
 V1614 impersonate (v) [ T ] /ɪmˈpɝː.sən.eɪt/  --  to intentionally copy another person's characteristics, such as their behaviour, speech, appearance, or expressions, especially to make people laugh  （尤指為引人發笑）扮演，模仿  She's the woman who impersonates all the celebrities on TV. 她是在電視上扮演各種名人的那個人。 --  2021-08-09  11  3
-
----
-
-V1615 in moderation (n) [U] /ˌmɑː.dəˈreɪ.ʃən/ (REASONABLE LIMITS) the quality of doing something within reasonable limits 適度；適中；合理  You can eat whatever you want as long as it's in moderation. 你想吃甚麼都可以，只要適量就好。 All parties will have to show great moderation during these very difficult negotiations. 在艱難的談判期間，所有的黨派將不得不表現出極大的克制。  2021-09-17  10  10
 
 ---
 
@@ -8193,10 +8185,6 @@ V2060 slink away  (v)[I usually + adv/prep] /slɪŋk/ slunk/slunk to walk away f
 
 ---
 
-V2061 eavesdrop (v)[I]  /ˈiːvz.drɑːp/ --  to listen to someone's private conversation without them knowing  偷聽  He was eavesdropping on our conversation. 他在偷聽我們談話。 --  2021-08-07  11  --
-
----
-
 V2062 robe  (n)[C]  /roʊb/  --  a long, loose piece of clothing worn especially on very formal occasions  長袍，罩袍；（尤指特別正式場合穿的）袍服，禮袍 Judges wear black robes when they are in court. 法官在法庭上都身穿黑袍。  --  2021-09-20  11  1
 
 ---
@@ -8398,10 +8386,6 @@ V2111 to backpedal on ... (v)[I]  /ˌbækˈped.əl/ (CHANGE OPINION)  to change 
 ---
 
 V2112 judoka  (n)[C]  /ˈdʒuː.doʊ.kə/  --  someone who does judo (= a sport that started in Japan in which people try to throw each other to the ground):  柔道家 To earn first place, judokas have to win five straight matches in a single day. --  2021-08-18  11  --
-
----
-
-V2113 stoke (v)[I or T] /stoʊk/ --  to encourage bad ideas or feelings in a lot of people 煽動，激起（不良想法或情感）  He's been accused of stoking up racial hatred in the region. 他被控在這地區煽動種族仇恨。 The activist stoked her followers with an inspiring speech. 那名社運人士以一番勵志的演說激勵她的追隨者。  2021-09-04  8 6
 
 ---
 
@@ -11867,9 +11851,7 @@ V2978 Down's syndrome (n)[U]  /ˈdaʊnz ˌsɪn.droʊm/ --  a genetic condition i
 
 ---
 
-V2979 tenacious opposition  (a) /təˈneɪ.ʃəs/  --  holding tightly onto something, or keeping an opinion in a determined way 緊握的；頑固的；固執的 The baby took my finger in its tenacious little fist. 那個嬰兒用他的小拳頭緊緊攥著我的手指。 There has been tenacious local opposition to the new airport. 當地人一直堅決反對建這個新機場。  2021-09-25  6 4
 
----
 
 V2980 a stopgap (n)[C]  /ˈstɑːp.ɡæp/  --  something intended for temporary use until something better or more suitable can be found 權宜之計；臨時替代品  Hostels are used as a stopgap until the families can find permanent accommodation. 那些家庭住進永久居所之前，住旅舍通常只是權宜之計。  We might have to employ someone temporarily as a stopgap measure until we can hire someone permanently. 在找到人填補這個空缺之前，我們可能得先暫時僱個人頂一下。  2021-09-27  7 3
 
@@ -12493,3 +12475,125 @@ V3134 He fell to the ground with a thud (n)[C]  /θʌd/ --  the sound that is ma
 
 V3135 小玉媽 makes a fuss over her grandchildren (phr) /fʌs/ --  to give someone a lot of attention and treat them well  對（某人）關懷備至；對（某人）體貼入微 She doesn't see her grandchildren very often so she makes a real fuss of them when she does. 她不怎麽經常見到孫子們，所以見到時往往對他們非常寵愛。  --  2021-10-10  0 --
 
+V3136	in conjunction with	(n)[C or U]	/kənˈdʒʌŋk.ʃən/	(COMBINATION)	the situation in which events or conditions combine or happen together	結合；聯合；同時發生	An unfortunate conjunction of circumstances led to his downfall. 一連串不幸事件同時發生，導致了他的下臺。	There is a team of writers working in conjunction (with each other) on the book. 有一個作家小組在合作撰寫這部書。	2022-02-06	9	1
+V3137	she flushed with cash	(v)[I]	/flʌʃ/	(BECOME RED)	When you flush, you become red in the face, especially as a result of strong emotions, heat, or alcohol.	發紅；臉紅	She flushed with pleasure as she accepted the prize. 她領獎時高興得紅光滿面。	The champagne had caused his face to flush. 香檳使他臉色發紅。	2022-01-17	9	1
+V3138	chomp away	(v) [I or T]	/tʃɑːmp/	informal	to chew food noisily	大聲咀嚼	He was chomping away on a bar of chocolate. 他嘎嘣嘎嘣地啃著一塊巧克力。	There she sat, happily chomping her breakfast. 她坐在那裡，津津有味地吃著早餐。	2022-01-18	9	1
+V3139	a gory tale	(a)	/ˈɡɔːr.i/	--	involving violence and blood	血腥暴力的；殘暴的；血淋淋的	a very gory film 血腥暴力的電影	a gory description of the operation 對手術過程的血淋淋的描述	2022-02-08	6	4
+V3140	the cancer has metastasized to his brain	(v)[I]	/metˈæs.tə.saɪz/	MEDICAL	If cancer cells metastasize, they spread to other parts of the body and cause tumours to grow there.	（癌細胞）轉移	--	--	2022-01-20	9	1
+V3141	deposition	(n)[C]	/ˌdep.əˈzɪʃ.ən/	(STATEMENT) LAW specialized	a formal written statement made or used in a law court	證言；書面證詞	Before the court case, we had to file/give a deposition. 開庭之前我們必須提供書面證詞。	Our lawyer took a deposition from us. 律師從我們這裡取走了書面證詞。	2022-02-14	9	6
+V3142	fortitude	(n)[U]	/ˈfɔːr.t̬ə.tuːd/	formal	courage over a long period	勇氣，堅韌，剛毅	I thought she showed remarkable fortitude during that period. 我認為她在那段時期表現出了驚人的勇氣。	--	2022-02-13	8	5
+V3143	they sat across from each other	--	--	--	--	面對面坐	--	--	2022-01-20	9	--
+V3144	I don't think that holds water	--	--	--	If a reason, argument, or explanation holds water, it is true.	站得住腳，屬實	Her alibi just didn't hold water. 她的不在場證據根本站不住腳。	--	2022-01-24	9	1
+V3145	you shouldn't denigrate people	(v)[T]	/ˈden.ə.ɡreɪt/	--	to say that someone or something is not good or important	貶低，詆毀	You shouldn't denigrate people just because they have different beliefs from you. 你不要只是因為信仰不同而貶低他人。	--	2022-01-24	9	1
+V3146	remorseful	(a)   	/rɪˈmɔːr.sfəl/	formal	feeling sad and guilty	懊悔的；悔恨的；自責的	--	--	2022-02-04	9	--
+V3147	send-off	(n)[C usually S]	/ˈsend.ɑːf/	--	an occasion at which people can express good wishes and say goodbye to someone who is leaving a place	送別，送行	We'll have to give her a good send-off when she leaves the office. 她離職的時候，我們得為她舉辦一個像樣的道別會。	--	2022-02-08	9	3
+V3148	she glowed	(v)[I]	/ɡloʊ/	--	to produce a continuous light and sometimes heat	發光；發熱	A nightlight glowed dimly in the corner of the children's bedroom. 孩子們睡房的角落裡有一盞小夜燈發出微光。	This substance is so radioactive that it glows in the dark. 這種物質輻射性很強，在黑暗中都可以發出亮光。	2022-02-07	9	2
+V3149	frame of mind	--	--	--	the way someone thinks or feels about something at a particular time	心態，心境	The most important thing is to go into the exam in a positive frame of mind. 最重要的是要以積極的心態參加考試。	--	2022-02-13	8	3
+V3150	snatch it out of my hand	(v)[T]	/snætʃ/	(TAKE QUICKLY)	to take hold of something suddenly and roughly	奪走，搶走	He snatched the photos out of my hand before I had a chance to look at them. 我還沒來得及看，他就一把搶走了我手裡的照片。	figurative Running the best race of his career, Fletcher snatched (= only just won) the gold medal from the Canadian champion. 弗萊徹跑出了他職業生涯中的最好成績，從加拿大冠軍手中奪走了金牌。	2022-02-14	9	2
+V3151	he clams up	--	/klæm/	informal	to become silent suddenly, usually because you are embarrassed or nervous, or do not want to talk about a particular subject	（通常指因為尷尬、緊張或不願談論某一話題而突然）沉默不語，閉口不言，拒不開口	He just clams up if you ask him about his childhood. 要是你問起他的童年，他就乾脆不說話了。	--	2022-02-11	9	--
+V3152	repentant	(a)	/rɪˈpen.tənt/	formal	feeling sorry for something that you have done	懺悔的；悔悟的；後悔的	--	--	2022-02-06	7	4
+V3153	a divisive issue	(a)	/dɪˈvaɪ.sɪv/	--	used to describe something that causes great and sometimes unfriendly disagreement within a group of people	有爭議的；引起分歧的	The Vietnam war was an extremely divisive issue in the US 越南戰爭在美國是一個極具爭議的問題。	--	2022-02-01	8	2
+V3154	throttle	(n)[C]	/ˈθrɑː.t̬əl/	--	a valve which allows more or less fuel to go into an engine and so changes the power with which the engine operates	油門	--	--	2022-01-31	8	1
+V3155	he'd been embezzling money	(n)[I or T]	/ɪmˈbez.əl/	--	to secretly take money that is in your care or that belongs to an organization or business you work for	貪汙，侵吞；盜用，挪用（錢款）	She embezzled thousands of dollars from the charity. 她侵吞了慈善機構數千美元的善款。	--	2022-02-11	8	1
+V3156	a blended family	(n)[C]	--	--	a family that consists of two adults, the child or children that they have had together, and one or more children that they have had with previous partners	混合型家庭，重組家庭（由兩個成年人、他們共同的孩子以及一個或多個他們與前伴侶生的孩子組成的家庭）	Single-parent families and blended families now outnumber traditional families. 現在單親家庭和混合家庭的數量超過了傳統家庭。	--	2022-02-11	8	1
+V3157	when he makes a shocking admission	(n)[C or U]	/ədˈmɪʃ.ən/	(ACCEPTING)	the act of agreeing that something is true, especially unwillingly	（尤指不情願的）承認；供認；招認	Her silence was taken as an admission of guilt/defeat. 她的沉默被認為是承認自己有罪／失敗。	[ + that ] I felt he would see my giving up now as an admission that I was wrong. 我覺得，如果這時候我放棄，在他眼裡這將意味著我承認自己錯了。	2022-02-15	8	2
+V3158	the dogged investigtor	(a)	/ˈdɑː.ɡɪd/	--	very determined to do something, even if it is very difficult	下定決心的，堅決的	Her ambition and dogged determination ensured that she rose to the top of her profession. 遠大的志向和頑強的意志使她成爲行業的佼佼者。	--	2022-02-15	8	2
+V3159	solidify	(v)[I or T]	/səˈlɪd.ə.faɪ/	(CERTAIN)	to become or make something become certain	（使）充實；（使）鞏固；（使）穩固	He solidified his commitment to the treaty, giving a forceful speech in favour of it. 他發表談話表明支持該條約的立場，進一步強調了他信守條約的承諾。	Support for the policy is solidifying. 對這項政策的支持日益鞏固。	2022-02-14	8	1
+V3160	honeypot	--	--	--	--	是一個電腦術語，專指用來偵測或抵禦未經授權操作或者是駭客攻擊的陷阱(蜂蜜罐)	--	--	2022-02-15	8	--
+V3161	intermingle	(v)[I]	/ˌɪn.t̬ɚˈmɪŋ.ɡəl/	--	to become mixed together	混合，混在一起	The flavours intermingle to produce a very unusual taste. 多種味道混合在一起產生了一種非常獨特的口味。	Fact is intermingled with fiction throughout the book. 寫實和虛構交織在一起，貫穿整本書的始終。	2022-02-15	8	--
+V3162	screwy	(a)	/ˈskruː.i/	old-fashioned informal	very strange, silly, or unusual	古怪的；愚蠢的；異常的	Pat's always coming up with screwy ideas. 派特總是想出些荒唐的鬼主意。	--	2022-02-17	6	3
+V3163	incest	(n)[U]	/ˈɪn.sest/	--	sexual activity involving people who are closely related and not legally allowed to marry	亂倫	a victim of incest 亂倫的受害者	--	2022-02-06	6	2
+V3164	crappy	(a)	/ˈkræp.i/	offensive	unpleasant or of very bad quality	討厭的，沒價值的；蹩腳的，劣質的	He had a series of crappy jobs. 他做了一連串沒意思的工作。	--	2022-02-12	5	4
+V3165	proclivity	(n)[C]	/prəˈklɪv.ə.t̬i/	formal	the fact that someone likes something or likes to do something, especially something considered morally wrong	癖性；（尤指壞的）傾向	the sexual proclivities of celebrities 名人的性癖好	his proclivity for shapely blondes 他對身材勻稱的金髮女郎的偏愛	2022-02-11	6	3
+V3166	I want to give a tiny caveat	(n)[C]	/ˈkæv.i.æt/	formal	a warning to consider something before taking any more action, or a statement that limits a more general statement	（進一步行動前的）警告，告誡；限制條款	He agreed to the interview, with the caveat that he could approve the final article. 他答應接受訪問，條件是訪問稿刊登前須經他同意。	--	2022-02-01	7	1
+V3167	a ringleader	(n)[C]	/ˈrɪŋˌliː.dɚ/	--	the leader of a group of people who are doing something harmful or illegal	頭目；首犯；元兇	The ringleaders of the plot were arrested and punished. 這一秘密計畫的頭目被逮捕並受到了懲罰。	--	2022-02-01	7	1
+V3168	profess	(v)[T]	/prəˈfes/	--	to state something, sometimes in a way that is not sincere	聲稱；自稱；謊稱	[ + to infinitive ] She professes not to be interested in money. 她聲稱對錢不感興趣。	She professes ignorance of the whole affair, though I'm not sure I believe her. 她聲稱對整個事件一無所知，但我不能確定是否該相信她。	2022-02-05	7	2
+V3169	evangelical	(a)	/ˌiː.vænˈdʒel.ɪ.kəl/	--	having very strong beliefs and often trying to persuade other people to have the same beliefs	（信仰上）狂熱的；熱衷傳播自己觀點的	Why is it that people who've given up smoking become so evangelical and intolerant of other smokers? 爲甚麽戒了煙的人會變得如此熱衷於規勸別人戒煙，而且不能容忍別人抽煙呢？	--	2022-02-06	6	2
+V3170	she was nabbed	(v)[T]	/næb/	informal	to take something suddenly, or to catch or arrest a criminal	搶奪，猛然抓住；抓獲，逮捕（罪犯）	Undercover police officers nabbed the men at the airport. 便衣員警在機場逮捕了那些人。	Someone nabbed my apple when I wasn't looking! 有人趁我沒注意搶走了我的蘋果！	2022-02-05	7	1
+V3171	they swoop in on Stacy at the location	(v)[I]	/swuːp/ 	informal	to make a sudden attack on a place or group of people in order to surround and catch them	（為圍捕而）突然襲擊	Undercover police swooped on three houses in the city at 5.00 this morning. 今天早上五點，便衣警察突擊搜查了城裡的三間房子。	--	2022-02-05	7	1
+V3172	a bystander	(n)[C]	/ˈbaɪˌstæn.dɚ/	--	a person who is standing near and watching something that is happening but is not taking part in it	旁觀者	Many innocent bystanders were injured by the explosion. 許多無辜的旁觀者在爆炸中受傷。	--	2022-02-07	7	--
+V3173	as the wine is gushing out	(v)[I usually + adv/prep, T]	/ɡʌʃ/	(FLOW)	to flow or send out quickly and in large amounts	噴出，湧出，冒出	Oil gushed (out) from the hole in the tanker. 石油從油輪的那個漏洞中噴湧而出。	Blood was gushing from his nose. 他的鼻子流血不止。	2022-02-08	7	1
+V3174	he is gulping	(v)[I or T]	/ɡʌlp/	--	to eat or drink food or liquid quickly by swallowing it in large amounts, or to make a swallowing movement because of fear, surprise, or excitement	大口地吃（或喝）；（因為害怕、吃驚、激動等）倒吸氣，喘不過氣來	She gulped down her drink and made a hasty exit. 她大口喝下飲料後急匆匆地出去了。	When it was his turn to dive, he gulped and stepped up onto the diving board. 輪到他跳水時，他深吸了一口氣後走上跳板。	2022-02-10	7	2
+V3175	she retreated into the hospital	(v)[I often + adv/prep]	/rɪˈtriːt/	(POSITION)	to go away from a place or person in order to escape from fighting or danger	退卻；撤退；後退	Attacks by enemy aircraft forced the tanks to retreat (from the city). 敵機的轟炸迫使坦克（從這座城市）撤離。	When she came towards me shouting, I retreated (behind my desk). 她大叫著衝向我時，我就後退（到了桌子後面）。	2022-02-09	7	1
+V3176	she was barricaded in that room 	(v)[T]	/ber.əˈkeɪd/	--	to build a barricade across, around, or in front of something	於某物的對面、周圍或前面設路障	Barricade the doors! 堵住門！	[ + adv/prep ] Terrified villagers have barricaded themselves into their houses. 驚恐不安的村民們把自己關在家裡不出來。	2022-02-12	7	1
+V3177	enclosure	(n)[C]	/ɪnˈkloʊ.ʒɚ/	(SURROUNDED)	--	外殼	--	--	2022-02-11	5	1
+V3178	she's so entitled	(a)	/ɪnˈtaɪ.t̬əld/	disapproving	feeling that you have the right to do or have what you want without having to work for it or deserve it, just because of who you are	有權做…的；為所欲為的	These kids are spoiled, entitled, self-absorbed, and apathetic. 這些孩子被寵壞了，為所欲為、自戀且冷漠。	--	2022-02-11	6	1
+V3179	she looked disheveled	(a)	/dɪˈʃev.əld/	mainly UK	(of people or their appearance) very untidy	（人或其外表）不整潔的，亂糟糟的	dishevelled hair/clothes/appearance 亂糟糟的頭髮／衣服／外表	He ran in looking dishevelled. 他衣衫不整地跑了進來。	2022-02-13	7	1
+V3180	they were injured in scuffles	(n)[C]	/ˈskʌf.əl/	--	a short and sudden fight, especially one involving a small number of people	（尤指少數人的）短暫扭打，小衝突	Two police officers were injured in scuffles with demonstrators at Sunday's protest. 星期天抗議活動中，有兩名員警在與抗議者的衝突中受傷。	--	2022-02-15	7	1
+V3181	predisposition towards	(n)[C]	/ˌpriː.dɪs.pəˈzɪʃ.ən/	formal	the state of being likely to behave in a particular way or to suffer from a particular disease	傾向；稟性；（易患某種疾病的）體質	She has an annoying predisposition to find fault. 她有愛挑毛病這一令人討厭的習性。	There is evidence that a predisposition to(wards) asthma runs in families. 有證據顯示易患哮喘是家族遺傳的。	2022-02-15	5	2
+V3182	a summary arrest	(a)[before n]	/ˈsʌm.ɚ.i/	--	done suddenly, without discussion or legal arrangements	（未經討論或法律程式）立即的，速決的，草率的	summary arrest/dismissal/execution 立即逮捕／解散／執行	--	2022-02-06	6	2
+V3183	he's conniving	(a)	/kəˈnaɪ.vɪŋ/	--	A conniving person deceives others for their own advantage.	搞陰謀的；暗算他人的	He's a conniving bastard! 他是個狡詐的混蛋！	--	2022-02-18	7	1
+V3184	a redneck	(n)[C]	/ˈred.nek/	informal offensive	a poor white person without education, especially one living in the countryside in the southern US, who has prejudiced (= unfair and unreasonable) ideas and beliefs	（尤指美國南部農村地區偏執的）鄉巴佬，農民	--	--	2022-02-06	6	1
+V3185	she was convicted of malice murder	(n)[U]	/ˈmæl.ɪs/	--	the wish to harm or upset other people	惡意，害人之心	There certainly wasn't any malice in her comments. 她的話絕對沒有任何惡意。	formal I bear him no malice (= do not want to harm or upset him). 我對他沒有惡意。	2022-02-07	6	2
+V3187	neglect	(v)[T]	/nɪˈɡlekt/	--	to not give enough care or attention to people or things that are your responsibility	疏忽照顧；忽視，疏忽	He neglects that poor dog - he never takes him for walks or gives him any attention. 他對那隻可憐的狗漠不關心——從不帶牠散步，也從不關心牠。	She's been neglecting her studies this semester. 她這個學期荒疏了自己的學業。	2022-02-09	6	1
+V3188	that is so decomposed	(v)[I or T]	/ˌdiː.kəmˈpoʊz/	--	to decay, or to cause something to decay	（使）腐化，（使）腐爛	The body must have been decomposing for several weeks. 那具屍體肯定已經腐爛好幾個星期了。	--	2022-02-09	6	1
+V3189	a swatting case	(n)[U]	/ˈswɑː.t̬ɪŋ/	mainly US	the action of making a false report of a serious emergency so that a SWAT team (= a group of officers trained to deal with dangerous situations) will go to a person's home, by someone who wants to frighten, upset, or cause problems for that person	報假警惡作劇	Swatting has become an increasingly popular harassment tactic among online gamers. 報假警惡作劇已經成為網遊玩家中越來越流行的騷擾手段。	"A ""swatting"" hoax led to police shooting dead a 28-year-old man. 一場報假警惡作劇導致警方開槍打死了一名28歲的男子。"	2022-02-10	6	--
+V3190	it's revolting	(a)	/rɪˈvoʊl.tɪŋ/	--	extremely unpleasant	極其討厭的；使人反感的；令人作嘔的	a revolting smell of rotting cabbage 腐爛捲心菜令人作嘔的味道	Picking your nose is a revolting habit. 摳鼻子是個令人討厭的習慣。	2022-02-12	6	1
+V3191	in a storm drain	(n)[C]	/ˈstɔːrm ˌdreɪn/	--	a hole or pipe that takes the water away when there is very heavy rain	雨水管，雨水道，排水溝	The floodwater came when storm drains couldn't handle the epic flow. 洪水來的時候，暴雨排水溝無法處理如此巨大的流量。	Cleaning detergents are toxic pollutants often hosed down driveways and into storm drains. 清潔劑是有毒的污染物，經常被沖到車道上，進入排水溝。	2022-02-11	6	--
+V3192	surmise	(v)[T]	/sɚˈmaɪz/	formal	to guess something, without having much or any proof	推測，猜測，臆測	[ + (that) ] The police surmise (that) the robbers have fled the country. 據警方推測，搶劫犯已經逃離這個國家。	--	2022-02-12	6	--
+V3193	fill in the gaps chronologically	(a)	/ˌkrɒn.əˈlɒdʒ.ɪ.kəl/	--	following the order in which a series of events happened 	按事件發生的年代順序排列的	Give me the dates in chronological order. 把日期按早晚順序給我。	--	2022-02-14	6	1
+V3194	the outskirts	(n)[plural]	/ˈaʊt.skɝːts/	--	the areas that form the edge of a town or city	市郊，郊區	The factory is in/on the outskirts of New Delhi. 這家工廠在新德里郊區。	--	2022-02-14	6	1
+V3195	a bonehead	(n)[C]	/ˈboʊn.hed/	slang	a stupid person	傻瓜，笨蛋	--	--	2022-02-16	4	2
+V3196	a good Samaritan	(n)	/səˈmer.ə.t̬ən/	a good Samaritan 	someone who gives help to people who need it	樂善好施者，樂於助人者	--	--	2022-02-16	6	1
+V3197	they are very vocal	(a)	/ˈvoʊ.kəl/	(OFTEN HEARD)	often expressing opinions and complaints in speech	喜歡暢所欲言的；直言不諱的	He had always been a very vocal critic of the president. 他一直都直言不諱地批評總統。	During these years, suffrage demands by women became increasingly vocal. 那些年，女性要求獲得投票權的呼聲越來越高。	2022-02-16	6	1
+V3198	he is meek	(a)	/miːk/	--	quiet, gentle, and not willing to argue or express your opinions in a forceful way	溫順的；謙和的	She seemed so very meek and mild. 她看起來非常溫柔和善。	--	2022-02-13	5	2
+V3199	a cornfield	(n)[C]	/ˈkɔːrn.fiːld/	--	a field that is used for growing corn	玉米地	--	--	2022-02-16	6	--
+V3200	a consolation prize	(n)[C]	/kɑːn.səˈleɪ.ʃən ˌpraɪz/	--	a small prize given to someone who has taken part in a competition, but who has not won	安慰獎，鼓勵獎	--	--	2022-02-12	5	2
+V3201	atrocious	(a)	/əˈtroʊ.ʃəs/	(CRUEL)	violent and shocking	殘暴的；駭人聽聞的	an atrocious crime 殘暴的罪行	--	2022-02-14	5	3
+V3202	in broad daylight	--	--	--	If a crime is committed in broad daylight, it happens during the day, when it could have been seen and prevented.	大白天；光天化日之下	Thieves had broken into the house in broad daylight. 小偷在光天化日之下闖入這棟房子。	--	2022-02-12	5	1
+V3203	rugged tablets	(a)	/ˈrʌɡ.ɪd/	(STRONG)	strong and simple; not delicate	堅固的；耐用的；結實的；簡單皮實的	Jeeps are rugged vehicles, designed for rough conditions. 吉普車是種很堅固耐用的車，專為崎嶇難行的路況而設計的。	--	2022-02-14	5	1
+V3204	he has such a long rap sheet	(n)[C] 	/ˈræp ˌʃiːt/	informal	an official police document that lists the crimes that a particular person has committed	（警方保存的）犯罪記錄	--	--	2022-02-14	5	1
+V3205	a gated community	(n)[C]	/ˌɡeɪ.t̬ɪd kəˈmjuː.nə.t̬i/	--	a group of houses, surrounded by fences or walls, that can only be entered by the people who live there	封閉式住宅小區，門禁社區	The neighbourhood is a gated community with a security guard to protect residents from intruders. 這一街區是一個封閉式住宅社區，有警衛看守大門防止外人擅入。	--	2022-02-15	5	1
+V3206	she is petite	(a)	/pəˈtiːt/	approving	If a woman or girl is petite, she is small and thin in an attractive way.	（女子）嬌小的	She was dark and petite, as all his wives had been. 她就像他以前的那些妻子一樣，皮膚黑黑的，個子小小的。	--	2022-02-15	5	1
+V3207	a mild-mannered professor	(a)	/ˌmaɪldˈmæn.ɚd/	--	A mild-mannered person is gentle and does not show extreme emotions.	舉止溫文的	a mild-mannered philosophy professor 舉止溫文的哲學教授	--	2022-02-15	5	--
+V3208	straighten sth out	--	/ˈstreɪ.ən/	(SITUATION)	to solve a problem or to deal successfully with a confusing situation	解決（問題）；成功應付（困境）	Once we get these problems straightened out, we should be all right. 我們一旦把這些問題解決掉，就會沒事的。	--	2022-02-16	3	2
+V3209	laying in the gutter	(n)[C]	/ˈɡʌt̬.ɚ/	(CHANNEL)	the edge of a road where rain flows away	（道路邊的）排水溝，街溝	--	--	2022-02-16	5	1
+V3210	in a daze	(n)	/deɪz/	--	unable to think clearly	發懵的，恍惚的，眩暈的	She was wandering around in a daze this morning. 今天早上她神情恍惚地四處遊蕩。	--	2022-02-18	5	1
+V3211	course of action	(n)[S]	/kɔːrs/	(DEVELOPMENT)	the often gradual development of something, or the way something happens, or a way of doing something	進展；進程；經過，過程	What would be an appropriate course of action in such a situation? 在這種情況下採取甚麽樣的措施才合適呢？	Once we have committed to this course of action there is no going back. 一旦我們承諾採取這個行動，就沒有回頭路。	2022-02-17	5	--
+V3212	piece sth together	--	/piːs/	--	to create something by joining the separate parts of it together or by joining different things together	拼合；湊集	The ancient skull has been pieced together from fragments. 這個古人類頭骨是由頭骨碎片拼合而成的。	Kevin has done a great job of piecing together a tremendous team. 凱文成功組成一支出色的隊伍，真是了不起。	2022-02-14	4	1
+V3213	get cold feet	--	--	-- 	to suddenly become too frightened to do something you had planned to do, especially something important such as getting married	計劃好了做某事，可是由於過度緊張或害怕，以至於臨陣退縮	The bride got cold feet just before the wedding and ran off. 就在婚禮開始前，新娘臨陣退縮，溜走了。	I was going to try bungee jumping, but I got cold feet.	2022-02-14	4	1
+V3214	a laundromat	(b)[C]	/'lɑ:ndrəˌmæt/	(mainly US)	a place where you pay to use machines that wash and dry clothes	洗衣店	--	--	2022-02-15	4	1
+V3215	lingerie	(n)[U]	/ˌlɑːn.ʒəˈreɪ/	--	women's underwear	女式內衣	--	--	2022-02-15	4	1
+V3216	he was hedging	(v)[I]	/hedʒ/	--	to try to avoid giving an answer or taking any action	避免答覆，拐彎抹角，迴避	Stop hedging and tell me what you really think. 別再拐彎抹角了，告訴我你真正的想法。	--	2022-02-16	4	--
+V3217	some unsolicited attention	(a)	/ˌʌn.səˈlɪs.ɪ.t̬ɪd/	--	not asked for	未經要求的；自發的	unsolicited advice 主動提出的勸告	--	2022-02-17	4	1
+V3218	you must inform the next of kin	(n)[C]	/ˌnekst əv ˈkɪn/	--	the person or group of people you are most closely related to	直系親屬	We cannot release the names of the soldiers who were killed until we have informed their next of kin. 遇害士兵的姓名要待我們通知其直系親屬之後才能公佈。	--	2022-02-18	4	1
+V3219	the most preposterous thing in my life	(a)	/prɪˈpɑː.stɚ.əs/	formal	very silly or stupid	荒謬的，愚蠢的	The very idea is preposterous! 這個想法很荒謬！	a preposterous suggestion 愚蠢的建議	2022-02-18	4	1
+V3220	from the get-go	(n)[S]	/ˈɡetˌɡoʊ/	informal (BEGINNING)	the beginning, when someone starts to do something, or a process starts	開始，開端	The latest research shows that babies can be taught the difference between night and day from the get-go. 最新研究表明從一開始就可以教寶寶白天和晚上的不同。	--	2022-02-18	4	--
+V3221	vertex / vertices	(n)[C]	/ˈvɝː.t̬eks/	specialized 	(in mathematics) the point where two lines meet to form an angle, or the point that is opposite the base of a shape	（數學裡的）頂點，角頂	the vertex of a triangle/cone/pyramid 三角形／圓錐體／棱錐體的頂點	--	2022-02-16	3	1
+V3222	the gloves come off	--	--	--	--	通常拳擊手會戴手套，所以打對手時不至於打傷太嚴重，當手套脫下來後，就表示開始要讓對方死得很難看	The gloves come off! Donald Trump says Ted Cruz isn't 'qualified' to be president ... 激烈開打了！川普說泰德•克魯茲不夠格當總統。	--	2022-02-17	3	--
+V3223	she is fume	(v)[I]	/fjuːm/	--	to be very angry, sometimes without expressing it	發怒；生悶氣	I saw her a week after they'd had the argument and she was still fuming. 他們吵架一周後我見到了她，她還在生氣。	The whole episode left me fuming at the injustice of it all. 整個事件毫無正義可言，我感到非常憤怒。	2022-02-18	3	1
+V3224	it will send chills down your spine	--	--	--	to make someone feel very frightened	令…脊背發涼，令…毛骨悚然	His words sent a chill down her spine. 他的話讓她脊背發涼。	--	2022-02-18	3	1
+V3225	a whodunnit	(n)[C]	/ˌhuːˈdʌn.ɪt/	informal	a story about a crime and the attempt to discover who committed it	犯罪小說；偵探小說	It's one of those whodunnits where you don't find out who the murderer is till the very end. 這是那種直到最後才能找出殺人兇手的偵探小說。	--	2022-02-18	3	1
+V3226	his phone is aglow	(a)[after verb]	/əˈɡloʊ/	literary	shining with light and colour	發光的；光彩奪目的	a city at night, aglow with lights 燈火通明的城市夜景	His face was all aglow with excitement. 他激動得滿臉放光。	2022-02-17	2	--
+V3227	occult powers	(a)	/ˈɑː.kʌlt/	--	relating to magical powers and activities, such as those of witchcraft and astrology	有魔力的，神秘的；玄妙的	She claims to have occult powers, given to her by some mysterious spirit. 她聲稱擁有某一神秘精靈賜予的神秘魔力。	--	2022-02-18	2	1
+V3228	turn himself in	--	--	--	to take a criminal to the police, or to go to them yourself to admit a crime	將（某人）送交警方；自首	The hit-and-run driver turned himself in to the police the day after the accident. 事故發生後的第二天，這名交通肇事逃逸的司機向警方自首。	--	2022-02-17	2	--
+V3229	my temple	(n)[C often plural]	/ˈtem.pəl/	--	the flat area on each side of your head in front of the top of your ear	太陽穴，鬢角	--	--	2022-02-18	2	1
+V3230	disfiguring scars	(v)[T]	/dɪsˈfɪɡ.jɚ/	--	to spoil the appearance of something or someone, especially their face, completely	損毀…的外觀；使毀容	She was horribly disfigured by burns. 她的臉因燒傷而變得慘不忍睹。	This part of the old town has been disfigured by ugly new buildings. 老城的這一地區已經被醜陋的新建築搞得面目全非了。	2022-02-18	1	1
+
+V3233	scalp	(n)[C]	/skælp/	(TOP OF HEAD)	the skin on the top of a person's head where hair usually grows	頭皮	a dry/oily/itchy scalp 乾燥的／油性的／發癢的頭皮	Some tribes used to collect scalps to prove how many of the enemy they had killed in battle. 以前有些部落透過收集人的頭皮來證明在戰鬥中殺死過多少敵人。	2022-02-18	1	--
+V3234	a syndicated radio	(a)	/ˈsɪn.də.keɪ.t̬ɪd/	mainly US	(of television or radio programmes) sold to several different broadcasting organizations	（電視或廣播節目）賣給多間播出單位的	--	--	2022-02-19	0	--
+V3235	she was accosted	(v)[T often passive]	/əˈkɑːst/	formal	to go up to or stop and speak to someone in a threatening way	（貿然）上前搭訕；（唐突地）走近談話	I'm usually accosted by beggars and drunks as I walk to the station. 去車站的路上，經常有乞丐和酒鬼上前跟我搭訕。	--	2022-02-19	0	--
+V3236	in plain sight	--	--	-- 	in a place where people can clearly see something	一覽無疑	Don't leave expensive items out in plain sight.	With everything in plain view, customers need less help from the staff.	2022-02-21	0	--
+V3237	stub it out	--	/stʌb/	--	to stop a cigarette from burning by pressing the burning end against a hard surface	掐滅（香煙）	--	--	2022-02-21	0	--
+V3238	a deranged personality	(a)	/dɪˈreɪndʒd/	--	completely unable to think clearly or behave in a controlled way, especially because of mental illness	精神錯亂的，發狂的，瘋狂的	a deranged criminal/mind/personality 瘋狂的罪犯／混亂的頭腦／狂躁的人格	to be mentally deranged 精神錯亂	2022-02-21	0	--
+V3239	prenuptial agreement	(a)	/ˌpriːˈnʌp.ʃəl/	--	before getting married	結婚前的	--	--	2022-02-21	0	--
+V3240	he was taken aback	--	/əˈbæk/	--	 to be very shocked or surprised	大吃一驚；震驚	I was somewhat taken aback by her honesty. 她的坦誠讓我大吃一驚。	--	2022-02-23	0	--
+V3241	peachy	(a)	/ˈpiː.tʃi/	informal	very good	極好的，非常好的	--	--	2022-02-23	0	--
+V3242	he stammered out excueses	(v)[I or T]	/ˈstæm.ɚ/	--	to speak or say something with unusual pauses or repeated sounds, either because of speech problems or because of fear and anxiety	口吃；結結巴巴地說	"[ + speech ] ""Wh-when can we g-go?"" she stammered. 「我們甚……甚麽時候能……能走？」她結結巴巴地說道。"	He dialled 999 and stammered (out) his name and address. 他撥了999，結結巴巴地報出了自己的名字和地址。	2022-02-24	0	--
+V3243	it makes me feel nauseous	(a)	/ˈnɑː.ʃəs/	--	feeling as if you might vomit	感到噁心的，想嘔吐的	Roller coasters make me feel nauseous. 坐雲霄飛車令我想吐。	--	2022-02-24	0	--
+V3244	a mugshot	(n)[C]	/ˈmʌɡ.ʃɑːt/	slang	a photograph taken by the police of a person who has been charged with a crime	指嫌疑犯被警方逮捕後，為了製作檔案而拍的臉部照片，所以通常都不帶有笑容。	The police took mugshots of that suspect after they arrived at the police station. 在抵達警察局後，警方拍了那個嫌疑犯的臉部照片。	The mugshot of the escaped inmate was posted on today’s newspaper. 那個逃犯的臉部照片被公布在今天的報紙上。	2022-02-25	0	--
+V3245	enticement	(n)[C or U]	/ɪnˈtaɪs.mənt/	--	the act of persuading someone to do something by offering them something pleasant	誘拐	One of the enticements of the job is the company car.	Foreign investors were offered every imaginable free-market enticement.	2022-02-25	0	--
+V3246	it's very nuanced	(a)	/ˈnuː.ɑːnst/	--	made slightly different in appearance, meaning, sound, etc.	（在外表、意義、聲音等上）有細微差別的	His London accent is very slightly nuanced by an occasional Russian pronunciation. 他的倫敦口音因而時而夾雜的俄語發音而略顯不同。	--	2022-02-26	0	--
+V3247	untangle	(v)[T]	/ʌnˈtæŋ.ɡəl/	(PROBLEM)	to make a complicated subject or problem, or its different parts, clear and able to be understood	整理，理清（複雜問題）	It took years to untangle the legal complexities of the case. 理清該案牽涉到的複雜法律問題，花了很多年的時間。	--	2022-02-26	0	--
+V3248	an obedient dog	(a)	/oʊˈbiː.di.ənt/	--	doing, or willing to do, what you have been told to do by someone in authority	服從的；順從的，聽話的	Students are expected to be quiet and obedient in the classroom. 學生們在課堂上應該安靜聽話。	an obedient dog 聽話的狗	2022-02-28	0	--
+V3249	a accomplice	(n)[C]	/əˈkɑːm.plɪs/	--	a person who helps someone else to commit a crime or to do something morally wrong	共犯，同謀，幫兇	--	--	2022-02-28	0	--
+V3250	his clutches	(n)[plural]	/klʌtʃ/	humorous (CONTROL)	the control of someone	掌控，控制	He is in/has fallen into the clutches of that woman. 他落入了那個女人的控制之中。	--	2022-02-28	0	--
+V3251	surreptitious	(a)	/ˌsɝː.əpˈtɪʃ.əs/	--	done secretly, without anyone seeing or knowing	秘密的，偷偷的；鬼鬼祟祟的	She seemed to be listening to what I was saying, but I couldn't help noticing her surreptitious glances at the clock. 她看起來好像在聽我說話，但我明顯注意到她偷偷看了幾眼鐘。	--	2022-02-28	0	--
+V3252	an one-off thing	(a)	/ˌwʌnˈɑːf/	UK	happening only once	一次性的	They gave him a one-off payment to compensate for the extra hours that he had to work. 他們一次過支付給他一筆錢作為他必須加班的補償。	--	2022-03-02	0	--
+V3253	corrections officers	--	--	-- 	--	典獄長底下辦事的人，又叫 prison officers	--	--	2022-03-02	0	--
+V3254	collected	(a)	/kəˈlek.tɪd/	(CONTROLLED)	showing control over your feelings	鎮定的，冷靜的，泰然自若的	She appeared calm and collected. 她顯得沉著鎮定。	--	2022-03-04	0	--
+V3255	a Hispanic mail	(a)	/hɪˈspæn.ɪk/	--	connected with Spain or Spanish-speaking countries, especially those countries in Latin America	西班牙（人）的；西班牙語言（文化）的；（尤指拉丁美洲）西班牙語國家的	--	--	2022-03-04	0	--
+V3256	he was so fidgety	(a)	/ˈfɪdʒ.ə.t̬i/	--	making continuous, small movements that annoy other people	煩躁的	a fidgety child/audience	She seemed restless and fidgety.	2022-03-06	0	--
+V3257	chip away at sth	--	/tʃɪp/	--	to gradually reduce something so that it becomes smaller or weaker	逐步瓦解, 蠶食; 	Invaders chipped away at the fringes of their empire.	Fees will chip away at your small investment funds.	2022-03-06	0	--
+V3258	frigid	(a)	/ˈfrɪdʒ.ɪd/	(COLD)	(of weather conditions or the conditions in a room) extremely cold	（天氣或室內溫度）寒冷的，嚴寒的	Few plants can grow in such a frigid environment. 幾乎沒有甚麽植物能夠在如此寒冷的環境下生長。	--	2022-03-08	0	--
+V3259	sth ensues the argument	(v)[I]	/ɪnˈsuː/	formal	to happen after something else, especially as a result of it	（尤指作爲結果而）接著發生，繼而發生，因而産生	The police officer said that he had placed the man under arrest and that a scuffle had ensued. 那名員警說他逮捕了那個男子後隨即發生了扭打。	--	2022-03-08	0	--
