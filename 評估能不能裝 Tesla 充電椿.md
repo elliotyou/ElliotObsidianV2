@@ -1,12 +1,12 @@
 ---
 date: 2022-03-06
 aliases: 評估能不能裝 Tesla 充電椿
-tags: project
+tags: reference
 ---
 
 通常 管委會 會是主要障礙，因為他們對電動車的不理解，會以為有危險
 
- [《致管委會的一封信》](https://docs.google.com/document/d/1XuYxHsGyajByMujzUsFSu71dRFuhs6QFu3yjvs-8ajM/edit?usp=sharing)
+[[致管委會的一封信]]
  
 下方參考資料中有好用的 FAQ
 
