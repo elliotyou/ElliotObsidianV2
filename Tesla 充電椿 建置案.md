@@ -1,7 +1,7 @@
 ---
 date: 2022-03-06
 aliases: Tesla 充電椿 建置案
-tags: project
+tags: project, tesla
 ---
 
 [[安裝 Tesla 充電椿步驟]]

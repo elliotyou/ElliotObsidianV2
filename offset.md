@@ -7,7 +7,6 @@ NOTE: offset/offset/offset
 tags: vocab
 ---
 
-
 to balance one influence against an opposing influence, so that there is no great difference as a result  補償；抵消；彌補  
 
 >The extra cost of travelling to work is offset by the lower price of houses here.  這裡低廉的房價抵消了因上班路途遠而產生的額外費用。  
