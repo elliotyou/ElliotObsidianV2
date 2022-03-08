@@ -1,8 +1,7 @@
 ---
 date: 2022-03-06
 aliases: Tesla 充電椿安裝商
-status: Inbox
-tags: 
+tags: reference
 ---
 
 以現在台灣的 特斯拉 買主來說，通常都會在自家安裝一個充電椿
