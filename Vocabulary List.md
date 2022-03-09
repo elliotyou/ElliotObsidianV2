@@ -601,9 +601,6 @@ V0162 turquoise --  --  --  --  青綠色 (淺阿凡達色) --  --  2021-08-15  
 
 ---
 
-V0163 garner  (v) --  (COLLECT) formal  to collect something, usually after much work or with difficulty  （通常指做大量工作或經歷很多困難而）收集，積累，獲得  "Coppola garnered several Oscar awards for ""The Godfather"". 哥普拉以其執導的電影《教父》獲得數項奧斯卡奬。"  --  2021-09-18  10  5
-
----
 
 V0164 get bogged down (v) --  --  to be/become so involved in something difficult or complicated that you cannot do anything else 陷於停滯狀態  Let's not get bogged down with individual complaints我們不要被個別人的投訴束縛住手腳。 UK Try not to get too bogged down in the details. 盡量不要被細節問題捆住手腳。  2021-08-16  10  10
 
@@ -706,10 +703,6 @@ V0188 cohesiveness  (n) [U] --  formal  the situation when the members of a grou
 ---
 
 V0189 acquisition (n) --  --  the process of getting something  獲得  The acquisition of huge amounts of data has helped our research enormously.  獲得的大量數據對我們的研究有莫大的幫助。 Language acquisition (= learning a language without being taught) starts at a very young age.  語言習得始於幼年。  2021-08-12  11  --
-
----
-
-V0190 [[perception]]  (n)
 
 ---
 
@@ -2549,10 +2542,6 @@ V0649 congestion charge (n) --  --  an amount of money that you have to pay each
 
 ---
 
-V0650 alleviate (v) --  formal  to make something bad such as pain or problems less severe  減輕、緩解 (不好的情況) The drugs did nothing to _____ her pain/suffering. 這些藥物對減輕她的病痛／痛苦沒有絲毫作用。  --  2021-09-03  9 3
-
----
-
 V0651 expedite  (v) /ˈek.spə.daɪt/  formal  to make something happen more quickly 迅速完成；促進；加快  Something needs to be done to _____ the process. 需要採取措施以加快進度。 --  2021-09-17  11  2
 
 ---
@@ -3505,9 +3494,7 @@ V0888 proofread (v) --  --  to find and correct mistakes in text before it is pr
 
 ---
 
-V0889 recondition (v) --  --  to repair a machine or piece of equipment and return it to a good condition 修理；修復；翻新  The shop sells reconditioned vacuum cleaners.  這間商店出售翻新的吸塵器。  --  2021-08-26  9 8
 
----
 
 V0890 stool (n) --  (SEAT)  a seat without any support for the back or arms 凳子  a bar/kitchen/piano stool 吧檯／廚房／鋼琴凳 a three-legged stool 三腳凳  2021-08-23  11  --
 
@@ -3613,9 +3600,6 @@ V0915 STD (n) --  (DISEASE) abbreviation for sexually transmitted disease 性傳
 
 ---
 
-V0916 provoke (v) --  (CAUSE REACTION)  to cause a reaction, especially a negative one  激起 (負面反應) The prospect of increased prices has already _____ed an outcry.物價上漲的預測已經引發了強烈抗議。  --  2021-08-26  9 3
-
----
 
 V0917 looking over my shoulder  (phr) --  (WORRIED) to feel anxious and nervous about something to happen 提心吊膽，覺得憂慮是否有些事情即將發生 I guess I am just getting tired of looking over my shoulder. 我猜我只是厭煩了提心吊膽的日子。 I get to leave constantly looking over my shoulder for monsters dressed up as the popular kid, constantly on edge and assuming the worst in every boy.  2021-09-01  11  --
 
@@ -4866,10 +4850,6 @@ V1228 utterly (adv) --  --  completely or extremely 非常地 What an utterly st
 ---
 
 V1229 gloomy  (a) --  (WITHOUT HOPE)  unhappy and without hope  憂鬱；愁悶；沮喪  a gloomy person/expression 一個愁容滿面的人／一個沮喪的表情 The cemetery is a gloomy place. 墓地是個讓人感到壓抑的地方。  2021-08-31  11  7
-
----
-
-V1230 the Arctic  (n) --  GEOGRAPHY the very cold area around the North Pole  北極，北極地區 Polar bears live in the Arctic. 北極熊生活在北極地區。 --  2021-09-03  9 4
 
 ---
 
@@ -10655,9 +10635,6 @@ V2679 to reframe the story  (v)[T]  /ˌriːˈfreɪm/  --  to change the way some
 
 ---
 
-V2680 incessant noise (a) /ɪnˈses.ənt/  --  never stopping, especially in an annoying or unpleasant way 連續不斷的，沒完沒了的 incessant rain/noise/complaints 沒完沒了的雨／噪音／抱怨  --  2021-09-03  9 1
-
----
 
 V2681 sth is in overdrive (n)[U]  /ˈoʊ.vɚ.draɪv/  --  a state of great activity, effort, or hard work 超速運作；加倍努力 The official propaganda machine went into overdrive when war broke out. 戰爭爆發後，官方的宣傳機器開始加速運作。  The cast was in overdrive, rehearsing for the first performance. 全體演員正為首演加倍努力排練。  2021-09-03  11  --
 
@@ -12055,9 +12032,6 @@ V3029 he's marshaled an army  (v)[T]  /ˈmɑːr.ʃəl/ --  to bring together or 
 
 V3030 seemingly (adv) /ˈsiː.mɪŋ.li/ --  according to the facts that you know  看來；貌似 The factory closure is seemingly inevitable. 看來，工廠關閉勢在難免。 Seemingly, she's gone to live with another man. 看樣子，她去和另外一個男人同居了。 2021-10-06  10  --
 
----
-
-V3031 reckoning (n) [C or U]  /ˈrek.ən.ɪŋ/  --  a calculation that you make 計算  By my reckoning, we should arrive in ten minutes. 我算了一下，再過10分鐘我們就該到了。 --  2021-09-28  7 6
 
 ---
 
@@ -12369,10 +12343,6 @@ V3108 a jumpsuit  (n)[C]  /ˈdʒʌmp.suːt/ --  a piece of clothing that covers 
 
 ---
 
-V3109 [[it shackles me]]  (v)\[T\]
-
----
-
 V3110 his final monologue in a play (n)[C]  /ˈmɑː.nə.lɑːɡ/  --  a long speech by one person （一個人的）滔滔不絕的話，長篇大論 disapproving He subjected me to a monologue on his last stay in hospital. 他向我滔滔不絕地講述了他上次住院的經歷。  --  2021-10-06  6 1
 
 ---
@@ -12508,7 +12478,6 @@ V3165	proclivity	(n)[C]	/prəˈklɪv.ə.t̬i/	formal	the fact that someone likes
 V3166	I want to give a tiny caveat	(n)[C]	/ˈkæv.i.æt/	formal	a warning to consider something before taking any more action, or a statement that limits a more general statement	（進一步行動前的）警告，告誡；限制條款	He agreed to the interview, with the caveat that he could approve the final article. 他答應接受訪問，條件是訪問稿刊登前須經他同意。	--	2022-02-01	7	1
 V3167	a ringleader	(n)[C]	/ˈrɪŋˌliː.dɚ/	--	the leader of a group of people who are doing something harmful or illegal	頭目；首犯；元兇	The ringleaders of the plot were arrested and punished. 這一秘密計畫的頭目被逮捕並受到了懲罰。	--	2022-02-01	7	1
 V3168	profess	(v)[T]	/prəˈfes/	--	to state something, sometimes in a way that is not sincere	聲稱；自稱；謊稱	[ + to infinitive ] She professes not to be interested in money. 她聲稱對錢不感興趣。	She professes ignorance of the whole affair, though I'm not sure I believe her. 她聲稱對整個事件一無所知，但我不能確定是否該相信她。	2022-02-05	7	2
-V3169	evangelical	(a)	/ˌiː.vænˈdʒel.ɪ.kəl/	--	having very strong beliefs and often trying to persuade other people to have the same beliefs	（信仰上）狂熱的；熱衷傳播自己觀點的	Why is it that people who've given up smoking become so evangelical and intolerant of other smokers? 爲甚麽戒了煙的人會變得如此熱衷於規勸別人戒煙，而且不能容忍別人抽煙呢？	--	2022-02-06	6	2
 V3170	she was nabbed	(v)[T]	/næb/	informal	to take something suddenly, or to catch or arrest a criminal	搶奪，猛然抓住；抓獲，逮捕（罪犯）	Undercover police officers nabbed the men at the airport. 便衣員警在機場逮捕了那些人。	Someone nabbed my apple when I wasn't looking! 有人趁我沒注意搶走了我的蘋果！	2022-02-05	7	1
 V3171	they swoop in on Stacy at the location	(v)[I]	/swuːp/ 	informal	to make a sudden attack on a place or group of people in order to surround and catch them	（為圍捕而）突然襲擊	Undercover police swooped on three houses in the city at 5.00 this morning. 今天早上五點，便衣警察突擊搜查了城裡的三間房子。	--	2022-02-05	7	1
 V3172	a bystander	(n)[C]	/ˈbaɪˌstæn.dɚ/	--	a person who is standing near and watching something that is happening but is not taking part in it	旁觀者	Many innocent bystanders were injured by the explosion. 許多無辜的旁觀者在爆炸中受傷。	--	2022-02-07	7	--
