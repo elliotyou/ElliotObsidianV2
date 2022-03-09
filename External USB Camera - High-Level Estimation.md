@@ -12,3 +12,5 @@ tags: project
 - [ ] (PMD) High-Level Human Resource (procecuting...)
 - [x] (RF/EMI) Regulation Fee ($130,000 * 2)
 - [x] (Safety) Regulation Fee ($82200 * 2)
+
+參考: D078
