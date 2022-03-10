@@ -12,4 +12,6 @@ tags: inbox
 
 [[External USB Camera - ROI Data]]
 
-[[External USB Camera - Schedule Estimation]]
+[[External USB Camera - Schedule]]
+
+[[External USB Camera - Log]]

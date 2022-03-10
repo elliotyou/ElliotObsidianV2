@@ -19,3 +19,5 @@ Final ROI for BI System
 ---
 
 [[Smart Cable - ITTOs]]
+
+[[Smart Cable - Log]]
