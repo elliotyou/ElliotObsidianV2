@@ -1,4 +1,13 @@
+---
+date: 2022-03-13
+tags: boardgame/elliot
+rate: 7.6
+min-player: 2
+max-player: 4
+weight: 2.44
+---
 
+參考: bgg link
 內容物:
 * player board 共 1 片
 * action wedge tiles 共 24 個 (三角形)

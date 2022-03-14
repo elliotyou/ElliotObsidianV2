@@ -1,4 +1,13 @@
+---
+date: 2022-03-13
+tags: boardgame/elliot
+rate: 7.6
+min-player: 1
+max-player: 100
+weight: 1.82
+---
 
+參考: bgg link
 先講遊戲進行的方式：
 
 每一輪開始時都翻3張下來像下圖，各自寫完，再翻一輪，依此類推

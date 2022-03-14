@@ -1,0 +1,10 @@
+---
+date: 2022-03-13
+tags: boardgame/bga
+rate: 7.8
+min-player: 1
+max-player: 4
+weight: 3.81
+---
+
+參考: bgg link

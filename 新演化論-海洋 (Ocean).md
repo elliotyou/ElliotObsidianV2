@@ -1,4 +1,13 @@
+---
+date: 2022-03-13
+tags: boardgame/elliot
+rate: 7.6
+min-player: 2
+max-player: 4
+weight: 2.80
+---
 
+參考: bgg link
 [Easily Missed Rules | BoardGameGeek](https://boardgamegeek.com/thread/2343027/easily-missed-rules)
 
 - 初始設置要記得把珊瑚區的 n 條魚、 第 1 海洋區的 n 條魚，移到第 3 海洋區

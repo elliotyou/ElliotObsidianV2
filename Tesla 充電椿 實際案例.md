@@ -1,6 +1,5 @@
 ---
 date: 2022-03-06
-aliases: Tesla 充電椿 實際案例
 tags: project, tesla
 ---
 

@@ -1,4 +1,13 @@
+---
+date: 2022-03-13
+tags: boardgame/elliot, boardgame/bga
+rate: 8.0
+min-player: 2
+max-player: 5
+weight: 2.00
+---
 
+參考: bgg link
 總共 40 張牌：
 -   黃色 1 ~ 9
 -   粉色 1 ~ 9

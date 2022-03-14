@@ -1,4 +1,13 @@
+---
+date: 2022-03-13
+tags: boardgame/健興
+rate: 7.9
+min-player: 1
+max-player: 4
+weight: 2.82
+---
 
+參考: bgg link
 
 [[2021-11-21 (日)]] 健興、裴裴
 

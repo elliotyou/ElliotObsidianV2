@@ -1,10 +1,4 @@
-1. [[Inbox]]
-2. [[Projects]]
-3. [[Area]]
-4. [[文獻資料]]
-5. [[存檔資料]]
-
----
+[[Inbox]]
 
 [[神達數位]]
 
@@ -24,7 +18,7 @@
 - [[Programming]]
 - [[BooksReading]]
 - [[得到]]
-- [[Productivity]]
+- [[qq2a - Productivity]]
 - [[GrowUpRegister]]
 
 ### Health

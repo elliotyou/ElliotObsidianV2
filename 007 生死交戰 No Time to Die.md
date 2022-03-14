@@ -1,7 +1,7 @@
 ---
 date: 2021-10-25
 aliases: 007 生死交戰 No Time to Die
-tags: event, saved
+tags: event/娛樂放鬆
 ---
 
 Marcus, Crystal, Katsu @ A13 威秀

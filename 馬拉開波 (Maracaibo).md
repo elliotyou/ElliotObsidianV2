@@ -1,4 +1,13 @@
+---
+date: 2022-03-13
+tags: boardgame/健興
+rate: 8.2
+min-player: 1
+max-player: 4
+weight: 3.89
+---
 
+參考: bgg link
 容易玩錯:
 
 在算 3 個國家的分數時，最強的國家「基數+2」去算，次強的國家「基數+1」去算 (下圖)

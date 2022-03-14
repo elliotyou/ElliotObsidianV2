@@ -1,6 +1,6 @@
 ---
 date: 2022-03-07
-tags: event, saved
+tags: event/social
 ---
  
 

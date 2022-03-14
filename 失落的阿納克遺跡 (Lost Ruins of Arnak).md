@@ -1,4 +1,13 @@
+---
+date: 2022-03-13
+tags: boardgame/bga
+rate: 8.1
+min-player: 1
+max-player: 4
+weight: 2.86
+---
 
+參考: bgg link
 [[2022-01-14 (五)]] 在BGA和Ben, Crystal, Lenny
 
 <a href="https://imgur.com/MN3aSBb"><img src="https://i.imgur.com/MN3aSBb.jpg" title="source: imgur.com" /></a>

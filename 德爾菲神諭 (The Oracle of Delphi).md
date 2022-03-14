@@ -1,4 +1,13 @@
+---
+date: 2022-03-13
+tags: boardgame/elliot
+rate: 7.3
+min-player: 2
+max-player: 4
+weight: 3.00
+---
 
+參考: bgg link
 設置階段看 p3 ~ 4
 
 大流程看 p5

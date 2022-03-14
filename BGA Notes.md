@@ -1,7 +1,7 @@
 ---
 date: 2022-03-06
 aliases: BGA Notes
-tags: saved
+tags: 
 ---
 
 [[奧丁 02218]]

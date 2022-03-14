@@ -1,7 +1,7 @@
 ---
 date: 2022-03-06
 aliases: Events
-tags: saved
+tags: 
 ---
 
 ```dataview

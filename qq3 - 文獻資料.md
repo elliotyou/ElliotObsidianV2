@@ -1,0 +1,9 @@
+---
+date: 2022-03-06
+aliases: References
+---
+
+```dataview
+table date as Date
+from #reference and !"Templates"
+sort date desc
