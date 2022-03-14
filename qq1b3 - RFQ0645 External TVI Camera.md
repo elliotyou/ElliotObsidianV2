@@ -1,8 +1,9 @@
 ---
 date: 2022-03-07
-aliases: RFQ0645 External TVI Camera
 tags: project
 ---
+
+[[qq1b3a - External TVI Camera - Log]]
 
 [[External TVI Camera - Pre-discussion]]
 
@@ -16,4 +17,3 @@ tags: project
 
 [[External TVI Camerae - Schedule]]
 
-[[External TVI Camera - Log]]

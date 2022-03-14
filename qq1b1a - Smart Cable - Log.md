@@ -1,12 +1,14 @@
 ---
 date: 2022-03-10
 aliases: Smart Cable - Log
-tags: project, log
+tags: project, log/project
 ---
 
 
 
 
+
+---
 
 2022-03-11 Ryan 發信提供 Firmware Upgrade 功能。預計下週一安排會議解說
 

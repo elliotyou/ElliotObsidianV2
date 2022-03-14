@@ -1,9 +1,15 @@
 ---
 date: 2022-03-10
-tags: project, log
+tags: project, log/project
 ---
 
 
+
+
+
+2022-03-14 剩 Woody, Hazel 還沒回覆我。收齊之後可以再整理一份單純 in-cabin cam 的 NRE 出來
+
+---
 
 2022-03-11 發信詢問各單位關於 NRE 的預估細節，看是否能列出來說明怎麼估的。尤其是 APP、SW、DQE
 

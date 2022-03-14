@@ -4,7 +4,7 @@ aliases: External TVI Camerae - Schedule
 tags: project
 ---
 
-Rough Schedule
+Rough Schedule - Estimated by 2022-03-10
 
 |Item|Date|
 |--|:--:|
@@ -13,3 +13,7 @@ Rough Schedule
 |Vendor Select + Place Order|2022-04-15|
 |Receive 50-100 pcs|2022-05-27|
 |DQE Completely Verified|2022-06-24|
+
+
+Rough Schedule - Estimated by 2022-03-14
+

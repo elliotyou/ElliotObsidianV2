@@ -1,3 +1,7 @@
+
+[[qq1b1a - Smart Cable - Log]]
+
+
 [[Smart Cable - Pre-discussion]]
 
 [[Smart Cable - Stakeholders]]
@@ -20,4 +24,4 @@ Final ROI for BI System
 
 [[Smart Cable - ITTOs]]
 
-[[Smart Cable - Log]]
+

@@ -1,6 +1,6 @@
 ---
 date: 2022-03-12
-tags: event, log
+tags: event, log/area
 ---
 
 
