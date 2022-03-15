@@ -5206,10 +5206,6 @@ V1320 sovereign (n) /ˈsɑːv.rən/ (RULER) a king or queen 君主；元首；�
 
 ---
 
-V1321 hold off  (v) --  (NOT DO)  to not do something immediately 推遲，延遲 [+ -ing (v)] Let's hold off making a decision until next week. 我們延到下周再作決定吧。 US They've decided to hold off on buying a car until they're both working. 他們決定等兩人都開始工作之後再買車。 2021-09-07  11  2
-
----
-
 V1322 cite  (v) --  (GIVE EXAMPLE) formal to speak or write words taken from a particular writer or written work  引用，引述 She cites both T.S. Eliot and Virginia Woolf in her article. 她在文章中引用了T.S.艾略特和維吉尼亞‧伍爾芙的作品。 --  2021-09-13  11  --
 
 ---
@@ -8984,10 +8980,6 @@ V2271 shy away from sth (phr) /ʃaɪ/ --  to avoid something that you dislike, f
 
 ---
 
-V2272 a stowaway  (n)[C]  /ˈstoʊ.əˌweɪ/ --  a person who hides on a ship, aircraft, or other vehicle  偷乘者；偷渡者 --  --  2021-09-07  9 4
-
----
-
 V2273 welfare (n)[U]  /ˈwel.fer/  (HELP)  help given, especially by the state or an organization, to people who need it, especially because they do not have enough money 福利救濟；社會福利 Your taxes pay for welfare benefits such as unemployment and sickness pay. 你交的稅用作諸如失業和醫療等方面的福利救濟。 UK After her month's sick leave, she was summoned to see the company's welfare officer. 她休了一個月病假之後，公司的福利主管約見了她。 2021-09-28  11  --
 
 ---
@@ -10713,10 +10705,6 @@ V2704 shed light  (v) /ʃed/ shed-shed-shed (PRODUCE)  to produce tears, light, 
 
 ---
 
-V2705 the mayhem continued  (n)[U]  /ˈmeɪ.hem/  --  a situation in which there is little or no order or control 混亂狀態  With 20 kids running around and only two adults to supervise, it was complete mayhem. 20個孩子到處亂跑卻只有兩個大人看管，完全是一片混亂。 --  2021-09-07  9 1
-
----
-
 V2706 she keeps a watchful eye on him (a) /ˈwɑːtʃ.fəl/  --  paying careful attention and ready to deal with problems  警惕的；注意的 Under the watchful eye of their mother, the two boys played on the beach. 那兩個男孩在海灘玩耍，他們的母親隨時看著他們。 She keeps a watchful eye on her boyfriend. 她把男朋友盯得緊緊的。  2021-09-08  11  --
 
 ---
@@ -12064,10 +12052,6 @@ V3043 the variant (n)[C]  /ˈver.i.ənt/  --  something that is slightly differe
 
 ---
 
-V3044 some mutations  (n)[C]  /mjuːˈteɪ.ʃən/  --  a permanent change in an organism, or the changed organism itself 突變  Environmental pressures encourage genes with certain mutations to persist and others to die out.  These plants carry the mutation for red flowers.  2021-09-22  7 3
-
----
-
 V3045 complacency (n)[U]  /kəmˈpleɪ.sən.si/ disapproving  a feeling of calm satisfaction with your own abilities or situation that prevents you from trying harder  自滿，自鳴得意 What annoys me about these girls is their complacency - they seem to have no desire to expand their horizons. 這些女孩讓我生氣的是她們的自滿想法——她們似乎根本沒有擴展知識面的願望。  There's no room for complacency if we want to stay in this competition! 我們要是想在競爭中立足就絕不能自滿！  2021-09-25  6 5
 
 ---
@@ -12465,7 +12449,6 @@ V3177	enclosure	(n)[C]	/ɪnˈkloʊ.ʒɚ/	(SURROUNDED)	--	外殼	--	--	2022-02-11
 V3178	she's so entitled	(a)	/ɪnˈtaɪ.t̬əld/	disapproving	feeling that you have the right to do or have what you want without having to work for it or deserve it, just because of who you are	有權做…的；為所欲為的	These kids are spoiled, entitled, self-absorbed, and apathetic. 這些孩子被寵壞了，為所欲為、自戀且冷漠。	--	2022-02-11	6	1
 V3179	she looked disheveled	(a)	/dɪˈʃev.əld/	mainly UK	(of people or their appearance) very untidy	（人或其外表）不整潔的，亂糟糟的	dishevelled hair/clothes/appearance 亂糟糟的頭髮／衣服／外表	He ran in looking dishevelled. 他衣衫不整地跑了進來。	2022-02-13	7	1
 V3180	they were injured in scuffles	(n)[C]	/ˈskʌf.əl/	--	a short and sudden fight, especially one involving a small number of people	（尤指少數人的）短暫扭打，小衝突	Two police officers were injured in scuffles with demonstrators at Sunday's protest. 星期天抗議活動中，有兩名員警在與抗議者的衝突中受傷。	--	2022-02-15	7	1
-V3181	predisposition towards	(n)[C]	/ˌpriː.dɪs.pəˈzɪʃ.ən/	formal	the state of being likely to behave in a particular way or to suffer from a particular disease	傾向；稟性；（易患某種疾病的）體質	She has an annoying predisposition to find fault. 她有愛挑毛病這一令人討厭的習性。	There is evidence that a predisposition to(wards) asthma runs in families. 有證據顯示易患哮喘是家族遺傳的。	2022-02-15	5	2
 V3182	a summary arrest	(a)[before n]	/ˈsʌm.ɚ.i/	--	done suddenly, without discussion or legal arrangements	（未經討論或法律程式）立即的，速決的，草率的	summary arrest/dismissal/execution 立即逮捕／解散／執行	--	2022-02-06	6	2
 V3183	he's conniving	(a)	/kəˈnaɪ.vɪŋ/	--	A conniving person deceives others for their own advantage.	搞陰謀的；暗算他人的	He's a conniving bastard! 他是個狡詐的混蛋！	--	2022-02-18	7	1
 V3184	a redneck	(n)[C]	/ˈred.nek/	informal offensive	a poor white person without education, especially one living in the countryside in the southern US, who has prejudiced (= unfair and unreasonable) ideas and beliefs	（尤指美國南部農村地區偏執的）鄉巴佬，農民	--	--	2022-02-06	6	1

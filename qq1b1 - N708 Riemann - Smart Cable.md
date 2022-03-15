@@ -1,7 +1,3 @@
-
-[[qq1b1a - Smart Cable - Log]]
-
-
 [[Smart Cable - Pre-discussion]]
 
 [[Smart Cable - Stakeholders]]
