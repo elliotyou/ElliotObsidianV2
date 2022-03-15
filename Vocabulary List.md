@@ -395,9 +395,6 @@ V0110 ferment (v) --  --  If food or drink ferments or if you ferment it, the su
 
 V0111 apocalypse  (n) [S or U]  /əˈpɑː.kə.lɪps/ --  a very serious event resulting in great destruction and change  大災變；大動亂 The book offers a vision of the future in which there is a great nuclear apocalypse. 這本書描述了未來核戰爭帶來的滅頂之災。  --  2021-08-08  11  --
 
----
-
-V0112 obliterate  (v) --  [T often passive] to remove all signs of something, either by destroying it or by covering it so that it cannot be seen 消滅、抹去, 覆蓋 The missile strike was devastating the target was totally _____ed.  這次導彈襲擊是毀滅性的——目標蕩然無存。  All of a sudden the view was _____ed by the fog.  突然之間霧氣淹沒了這片景象。  2021-09-06  9 8
 
 ---
 
@@ -1499,10 +1496,6 @@ V0388 biometric data  (a) /ˌbaɪ.oʊˈmet.rɪk/ --  referring to detailed infor
 ---
 
 V0389 coloration  (n) [U] --  BIOLOGY   specialized the fact of colour being present on an animal or plant and the pattern that the colour makes  （動物或植物的）顏色，色彩，花紋  --  --  2021-08-19  11  --
-
----
-
-V0390 administer or administrate  (v) --  formal  to cause someone to receive something 給予；施用；施行  to administer medicine/punishment/relief  給藥／施加懲罰／發放救濟品 Tests will be administered to schoolchildren at seven and twelve years.  7歲和12歲的學生將接受測試。  2021-09-06  9 6
 
 ---
 
@@ -7639,9 +7632,7 @@ V1928 colony  (n)[C]  /ˈkɑː.lə.ni/  (GROUP) BIOLOGY specialized a group of a
 
 V1929 drive sth home  (phr) --  --  to say something clearly and with a lot of force so that you are certain people understand it 把…講清楚，使人完全明白  She really drove home the message that we need to economize. 她講得很清楚，我們需要節約。 The documentary drove home the impact of climate change. 這部紀錄片明確傳達出氣候變遷的衝擊。 2021-08-29  11  --
 
----
 
-V1930 jubilee (n)[C]  /ˌdʒuː.bəˈliː/  --  (the celebration of) the day on which an important event happened many years ago  （重要事件的）周年紀念；紀念大慶  the Queen's diamond jubilee. 女王登基60周年紀念 --  2021-09-06  9 6
 
 ---
 
@@ -8325,10 +8316,6 @@ V2101 reformed church (v)[I or T] /rɪˈfɔːrm/  --  to make an improvement, es
 
 ---
 
-V2102 weigh in (on) (phr) /weɪ/ (DISCUSSION) informal to become involved in an argument or discussion in a forceful way 積極參與（辯論或討論） Several leading architects weighed in with criticisms regarding the design of the new museum. 幾位著名的建築師加入討論，對新博物館的設計方案提出了批評意見。 The science expert weighed in on the debate between the two journalists. 科學專家對兩名記者之間的爭論發表意見。  2021-09-21  9 6
-
----
-
 V2103 a tough/hard sell (phr) --  --  something that is difficult to persuade people to buy or accept 難以接受的事物；難以被信服的言論  Getting people to download the app was a tough sell because it received bad reviews. 要大家去下載那個應用程式並不容易，因為它評價不好。  This tax increase is going to be a tough sell to voters. 這次增稅動作對選民來說會是個無法接受的政策。 2021-08-16  11  --
 
 ---
@@ -8990,10 +8977,6 @@ V2268 [[lay waste the country]]
 ---
 
 V2269 cobble sth together (phr) /ˈkɑː.bəl/  --  to do or make something quickly and not very carefully  粗製濫造；東拼西湊；匆匆拼湊  I just had to cobble this meal together from what I had in the fridge. 我只得用冰箱裡現成的東西湊合這頓飯。 --  2021-09-16  11  4
-
----
-
-V2270 he is berated for...  (v)[T]  /bɪˈreɪt/ formal (CRITICIZE)  to criticize or speak in an angry manner to someone 嚴責，訓斥 As he left the meeting, he was berated by angry demonstrators. 他離開會場時遭到了憤怒的示威者責罵。 Doctors are often berated for being poor communicators, particularly when they have to give patients bad news. 醫生常常因不善於溝通而遭受指責，特別是當他們必須告訴病人壞消息的時候。  2021-09-06  9 6
 
 ---
 
@@ -9735,9 +9718,7 @@ V2454 boil down to sth  --  /bɔɪl/  --  If a situation or problem boils down t
 
 V2455 he confided to her that...  (v)[ I or T]  /kənˈfaɪd/  --  to tell something secret or personal to someone who you trust not to tell anyone else 吐露，傾訴（秘密） [ + that ] He confided (to her) that his hair was not his own. 他（向她）透露他的頭髮是假髮。  "[ + speech ] ""My husband doesn't know yet, but I'm going to leave him,"" she confided. 「我丈夫還不知道，但我就要離開他了。」她傾訴道。"  2021-08-15  10  1
 
----
 
-V2456 animosity (n)[C or U] /ˌæn.əˈmɑː.sə.t̬i/  --  strong dislike, opposition, or anger  仇恨；敵意；憎惡  Of course we're competitive, but there's no personal animosity between us. 我們固然是競爭對手，但我們之間並沒有私怨。  In spite of his injuries, he bears no animosity towards his attackers. 儘管受了傷，但他對襲擊他的人也沒有任何怨恨。 2021-09-08  8 5
 
 ---
 
@@ -12213,9 +12194,6 @@ V3075 to find the proverbial smoking gun  (a) /prəˈvɝː.bi.əl/ --  as used i
 
 V3076 smoking gun (n)[C usually singular] /ˌsmoʊ.kɪŋ ˈɡʌn/  --  information that proves who committed a crime 確鑿的罪證 The tape recordings provided prosecutors with the smoking gun they needed to prove he'd been involved in the conspiracy. 錄音帶爲檢察官們提供了他們所需要的確鑿證據，證明他參與了這陰謀。 --  2021-09-22  7 1
 
----
-
-V3077 the linchpin of this entire investigation (n) /ˈlɪntʃ.pɪn/  --  the most important member of a group or part of a system, that holds together the other members or parts or makes it possible for them to operate as intended 核心，中樞，關鍵（人物或部分） Woodford is the linchpin of the British athletics team. 伍德福德是英國田徑隊中的核心人物。 --  2021-09-21  7 --
 
 ---
 
@@ -12475,8 +12453,6 @@ V3162	screwy	(a)	/ˈskruː.i/	old-fashioned informal	very strange, silly, or unu
 V3163	incest	(n)[U]	/ˈɪn.sest/	--	sexual activity involving people who are closely related and not legally allowed to marry	亂倫	a victim of incest 亂倫的受害者	--	2022-02-06	6	2
 V3164	crappy	(a)	/ˈkræp.i/	offensive	unpleasant or of very bad quality	討厭的，沒價值的；蹩腳的，劣質的	He had a series of crappy jobs. 他做了一連串沒意思的工作。	--	2022-02-12	5	4
 V3165	proclivity	(n)[C]	/prəˈklɪv.ə.t̬i/	formal	the fact that someone likes something or likes to do something, especially something considered morally wrong	癖性；（尤指壞的）傾向	the sexual proclivities of celebrities 名人的性癖好	his proclivity for shapely blondes 他對身材勻稱的金髮女郎的偏愛	2022-02-11	6	3
-V3166	I want to give a tiny caveat	(n)[C]	/ˈkæv.i.æt/	formal	a warning to consider something before taking any more action, or a statement that limits a more general statement	（進一步行動前的）警告，告誡；限制條款	He agreed to the interview, with the caveat that he could approve the final article. 他答應接受訪問，條件是訪問稿刊登前須經他同意。	--	2022-02-01	7	1
-V3167	a ringleader	(n)[C]	/ˈrɪŋˌliː.dɚ/	--	the leader of a group of people who are doing something harmful or illegal	頭目；首犯；元兇	The ringleaders of the plot were arrested and punished. 這一秘密計畫的頭目被逮捕並受到了懲罰。	--	2022-02-01	7	1
 V3168	profess	(v)[T]	/prəˈfes/	--	to state something, sometimes in a way that is not sincere	聲稱；自稱；謊稱	[ + to infinitive ] She professes not to be interested in money. 她聲稱對錢不感興趣。	She professes ignorance of the whole affair, though I'm not sure I believe her. 她聲稱對整個事件一無所知，但我不能確定是否該相信她。	2022-02-05	7	2
 V3170	she was nabbed	(v)[T]	/næb/	informal	to take something suddenly, or to catch or arrest a criminal	搶奪，猛然抓住；抓獲，逮捕（罪犯）	Undercover police officers nabbed the men at the airport. 便衣員警在機場逮捕了那些人。	Someone nabbed my apple when I wasn't looking! 有人趁我沒注意搶走了我的蘋果！	2022-02-05	7	1
 V3171	they swoop in on Stacy at the location	(v)[I]	/swuːp/ 	informal	to make a sudden attack on a place or group of people in order to surround and catch them	（為圍捕而）突然襲擊	Undercover police swooped on three houses in the city at 5.00 this morning. 今天早上五點，便衣警察突擊搜查了城裡的三間房子。	--	2022-02-05	7	1
@@ -12542,10 +12518,8 @@ V3230	disfiguring scars	(v)[T]	/dɪsˈfɪɡ.jɚ/	--	to spoil the appearance of s
 V3233	scalp	(n)[C]	/skælp/	(TOP OF HEAD)	the skin on the top of a person's head where hair usually grows	頭皮	a dry/oily/itchy scalp 乾燥的／油性的／發癢的頭皮	Some tribes used to collect scalps to prove how many of the enemy they had killed in battle. 以前有些部落透過收集人的頭皮來證明在戰鬥中殺死過多少敵人。	2022-02-18	1	--
 V3234	a syndicated radio	(a)	/ˈsɪn.də.keɪ.t̬ɪd/	mainly US	(of television or radio programmes) sold to several different broadcasting organizations	（電視或廣播節目）賣給多間播出單位的	--	--	2022-02-19	0	--
 V3235	she was accosted	(v)[T often passive]	/əˈkɑːst/	formal	to go up to or stop and speak to someone in a threatening way	（貿然）上前搭訕；（唐突地）走近談話	I'm usually accosted by beggars and drunks as I walk to the station. 去車站的路上，經常有乞丐和酒鬼上前跟我搭訕。	--	2022-02-19	0	--
-V3236	in plain sight	--	--	-- 	in a place where people can clearly see something	一覽無疑	Don't leave expensive items out in plain sight.	With everything in plain view, customers need less help from the staff.	2022-02-21	0	--
-V3237	stub it out	--	/stʌb/	--	to stop a cigarette from burning by pressing the burning end against a hard surface	掐滅（香煙）	--	--	2022-02-21	0	--
-V3238	a deranged personality	(a)	/dɪˈreɪndʒd/	--	completely unable to think clearly or behave in a controlled way, especially because of mental illness	精神錯亂的，發狂的，瘋狂的	a deranged criminal/mind/personality 瘋狂的罪犯／混亂的頭腦／狂躁的人格	to be mentally deranged 精神錯亂	2022-02-21	0	--
-V3239	prenuptial agreement	(a)	/ˌpriːˈnʌp.ʃəl/	--	before getting married	結婚前的	--	--	2022-02-21	0	--
+
+
 V3240	he was taken aback	--	/əˈbæk/	--	 to be very shocked or surprised	大吃一驚；震驚	I was somewhat taken aback by her honesty. 她的坦誠讓我大吃一驚。	--	2022-02-23	0	--
 V3241	peachy	(a)	/ˈpiː.tʃi/	informal	very good	極好的，非常好的	--	--	2022-02-23	0	--
 V3242	he stammered out excueses	(v)[I or T]	/ˈstæm.ɚ/	--	to speak or say something with unusual pauses or repeated sounds, either because of speech problems or because of fear and anxiety	口吃；結結巴巴地說	"[ + speech ] ""Wh-when can we g-go?"" she stammered. 「我們甚……甚麽時候能……能走？」她結結巴巴地說道。"	He dialled 999 and stammered (out) his name and address. 他撥了999，結結巴巴地報出了自己的名字和地址。	2022-02-24	0	--
