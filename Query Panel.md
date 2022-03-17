@@ -2,12 +2,12 @@
 table tags
 
 from 
-	#log/project/RFQ0644
-	and !"Templates"
-where 
-	date >= date(today) - dur(15 day)
+	#log/project or #event 
+	and !"Templates"where 
+
+date >= date(today) - dur(1 day)
 	
-sort date desc
+sort file.mtime desc
 ```
 
 常用語法
