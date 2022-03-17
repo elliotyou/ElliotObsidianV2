@@ -2,7 +2,7 @@
 table tags
 
 from 
-	#log/project/RFQ0644
+	#log/project/RFQ0645
 	and !"Templates"
 where 
 	date >= date(today) - dur(15 day)
