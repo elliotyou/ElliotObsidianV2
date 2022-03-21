@@ -5,10 +5,6 @@ status: Inbox
 tags:
 ---
 
-From: [[測試送樣 SOP]]
-
----
-
 APP 下載: 
 https://iosapp.mic.com.tw/App/MiVueGO/
 

@@ -1,6 +1,3 @@
-[[測試送樣 SOP]]
-
----
 
 ```
 From: david.w.lee (李威霖 - MDT) <david.w.lee@mic.com.tw> 
