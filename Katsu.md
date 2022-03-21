@@ -1,7 +1,8 @@
 ---
-aliases: Katsu
-caegory:
-tags: [People]
+name: 呂國勝
+english: Katsu
+type: ATrack
+tags: people
 ---
 
 愛養寵物，養過狗、貓、鳥、鴿、蛇、蛙、守宮、昆蟲……

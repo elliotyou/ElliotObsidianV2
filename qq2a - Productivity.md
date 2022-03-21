@@ -6,7 +6,6 @@ tags:
 [[qq2a1 - Obsidian]]
 
 
-
 MicroSoft Office
 - Word
 - Excel
