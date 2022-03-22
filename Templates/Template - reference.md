@@ -1,9 +1,7 @@
 ---
-date: {{date}}
-tags: reference/未分類
+date: {{DATE: YYYY-MM-DD HH:mm}}
+tags: {{VALUE: Obsidian, PMP}}
 ---
 
-
-
----
 來源: 
+
