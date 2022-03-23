@@ -1,6 +1,6 @@
 ```dataview
 table tags
-from #log/project/RFQ0645   and !"Templates"
+from #log/project/MiTAC   and !"Templates"
 sort date desc
 ```
 

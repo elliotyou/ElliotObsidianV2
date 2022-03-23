@@ -51,7 +51,7 @@ a = 'Hello World!'
 
 因此 undefined 和 is not defined 是不一樣的
 * **undefined**: 電腦有保留 memory 給這個 variable ，但還沒被定義過裡面是什麼，這不是 error
-* ** is not defined**: 電腦並沒有保留 memory 給這個 variable ，這是 error
+* **is not defined**: 電腦並沒有保留 memory 給這個 variable ，這是 error
 
 下方這樣的做法也是合法的，但請千萬不要這麼做。
 
