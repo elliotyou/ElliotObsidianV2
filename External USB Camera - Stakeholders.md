@@ -13,6 +13,7 @@ tags: project
 |ID|Mac |Ray.kuo|
 |SW - 610||Paris|
 |SW - APP||Woody|
+|SW - Cam|Hazel.dong|Mindy.yang|
 |RF/EMI|Sy.liu (Albert) |Eric.c|
 |Safety|Samantha|Ruey-yuan|
 |PJE|Karen|Rebecca|
