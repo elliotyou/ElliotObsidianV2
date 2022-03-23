@@ -1,8 +1,6 @@
 ```dataview
-table tags
-
+table tags, status
 from #log/project/MiTAC  and !"Templates" 
-
 sort date desc
 ```
 
