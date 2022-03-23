@@ -1,6 +1,6 @@
 ```dataview
 table tags
-from #reference or #PMP and !"Templates"
+from #reference and !"Templates" and #tesla 
 sort date desc
 ```
 
