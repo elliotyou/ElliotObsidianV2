@@ -1,6 +1,6 @@
 ```dataview
 table tags, status
-from #vocab  and !"Templates" 
+from #log/project/MiTAC  and !"Templates" 
 sort date desc
 ```
 
@@ -13,3 +13,4 @@ from #boardgame and !"Templates"
 
 sort date desc
 ```
+

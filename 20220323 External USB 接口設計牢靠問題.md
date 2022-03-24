@@ -4,6 +4,6 @@ status: open
 tags: log/project/MiTAC
 ---
 
-
-Action: 要跟 Flame.he 確認在接 Gemini 的那個位置能不能有什麼設計是可以確定牢靠又可相容於既有的設計？
-
+2022-03-24 17:37 
+發信詢問 Flame 和 Liming
+Waiting: 看他們怎麼回覆？

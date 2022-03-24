@@ -5,4 +5,6 @@ tags: log/project/MiTAC/RFQ0645
 ---
 
 
-Action: Hans 是否有協助測試 2 支 Camera 的 5V 都靠 EVO 供電的情境？
+
+2022-03-24 09:43
+Hans 告知 2 支 Camera 的 5V 都靠 EVO 供電的情境可以正常運作
