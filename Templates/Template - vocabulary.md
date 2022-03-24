@@ -1,5 +1,5 @@
 ---
-date: {{date}}
+date: {{DATE: YYYY-DD-MM}}
 VID: 
 POS: 
 PRON: 

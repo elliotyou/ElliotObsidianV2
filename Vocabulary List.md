@@ -10592,10 +10592,6 @@ V2675 it is a charm (n)[C]  /tʃɑːrm/  (LUCKY OBJECT)  an object or saying tha
 
 ---
 
-V2676 she is jilted (v)[T]  /dʒɪlt/ --  to finish a romantic relationship with someone suddenly and unkindly  突然拋棄（情人）  He jilted her for his best friend's sister. 他甩了她轉而追求他好朋友的姐姐。  --  2021-09-29  7 5
-
----
-
 V2677 pardon  (v)[T]  /ˈpɑːr.dən/ --  If someone who has committed a crime is pardoned, that person is officially forgiven and their punishment is stopped. 赦免  Large numbers of political prisoners have been pardoned and released by the new president. 新總統赦免並釋放了一大批政治犯。 --  2021-10-07  6 4
 
 ---
