@@ -1,5 +1,5 @@
 ---
-aliases: {{title}}
+date: {{DATE}}
 place: A8
 tags: Lunchbox 
 ---
