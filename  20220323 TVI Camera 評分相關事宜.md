@@ -1,5 +1,6 @@
 ---
 date: 2022-03-23
+status: close
 tags: log/project/MiTAC/RFQ0645
 ---
 
