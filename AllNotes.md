@@ -1,12 +1,15 @@
-[[Inbox]]
 
-[[神達數位]]
+[[qq1 - Projects]]
+[[qq2 - Area]]
+[[qq3 - 文獻資料]]
+[[qq4 - 存檔資料]]
+
+---
+
 
 [[離職後的我可以幹嘛]]
 
 ### Goals
-2. [[An Obvious Body Builder]] → 日常安排中，有運動成份
-3. [[A FreeStyle Pop Pianist]] → 日常安排中，有練琴成份
 4. [[An Entry Website Developer]] → 背單字系統
 5. 養過1隻寵物的人
 
@@ -15,10 +18,7 @@
 - [[Restaurants]]
 
 ### Knowledge Base:
-- [[Programming]]
 - [[BooksReading]]
-- [[得到]]
-- [[qq2a - Productivity]]
 - [[GrowUpRegister]]
 
 ### Health
@@ -33,6 +33,6 @@
 - [[會計與投資]]
 
 ### Recreation: 
- - [[BoardGames]]
+ - [[qq2f - BoardGames]]
  - [[Movies]]
 

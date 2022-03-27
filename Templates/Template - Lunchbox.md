@@ -1,6 +1,6 @@
 ---
 date: {{DATE}}
-place: A8
+place: {{VALUE}}
 tags: Lunchbox 
 ---
 

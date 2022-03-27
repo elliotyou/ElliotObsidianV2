@@ -1,4 +1,4 @@
-From:  [[Javascript 資源區]]
+From:  [[qq2d - JavaScript]]
 
 ---
 

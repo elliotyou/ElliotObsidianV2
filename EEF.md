@@ -1,6 +1,6 @@
 ---
 date: 2022-03-12
-tags: reference, PMP/IO
+tags: reference/Udemy/PMP/第7節67, PMP/IO 
 ---
 
 EEF (Enterprise Enfironmental Factors)

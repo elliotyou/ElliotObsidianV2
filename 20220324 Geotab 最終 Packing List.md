@@ -1,7 +1,7 @@
 ---
 date: 2022-03-24
 status: open
-tags: log/project/MiTAC
+tags: log/project/MiTAC/N708
 ---
 
 Action: 發封信和 Geotab / Indie 確認我的 packing list, 包含詢問幾條給 Ryan

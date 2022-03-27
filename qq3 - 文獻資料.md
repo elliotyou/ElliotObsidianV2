@@ -1,9 +1,3 @@
----
-date: 2022-03-06
-aliases: References
----
-
-```dataview
-table date as Date
-from #reference and !"Templates"
-sort date desc
+[[得到]]
+[[搭訕大師TV]]
+[[特斯拉充電椿 相關]]

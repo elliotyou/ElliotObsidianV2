@@ -1,10 +1,3 @@
-Active Tasks:
-- [[qq1b1 - N708 Riemann - Smart Cable]]
-- [[qq1b2 - RFQ0644 External USB Camera]]
-- [[qq1b3 - RFQ0645 External TVI Camera]]
-
----
-
 Inactive Tasks
 - [[VT Team Genral Tasks]]
 - [[New Approach, 奇美車電, Gemini]]

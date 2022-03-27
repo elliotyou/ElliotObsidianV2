@@ -1,5 +1,5 @@
 
-- [[Javascript 資源區]]
+- [[qq2d - JavaScript]]
 - [[LeetCode]]
 - JavaScript Courses
 - CS50 Courses

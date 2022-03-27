@@ -1,6 +1,6 @@
 ---
-date: 2022-03-20
-tags: reference/未分類
+date: 2022-03-20 12:00
+tags: reference, business
 ---
 
 Bryant 的一位前輩跟他說，一項 Business 要做成，有 3 個要素一定不能少:

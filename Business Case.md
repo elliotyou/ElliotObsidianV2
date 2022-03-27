@@ -1,9 +1,9 @@
 ---
 date: 2022-03-12
-tags: reference, PMP/IO
+tags: reference
 ---
 
-[[Business Document]] 的其中 1 個，簡單說就是用來「說服這個 project 為什麼值得做」
+簡單說就是用來「說服這個 project 為什麼值得做」
 
 Business case describes:
 - Market demand: 市場餅有多大

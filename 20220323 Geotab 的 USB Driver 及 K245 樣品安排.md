@@ -1,7 +1,7 @@
 ---
 date: 2022-03-23
 status: open
-tags: log/project/MiTAC
+tags: log/project/MiTAC/N708
 ---
 
 Waiting: Denny, 測 USB Driver 測得怎樣

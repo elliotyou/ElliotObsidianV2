@@ -1,6 +1,6 @@
 ---
-date: 2022-03-12
-tags: reference, PMP/IO
+date: 2022-03-12 12:00
+tags: reference/Udemy/PMP/第9節/94, PMP/IO
 ---
 
 - Project purpose
