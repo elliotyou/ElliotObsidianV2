@@ -4,13 +4,13 @@ aliases: Area
 tags: area
 ---
 
-[[qq2a - Productivity]]
-[[qq2b - Piano]]
-[[qq2c - EnglishLearning]]
-[[qq2d - JavaScript]]
+[[Productivity]]
+[[Piano]]
+[[EnglishLearning]]
+[[JavaScript]]
 [[Programming]]
 [[qq2e - Health]]
-[[qq2f - BoardGames]]
+[[BoardGames]]
 [[會計與投資]]
 
 

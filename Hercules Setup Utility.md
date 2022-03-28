@@ -1,4 +1,4 @@
-From: [[qq2a - Productivity]]
+From: [[Productivity]]
 
 ---
 

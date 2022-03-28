@@ -1,6 +1,6 @@
 ```dataview
-table tags
-from #log/project/MiTAC/RFQ0645   and !"Templates"
+table tags, status
+from #log/project/MiTAC   and !"Templates"
 where status!="close"
 sort date desc
 ```

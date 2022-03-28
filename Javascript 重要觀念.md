@@ -1,4 +1,4 @@
-From:  [[qq2d - JavaScript]]
+From:  [[JavaScript]]
 
 ---
 

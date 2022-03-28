@@ -1,8 +1,8 @@
 
-[[qq1 - Projects]]
-[[qq2 - Area]]
-[[qq3 - 文獻資料]]
-[[qq4 - 存檔資料]]
+[[Projects]]
+[[Area]]
+[[文獻資料]]
+[[存檔資料]]
 
 ---
 
@@ -33,6 +33,6 @@
 - [[會計與投資]]
 
 ### Recreation: 
- - [[qq2f - BoardGames]]
+ - [[BoardGames]]
  - [[Movies]]
 

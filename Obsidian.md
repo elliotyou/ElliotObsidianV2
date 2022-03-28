@@ -1,6 +1,6 @@
 
 
-[[qq2a1a - Obsidian - Markdown Table Editor]]
+[[Obsidian - Markdown Table Editor]]
 [[Obsidian 的任務管理技巧彙總]]
 [[Obsidian Anki  外掛整合]]
 

@@ -3,7 +3,7 @@ date: 2022-03-13
 tags:
 ---
 
-[[qq2a1 - Obsidian]]
+[[Obsidian]]
 
 
 MicroSoft Office
@@ -25,7 +25,7 @@ Productivity - 專案管理工具
 
 Productivity -  筆記工具
 - [[學code寫筆記的觀念]]
-- [[qq2a1 - Obsidian]]
+- [[Obsidian]]
 - [[Zettelkasten筆記法]]
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - 子彈筆記法 (bullet journal)

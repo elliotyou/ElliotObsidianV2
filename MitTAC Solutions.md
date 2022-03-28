@@ -14,4 +14,4 @@
 - [[Intelligent Vision]]
 
 ### Accessory
-- [[qq1b - N708 Riemann - Smart Cable]]
+- [[N708 Riemann - Smart Cable]]

@@ -1,5 +1,5 @@
 
-- [[qq2d - JavaScript]]
+- [[JavaScript]]
 - [[LeetCode]]
 - JavaScript Courses
 - CS50 Courses

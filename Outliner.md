@@ -5,7 +5,7 @@ status: Inbox
 tags:
 ---
 
-[[qq2a1 - Obsidian]]
+[[Obsidian]]
 
 ---
 
