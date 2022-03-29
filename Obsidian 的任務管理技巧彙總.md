@@ -1,6 +1,6 @@
 ---
 date: 2022-03-21 12:00
-tags: reference/Obsidian
+tags: reference, Obsidian
 ---
 
 
