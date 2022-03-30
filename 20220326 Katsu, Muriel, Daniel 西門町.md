@@ -1,7 +1,8 @@
 ---
-date:  2022-03-26 12:56
 tags:  event/friends, log/eating
 type: 午餐
+date-created: 2022-03-26 12:06
+date-modified: 2022-03-27 19:57
 ---
 
 約 12:50 在西門町
