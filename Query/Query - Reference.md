@@ -1,5 +1,5 @@
 ```dataview
-table tags, date
-from #reference/未分類 and !"Templates"
-sort date desc
+table tags, date, date-created
+from #reference and !"Templates"
+sort date-created desc
 ```
