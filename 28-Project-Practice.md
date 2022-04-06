@@ -1,8 +1,7 @@
 ---
-date: 2022-03-06
-aliases: 28-Project-Practice
-status: Inbox
-tags:
+tags: log/area/programming/28-project-practice
+date-created: 2022-02-27 15:24
+date-modified: 2022-04-03 16:25
 ---
 
 ##### [[J0 建構環境]] 

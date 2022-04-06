@@ -1,7 +1,7 @@
 ---
 date: 2022-03-07
 aliases: External TVI Camera - Stakeholders
-tags: project
+tags: log/project/MiTAC
 ---
 
 | Function | PIC                              | CC            |

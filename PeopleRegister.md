@@ -1,33 +1,20 @@
----
-date: 2022-03-06
-aliases: PeopleRegister
-tags: inbox
----
-
-
-```dataview
-table aliases as Description
-from #People 
-sort file.mtime desc
-```
-
 [[ChiYing]]
-[[David.Lee]]
+[[David Lee]]
 [[健興]]
 [[裴裴]]
 [[小孟]]
 [[小安]]
 [[Bryant Kung]]
 [[Crystal]]
-[[Lenny]]
+[[Lanny]]
 [[Jojo]]
-Ryan (陞泰實習)
-Rosa
-Alan.Wu 謝謝 Ashley Alan 讓我省錢買椅子，解封後請他們吃頓飯
-Ashley
+[[Ryan (陞泰實習)]]
+[[Rosa]]
+[[Alan.Wu]] 謝謝 Ashley Alan 讓我省錢買椅子，解封後請他們吃頓飯
+[[Ashley]]
 [[Eric (桌遊咖)]]
 [[維真]]
-[[Daniel 陳龍]]
+[[Daniel]]
 [[Marcus]]
 [[Ben]]
 [[天龍]]

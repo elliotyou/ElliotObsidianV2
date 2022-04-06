@@ -1,7 +1,7 @@
 ---
 date: 2022-03-07
 aliases: Smart Cable - Pre-discussion
-tags: project
+tags: log/project/MiTAC
 ---
 
 4.1.1 Pre-discussion

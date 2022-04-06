@@ -1,7 +1,7 @@
 ---
 date: 2022-03-07
 aliases: Smart Cable - Stakeholders
-tags: project
+tags: log/project/MiTAC
 ---
 
 |Function|PIC|CC|

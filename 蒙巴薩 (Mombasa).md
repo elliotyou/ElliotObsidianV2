@@ -24,10 +24,6 @@ weight: 3.90
 
 ---
 
-[[2022-01-28 (五)]] Crystal, Lanny, David
-
-<a href="https://imgur.com/EWJDN75"><img src="https://i.imgur.com/EWJDN75.jpg" title="source: imgur.com" width="600px"/></a>
-
 2021/10/06, Wed 在我內湖家，健興、小孟、裴裴 一起玩
 
 2021/5/9, Sun 14:30 和朱健興、小孟一起逛「黑箱桌遊清倉」時買的，在台北地下街靠北門那邊。 $1000

@@ -1,2 +1,8 @@
+---
+name: 紀縈
+english: Chiying
+tags: people/ATrack
+date-created: 2022-04-01 22:52
+date-modified: 2022-04-01 22:53
+---
 
-[[2022-02-25 (五)]] 在 LINE 上聊，她也在學寫 code，在資策會，討論為什麼要學這個，以及以後想找怎樣的工作，之後可以一起聊聊 RWD 那些的 XD (她的課比較偏前端，jquery 也教)

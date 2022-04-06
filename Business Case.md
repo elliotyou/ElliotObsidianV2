@@ -1,6 +1,7 @@
 ---
-date: 2022-03-12
-tags: reference
+tags: reference/Udemy/PMP/第9節/94 
+date-created: 2022-03-12 07:36
+date-modified: 2022-04-01 22:18
 ---
 
 簡單說就是用來「說服這個 project 為什麼值得做」

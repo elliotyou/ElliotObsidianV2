@@ -1,7 +1,7 @@
 ---
 date: 2022-03-06
 aliases: DailyReport
-tags: inbox
+tags: 未分類
 ---
 
 [[ArchivedDailyReport]]

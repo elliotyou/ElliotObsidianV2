@@ -1,3 +1,9 @@
+---
+tags: reference, productivity/obsidian 
+date-created: 2021-11-16 23:16
+date-modified: 2022-03-31 21:36
+---
+
 搜尋 Youtube → "# 用obsidian的kanban和dataview来管理卡片写作"
 
 有在教安裝

@@ -1,8 +1,9 @@
 ---
 name: 呂國勝
 english: Katsu
-type: ATrack
-tags: people
+tags: people/ATrack 
+date-created: 2021-10-20 19:15
+date-modified: 2022-03-31 22:36
 ---
 
 愛養寵物，養過狗、貓、鳥、鴿、蛇、蛙、守宮、昆蟲……

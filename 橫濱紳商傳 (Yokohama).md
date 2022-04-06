@@ -8,4 +8,4 @@ weight: 3.28
 ---
 
 參考: bgg link
-2021/09/17, Fri 和 Crysta 、Lenny、Katsu 玩 BGA
+2021/09/17, Fri 和 Crysta 、Lanny、Katsu 玩 BGA

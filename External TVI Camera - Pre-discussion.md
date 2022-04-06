@@ -1,7 +1,7 @@
 ---
 date: 2022-03-07
 aliases: External TVI Camera - Pre-discussion
-tags: project
+tags: log/project/MiTAC
 ---
 
 Pre-discussion

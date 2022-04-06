@@ -1,6 +1,7 @@
 ---
-date: 2022-03-20 12:00
-tags: reference, business
+tags: reference, knowledge/business
+date-created: 2022-03-20 17:16
+date-modified: 2022-04-05 21:48
 ---
 
 Bryant 的一位前輩跟他說，一項 Business 要做成，有 3 個要素一定不能少:

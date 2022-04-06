@@ -1,5 +1,5 @@
 ---
-tags: Obsidian, reference 
+tags: productivity/obsidian, reference 
 date-created: 2022-03-30 19:50
 date-modified: 2022-03-30 19:51
 ---

@@ -2175,10 +2175,6 @@ V0559 resemble  (v) --  --  to look like or be like someone or something  像；
 
 ---
 
-V0560 bail  (v) [I] --  INFORMAL  to leave something such as a project, situation, or relationship  放某某人鴿子，臨陣退縮 Many people would have bailed on Renee but he stood by her. I had a travel partner but he bailed and then I didn’t want to go any more. 2021-09-25  8 3
-
----
-
 V0561 blunt (a) --  (RUDE)  saying what you think without trying to be polite or considering other people's feelings  直率的；生硬的；直截了當的 I'll be blunt - that last piece of work you did was terrible. 我就直説了——你創作的最後一件作品糟糕透了。  --  2021-08-22  11  --
 
 ---
@@ -2195,9 +2191,6 @@ V0564 distress  (n) [U] --  --  a feeling of extreme worry, sadness, or pain  �
 
 ---
 
-V0565 sustain (v) --  --  to cause or allow something to continue for a period of time  保持，維持，使持續，使繼續 The economy looks set to sustain its growth into next year.  看來經濟增長會持續到明年 He seems to find it difficult to sustain relationships with women. 他似乎覺得和女人維持關係並不容易。  2021-08-13  11  --
-
----
 
 V0566 contagion (n) --  --  the situation in which a disease is spread by touching someone or something 接觸傳染  The doctor says there's no chance/danger of contagion.  醫生說不存在傳染的可能／危險。 --  2021-08-06  11  --
 
@@ -3463,10 +3456,6 @@ V0882 aspiration  (n) --  --  something that you hope to achieve  志向，抱�
 
 ---
 
-V0883 creditable  (a) --  --  deserving praise, trust, or respect 值得稱讚的；可信的；可敬的 Our team came in a creditable third in the competition. 我們球隊在比賽中得了第三名，很不錯。  The other, less creditable, reason for their decision was personal gain. 他們作出這一決定的另一原因是個人得益，當然這點不太值得稱道。 2021-08-13  11  1
-
----
-
 V0884 an eminent person (a) --  (FAMOUS)  famous, respected, or important 顯赫的、卓越的 an _____ historian 聲名顯赫的歷史學家  --  2021-10-05  8 11
 
 ---
@@ -3831,10 +3820,6 @@ V0975 synergy (n) --  BUSINESS, MEDICAL   specialized the combined power of a gr
 ---
 
 V0976 synthesis (n) --  (MIX) the mixing of different ideas, influences, or things to make a whole that is different, or new  綜合, 融合  He describes his latest record as a _____ of African and Latin rhythms.  他說他最新的唱片「融合了非洲和拉丁音樂」的旋律。 --  2021-09-03  9 3
-
----
-
-V0977 vicious (a) --  --  Vicious people or actions show an intention or wish to hurt someone or something very badly.  邪惡的；惡毒的；兇暴的 a vicious thug 兇殘的暴徒  The police said that this was one of the most vicious attacks they'd ever seen. 警方說這是他們所見過的最為殘暴的襲擊之一。 2021-08-13  11  --
 
 ---
 
@@ -11545,9 +11530,6 @@ V2916 a harrowing scene (a) /ˈher.oʊ.ɪŋ/  --  extremely upsetting because co
 
 ---
 
-V2917 a fanatic (n)[C]  /fəˈnæt̬.ɪk/  disapproving informal a person who has very extreme beliefs that may lead them to behave in unreasonable or violent ways  狂熱者，極端分子  religious fanatics 宗教狂熱分子 --  2021-09-15  9 2
-
----
 
 V2918 crumbs  (n)[C]  /krʌm/  --  a very small piece of bread, cake, or biscuit 麵包屑；糕餅渣 --  --  2021-09-12  10  1
 

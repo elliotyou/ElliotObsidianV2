@@ -1,6 +1,4 @@
 ---
-date: {{DATE}}
-place: {{VALUE}}
-tags: Attractions 
+tags: location/Attractions 
 ---
 

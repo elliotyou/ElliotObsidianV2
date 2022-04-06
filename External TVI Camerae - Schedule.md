@@ -1,7 +1,7 @@
 ---
 date: 2022-03-09
 aliases: External TVI Camerae - Schedule
-tags: project
+tags: log/project/MiTAC
 ---
 
 Rough Schedule - Estimated by 2022-03-10

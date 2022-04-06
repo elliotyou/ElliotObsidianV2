@@ -33,7 +33,7 @@ weight: 3.00
 
 <a href="https://imgur.com/FAm5xKf"><img src="https://i.imgur.com/FAm5xKf.jpg" title="source: imgur.com" width="600px"/></a>
 
-[[2021-10-23 (六)]] Ben, Crystal, Lenny 離職前來我家聚一聚
+[[2021-10-23 (六)]] Ben, Crystal, Lanny 離職前來我家聚一聚
 
 <a href="https://imgur.com/xbruGHF"><img src="https://i.imgur.com/xbruGHF.jpg" title="source: imgur.com" width="600px"/></a>
 

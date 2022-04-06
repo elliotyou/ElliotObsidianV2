@@ -1,6 +1,7 @@
 ---
-date: 2022-03-12
-tags: reference/Udemy/PMP/第9節/94, PMP/Chapters
+tags: reference/Udemy/PMP/第9節/94, knowledge/PMP/Chapters
+date-created: 2022-03-12 07:28
+date-modified: 2022-03-27 23:22
 ---
 
 INPUTS:

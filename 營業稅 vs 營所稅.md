@@ -1,6 +1,7 @@
 ---
-date: 2020-05-02
-tags: reference/未分類
+tags: reference, knowledge/會計
+date-created: 2020-05-02 21:40
+date-modified: 2022-04-01 22:05
 ---
 
 之前 Echo 餐廳只需要報 [[營業稅]]，不用報 [[營所稅]]，因為那間餐廳只是「行號」，還不算「公司」，公司才要報營所稅

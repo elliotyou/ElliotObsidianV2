@@ -7,7 +7,8 @@
 ---
 
 
-[[離職後的我可以幹嘛]]
+[[銳能資料]]
+
 
 ### Goals
 4. [[An Entry Website Developer]] → 背單字系統

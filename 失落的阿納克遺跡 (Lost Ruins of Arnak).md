@@ -8,7 +8,7 @@ weight: 2.86
 ---
 
 參考: bgg link
-[[2022-01-14 (五)]] 在BGA和Ben, Crystal, Lenny
+[[2022-01-14 (五)]] 在BGA和Ben, Crystal, Lanny
 
 <a href="https://imgur.com/MN3aSBb"><img src="https://i.imgur.com/MN3aSBb.jpg" title="source: imgur.com" /></a>
 

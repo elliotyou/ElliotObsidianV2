@@ -1,7 +1,7 @@
 ---
 date: 2022-03-07
 aliases: Smart Cable - ROI Data
-tags: project
+tags: log/project/MiTAC
 ---
 
 Detailed ROI

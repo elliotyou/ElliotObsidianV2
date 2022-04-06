@@ -1,7 +1,5 @@
 ---
-date: {{date}}
-name: 孔文暐
-english: Bryant Kung
-type: AVTECH
+name: 
+english: 
+tags: {{VALUE:people/AVTECH,people/Old-Friend,people/ATrack,people/MiTAC,people/family,people/Others}}
 ---
-

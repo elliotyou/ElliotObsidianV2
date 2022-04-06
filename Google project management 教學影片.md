@@ -1,5 +1,5 @@
 ---
-tags: reference/Youtube/Google-Project-Management , PMP
+tags: reference/Youtube/Google-Project-Management , knowledge/PMP
 date-created: 2022-03-31 12:48:12
 date-modified: 2022-03-31 12:48:57
 ---

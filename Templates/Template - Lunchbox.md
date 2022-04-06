@@ -1,6 +1,4 @@
 ---
-date: {{DATE}}
-place: {{VALUE}}
-tags: Lunchbox 
+tags: location/lunchbox 
 ---
 

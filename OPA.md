@@ -1,6 +1,7 @@
 ---
-date: 2022-03-12 12:00
-tags: reference/Udemy/PMP/第7節/68, PMP/IO
+tags: reference/Udemy/PMP/第7節/68, knowledge/PMP/IO
+date-created: 2022-03-12 05:54
+date-modified: 2022-03-27 23:18
 ---
 
 OPA (Organizational Process Assets)

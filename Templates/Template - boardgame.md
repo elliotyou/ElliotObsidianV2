@@ -1,10 +1,8 @@
 ---
-date: {{date}}
-tags: boardgame/健興
+tags: {{VALUE:boardgame/健興,boardgame/bga,boardgame/elliot}}
 rate: 
 min-player: 
 max-player: 
 weight: 
 ---
 
-參考: bgg link

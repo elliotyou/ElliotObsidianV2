@@ -1,7 +1,7 @@
 ---
 date: 2022-03-07
 aliases: External USB Camera - Purposes
-tags: project
+tags: log/project/MiTAC
 ---
 
 External In-cabin 目的:

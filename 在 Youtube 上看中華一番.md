@@ -1,7 +1,7 @@
 ---
-tags: funny, reference/未分類 
+tags: knowledge/funny, reference/Cartoon/中華一番
 date-created: 2022-03-30 19:37
-date-modified: 2022-03-30 19:38
+date-modified: 2022-04-05 21:47
 ---
 
 看旁邊的即時留言，會看到笑屎 😂😂😂😂

@@ -1,7 +1,7 @@
 ---
-date: 2022-03-06
-aliases: Templates
-tags:
+tags: reference , productivity/obsidian 
+date-created: 2022-03-04 21:57
+date-modified: 2022-03-31 21:37
 ---
 
 搜尋 Youtube 教學
