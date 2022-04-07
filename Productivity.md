@@ -5,6 +5,7 @@ tags:
 
 [[Obsidian]]
 
+[[Markdown 語法]]
 
 MicroSoft Office
 - Word
@@ -27,7 +28,7 @@ Productivity -  筆記工具
 - [[學code寫筆記的觀念]]
 - [[Obsidian]]
 - [[Zettelkasten筆記法]]
-- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
 - 子彈筆記法 (bullet journal)
 - Evernote插件，擷取網站
 
