@@ -1,7 +1,9 @@
 
 
 [[Obsidian - Markdown Table Editor]]
+
 [[Obsidian 的任務管理技巧彙總]]
+
 [[Obsidian Anki  外掛整合]]
 
 被卡在置頂怎麼辦？ 能不能置頂不是 Obsidian 自己的設定而是 Windows 的設定，可能是不小心 enable 到某個置頂功能，最快方式就是重灌 Obsidian
